@@ -10,7 +10,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "eslint src public && react-scripts test --env=jsdom",
+    "test-dev": "eslint src public && react-scripts test --env=jsdom",
+    "lint": "eslint src public",
     "eject": "react-scripts eject"
   }
 }
