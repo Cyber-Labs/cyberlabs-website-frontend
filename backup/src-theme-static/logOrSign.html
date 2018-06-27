@@ -5,7 +5,7 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Cyber Labs | Day 2 puzzle</title>
+    <title>Projects</title>
     <meta name="description" content="Cyber Labs ">
     <meta name="keywords" content="innovation, student club, projects, hardware, consulting, students, technology, design">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -56,12 +56,12 @@
 <body>
     <!--Preloader-->
 
-    <div class="preloader" id="preloader">
+    <!-- <div class="preloader" id="preloader">
         <div class="item">
             <div class="spinner">
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--Header-->
     <header class="boxed" id="header-white">
@@ -141,95 +141,133 @@
         </div>
 
     </header>
+<!-- 
+<div class="opacity-nav">
+
+        <div class="menu-index" id="buttons" style="z-index:999999">
+        <i class="fa  fa-close"></i>
+        </div>
+
+    <ul class="menu-fullscreen">
+      <li><a class="ajax-link" href="index.html">Home</a></li>
+      <li><a class="ajax-link" href="projects.html">Projects</a></li>
+      <li><a class="ajax-link" href="about-us.html">About us</a></li>
+      <li><a class="ajax-link" href="contact.html">Contact</a></li>
+    </ul>
+
+</div> -->
 
 
+  <!--Header-->
+  <!-- <header id="fullscreen">
+    
+      <div class="logo" id="full"><a class="ajax-link" href="index.html">THOMSOON</a></div>
+      
+        <div class="menu-index" id="button">
+        <i class="fa fa-bars"></i>
+        </div>
 
+  </header> -->
 
-    <div class="clear"></div>
+  <div class="clear"></div>
 
-    <!--Content-->
+  <!--Content-->
 
-    <div class="content" id="ajax-content">
-
+  <div class="content" id="ajax-content">
 
         <div class="text-intro">
 
-            <h1>Puzzle, day 2.</h1>
+          <h1>Sign Up</h1>
+          <p>Sign up for a Cyber Labs member space to look up and collaborate on projects and ideas.</p>
 
-
-            <div class="one-column">
-                <p>Question title.</p>
-            </div>
-
-
-            <div class="two-column">
-                <p>Question text.</p>
-            </div>
-
-            <div class="clear"></div>
-
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-
-
-
-
-
+          <form method="post" action="?" data-jkit="[form:validateonly=true]">
+          
+          <div class="contact-one">
+            <p>
+              <label for="miniusername">First name:</label><br />
+              <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+            </p>
+          </div>  
+          
+          <div class="contact-two">  
+          <p>
+            <label for="miniusername">Last name:</label><br />
+            <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+          </p>
+            
+          </div>  
+          
+          <div class="contact-three">  
+          <p>
+            <label for="miniusername">Username:</label><br />
+            <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+          </p>
+          </div>
+          <div class="contact-one">
+            <p>
+              <label for="miniemail">E-mail:</label><br />
+              <input name="miniemail" id="miniemail" data-jkit="[validate:required=true;strength=50;error=Please write your email]">
+            </p>
+          </div>  
+          
+          <div class="contact-two">  
+            <p>
+              <label for="miniusername">Password:</label><br />
+              <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+            </p>
+          </div>  
+          
+          <div class="contact-three">  
+            <p>
+              <label for="miniusername">Repeat password:</label><br />
+              <input name="miniusername" id="miniusername" data-jkit="[validate:required=true;min=3;max=10;error=Please enter your username (3-10 characters)]">
+            </p>
+          </div>            
+            
+            <p>
+            </p>
+          </form>
+          
+          
         </div>
-
-    </div>
-
-
-
-    <!--Home Sidebar-->
-
-    <div id="ajax-sidebar"></div>
+        
+	<br/><br/><br/><br/><br/><br/><br/><br/>      
+  </div>
 
 
 
-    <!--Footer-->
-    <footer id="footer-box">
-        <div class="footer-margin">
-            <div class="copyright" id="footer-left">© Copyright 2016 cyberlabs.club. All Rights Reserved.</div>
-        </div>
-        <p class="developer-details" style="text-align:right; width:95%;">Developed by
-            <a href="http://mohitchawla.in/">eM</a> |
-            <a href="https://www.fook.com/kriti96.singh">Kay</a>
-        </p>
 
-    </footer>
+  <!--Home Sidebar-->
+
+<div id="ajax-sidebar"></div>
 
 
-    <!--Scripts-->
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/modernizr.custom.42534.js" type="text/javascript"></script>
-    <script src="js/jquery.waitforimages.js" type="text/javascript"></script>
-    <script src="js/typed.js" type="text/javascript"></script>
-    <script src="js/masonry.pkgd.min.js" type="text/javascript"></script>
-    <script src="js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-    <script src="js/jquery.jkit.1.2.16.min.js"></script>
+<?php
+  drawFooter();
+?>
 
-    <script src="js/script.js" type="text/javascript"></script>
 
-    <script>
-        $('#button, #buttons').on('click', function () {
-            $(".opacity-nav").fadeToggle("slow", "linear");
-            // Animation complete.
-        });
-    </script>
+<!--Scripts-->
+
+  <script src="js/jquery.min.js"></script>
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/modernizr.custom.42534.js" type="text/javascript"></script>
+  <script src="js/jquery.waitforimages.js" type="text/javascript"></script>
+  <script src="js/typed.js" type="text/javascript"></script>
+  <script src="js/masonry.pkgd.min.js" type="text/javascript"></script>  
+  <script src="js/imagesloaded.pkgd.min.js" type="text/javascript"></script>    
+  <script src="js/jquery.jkit.1.2.16.min.js"></script>
+ 
+  <script src="js/script.js" type="text/javascript"></script>
+  
+	<script>
+    $('#button, #buttons').on('click', function() {
+      $( ".opacity-nav" ).fadeToggle( "slow", "linear" );
+    // Animation complete.
+    });
+  </script>
 
 
 </body>
-
 </html>
