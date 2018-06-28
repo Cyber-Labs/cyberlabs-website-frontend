@@ -8,6 +8,10 @@
 
 # production
 /build
+.dist
+
+#Editor configs
+.vscode
 
 # misc
 .DS_Store
