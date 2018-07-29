@@ -8,22 +8,23 @@ Official Repo of CyberLabs Website frontend.
 **Install Node.js/NPM from**: https://nodejs.org/en/
 **Install Yarn**: Run `sudo npm i -g yarn` in linux or `npm i -g yarn` in windows.
 
+### Install the dependencies:
 `cd` in the cloned directory and install the dependencies using this command
 ```bash
 yarn install
 ```
 
-To start run in development mode run
+### Run in development mode:
 ```bash
 yarn start
 ```
 
-To run tests, use
+### Run tests:
 ```bash
 yarn test
 ```
 
-To build the optimized version suitable for production, run
+### Production:
 ```bash
 yarn build
 ```
