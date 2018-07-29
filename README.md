@@ -1,14 +1,16 @@
 Official Repo of CyberLabs Website frontend.
 
+### Prerequisites:
+1. Node.js
+2. NPM
+3. Yarn
 
-Note that you need to have installed yarn globally first. If you have not installed yarn, please install yarn using
-```bash
-npm i -g yarn
-```
+**Install Node.js/NPM from**: https://nodejs.org/en/
+**Install Yarn**: Run `sudo npm i -g yarn` in linux or `npm i -g yarn` in windows.
 
-Install the dependencies using this command
+`cd` in the cloned directory and install the dependencies using this command
 ```bash
-yarn
+yarn install
 ```
 
 To start run in development mode run
