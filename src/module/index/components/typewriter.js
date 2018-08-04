@@ -1,60 +1,54 @@
 import React from 'react';
-
-
+import 'style.css';
 export class Typewriter extends React.Component {
-
-    renderText() {
-        var dataText = ["Hackers.", "Designers.", "Engineers.", "Problem Solvers."];
-
-        // type one text in the typwriter
-        // keeps calling itself until the text is finished
-        function typeWriter(text, i, fnCallback) {
-            // chekc if text isn't finished yet
-            if (i < (text.length)) {
-                // add next character to h1
-                document.querySelector("h1.typewrite").innerHTML = text.substring(0, i + 1) + '<span aria-hidden="true"></span>';
-
-                // wait for a while and call this function again for next character
-                setTimeout(function () {
-                    typeWriter(text, i + 1, fnCallback)
-                }, 100);
-            }
-            // text finished, call callback if there is a callback function
-            else if (typeof fnCallback == 'function') {
-                // call callback after timeout
-                setTimeout(fnCallback, 700);
-            }
-        }
-        // start a typewriter animation for a text in the dataText array
-        function StartTextAnimation(i) {
-            if (typeof dataText[i] == 'undefined') {
-                setTimeout(function () {
-                    StartTextAnimation(0);
-                }, 5000);
-            }
-            // check if dataText[i] exists
-            if (i < dataText[i].length) {
-                // text exists! start typewriter animation
-                typeWriter(dataText[i], 0, function () {
-                    // after callback (and whole text has been animated), start next text
-                    StartTextAnimation(i + 1);
-                });
-            }
-        }
-        // start the text animation
-        StartTextAnimation(0);
+    constructor(props){
+        super(props);
+        this.state= {
+            dataText : ["Hackers.", "Designers.", "Engineers.", "Problem Solvers."],
+            currentWord:"CyberLabs",
+            loopCounter:0,
+            onScreen:"hi",
+        };
     }
-
-
+    componentDidMount(){
+        this.startPrinting();
+    }
+    startPrinting(){
+        let loopCounter=this.state.loopCounter;
+        console.log(this.state.dataText[loopCounter]);
+        this.setState({currentWord:this.state.dataText[loopCounter]});
+        let i=0;
+        let text=this.state.currentWord;
+        let period=150;
+        let j=text.length-1;
+        let interval=setInterval(()=>{
+            if(i<text.length){
+            this.setState({onScreen:text.substring(0,i+1)});
+            i++;
+            }
+            else if(i===text.length && j>=-1){
+              period=10;
+              this.setState({onScreen:text.substring(0,j+1)});
+              j--;
+            }
+            else{
+                clearInterval(interval);
+                if(this.state.loopCounter<3)
+                    this.setState({loopCounter:loopCounter+1,});
+                else
+                    this.setState({loopCounter:0});
+                this.startPrinting();
+            }
+        },period);
+    }
     render(){
         return(
             <div class="text-intro" id="site-type">
                 <h1>We are</h1>
                 <h1 class="typewrite">
-                    {this.renderText()}
+                    {this.state.onScreen}<span className="typed-cursor">|</span>
                 </h1>
             </div>
         );
     }
-
 }
