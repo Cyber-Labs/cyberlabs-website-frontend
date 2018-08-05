@@ -12,7 +12,7 @@ class Header extends Component {
             </div>
             <ul className="header-nav">
               <li>
-                <Link className="ajax-link" to="#">People</Link>
+                <Link className="ajax-link" to="#">People <i className="fas fa-angle-down"></i></Link>
                 <ul>
                   <li>
                     <Link to="members">Members</Link>
@@ -32,7 +32,7 @@ class Header extends Component {
               </li>
               {/* blog */}
               <li>
-                <a to="">Events</a>
+                <a className="ajax-link" href="">Events <i className="fas fa-angle-down"></i> </a>
                 <ul>
                   <li>
                     <Link to="comingSoon">[.dotMatrix]</Link>
@@ -60,13 +60,13 @@ class Header extends Component {
             <ul className="social-icon">
               <div className="social-index">
                 <li>
-                  <a href="https://www.facebook.com/labscyber">
-                    <i className="fa fa-facebook">f</i>
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/labscyber">
+                    <i className="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/madepossibleincyberlabs/">
-                    <i className="fa fa-instagram">t</i>
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/madepossibleincyberlabs/">
+                    <i className="fab fa-instagram"></i>
                   </a>
                 </li>
               </div>

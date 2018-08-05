@@ -7,7 +7,7 @@ class Contact extends Component {
                 <div className="content" id="ajax-content">
         <div className="text-intro">
           <h1>Contact</h1>
-          <p>Please reach out to us on <a href="https://www.facebook.com/labscyber" style={{fontSize: 20}}><i className="fa fa-facebook" /></a> Facebook <br />or drop a mail at cyberlabs.ism@gmail.com</p>
+          <p>Please reach out to us on <a href="https://www.facebook.com/labscyber" style={{fontSize: 20, color: "black"}}><i className="fab fa-facebook" /></a> Facebook <br />or drop a mail at cyberlabs.ism@gmail.com</p>
           {/*           <form name = "filepost" method = "POST" action = "file.php" enctype = "multipart/form-data" id = "file">
                    Name: <input name = "from" type = "text" id = "from" size = "30">
                    Age: <input name = "emaila"  type = "text" id = "emaila" size = "30">
