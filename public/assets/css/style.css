@@ -231,7 +231,8 @@ header.boxed{
 	-moz-transition: background 0.2s ease-in;
 	-ms-transition: background 0.2s ease-in;
 	-o-transition: background 0.2s ease-in;
-	transition: background 0.2s ease-in; 
+  transition: background 0.2s ease-in;   
+  box-shadow: 0 1px 22px -8px #888888;
 }
 
 header.boxed .header-margin{
