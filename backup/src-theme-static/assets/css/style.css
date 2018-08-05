@@ -585,6 +585,8 @@ li.grid-item{
   position:relative;
   float:left;
   padding:15px;
+  overflow: hidden;
+  text-align: center;
 }
 
 .grid-hover{
