@@ -11,6 +11,7 @@ import Puzzle from "./module/events/components/Puzzle";
 import About from "./module/about/components/About";
 import Contact from "./module/contact/components/Contact";
 import Publication from "./module/publication/components/Publication";
+import ComingSoon from "./module/comingSoon/components/ComingSoon";
 import "./App.css";
 
 class App extends Component {
@@ -29,6 +30,7 @@ class App extends Component {
             <Route exact path="/puzzle" component={Puzzle} />
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/publication" component={Publication} />
+            <Route exact path="/comingSoon" component={ComingSoon} />
             <Footer />
           </div>
         </BrowserRouter>

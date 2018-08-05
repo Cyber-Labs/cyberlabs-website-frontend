@@ -1,4 +1,5 @@
-import React, {Component} from 'react';
+import React, {Component} from "react";
+import {Link} from "react-router-dom"
 class Header extends Component {
   render() {
     return (
@@ -7,48 +8,48 @@ class Header extends Component {
           <div className="header-margin">
             <div className="logo">
               <img src="assets/img/favico.png" width="60px" height="60px" style={{float:"left", paddingTop:"10px"}} />
-              <a href="index" style={{paddingLeft: "15px"}}>Cyber Labs</a>
+              <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>
             </div>
             <ul className="header-nav">
               <li>
-                <a className="ajax-link" href="#">People</a>
+                <Link className="ajax-link" to="#">People</Link>
                 <ul>
                   <li>
-                    <a href="members">Members</a>
+                    <Link to="members">Members</Link>
                   </li>
                   <li>
-                    <a href="advisors">Advisors</a>
+                    <Link to="advisors">Advisors</Link>
                   </li>
                   {/* had className="ajax-link" */}
                   <li>
-                    <a href="management">Management</a>
+                    <Link to="management">Management</Link>
                   </li>
                   {/* had className="ajax-link" */}
                 </ul>
               </li>
               <li>
-                <a href="comingSoon">Blog</a>
+                <Link to="comingSoon">Blog</Link>
               </li>
               {/* blog */}
               <li>
-                <a href="Events">Events</a>
+                <a to="">Events</a>
                 <ul>
                   <li>
-                    <a href="dotmatrix">[.dotMatrix]</a>
+                    <Link to="comingSoon">[.dotMatrix]</Link>
                   </li>
                   <li>
-                    <a href="comingSoon">Sessions</a>
+                    <Link to="comingSoon">Sessions</Link>
                   </li>
                   <li>
-                    <a href="comingSoon">Downloads</a>
+                    <Link to="comingSoon">Downloads</Link>
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="about">About</a>
+                <Link to="about">About</Link>
               </li>
               <li>
-                <a href="contact">Contact</a>
+                <Link to="contact">Contact</Link>
               </li>
               {/* Apart */}
               {/* <li className="pull-right"><a href="comingSoon" style={{color:#111;">Calendar</a></li> */}
@@ -60,12 +61,12 @@ class Header extends Component {
               <div className="social-index">
                 <li>
                   <a href="https://www.facebook.com/labscyber">
-                    <i className="fa fa-facebook"></i>
+                    <i className="fa fa-facebook">f</i>
                   </a>
                 </li>
                 <li>
                   <a href="https://www.instagram.com/madepossibleincyberlabs/">
-                    <i className="fa fa-instagram"></i>
+                    <i className="fa fa-instagram">t</i>
                   </a>
                 </li>
               </div>
