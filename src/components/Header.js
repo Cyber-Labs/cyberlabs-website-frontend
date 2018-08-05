@@ -32,7 +32,7 @@ class Header extends Component {
               </li>
               {/* blog */}
               <li>
-                <a className="ajax-link" href="">Events <i className="fas fa-angle-down"></i> </a>
+                <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fas fa-angle-down"></i> </a>
                 <ul>
                   <li>
                     <Link to="comingSoon">[.dotMatrix]</Link>
