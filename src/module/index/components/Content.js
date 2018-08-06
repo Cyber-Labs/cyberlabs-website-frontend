@@ -1,14 +1,11 @@
 import React , { Component } from "react";
-
+import Typewriter from "./Typewriter"
 class Content extends Component {
     render(){
         return (
             <div className="content" id="ajax-content">
               <div className="text-intro" id="site-type">
-                <h1>We are</h1>
-                <h1 className="typewrite">
-                  <span>hackers </span>
-                </h1>
+                <Typewriter />
                 <p>We create products that solve real problems! Whatever your major is, whatever your age be, whatever you do, doesn't
                   matter!
                 </p>

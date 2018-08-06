@@ -1,11 +1,10 @@
 import React,{Component} from "react";
-import "../../../../public/assets/css/style.css";
 class Typewriter extends Component {
     constructor(props){
         super(props);
         this.state= {
             dataText : ["Hackers.", "Designers.", "Engineers.", "Problem Solvers."],
-            currentWord:"CyberLabs",
+            currentWord:"CyberLabs.",
             loopCounter:0,
             onScreen:"hi",
         };
@@ -15,7 +14,6 @@ class Typewriter extends Component {
     }
     startPrinting(){
         let loopCounter=this.state.loopCounter;
-        console.log(this.state.dataText[loopCounter]);
         this.setState({currentWord:this.state.dataText[loopCounter]});
         let i=0;
         let text=this.state.currentWord;
@@ -43,7 +41,7 @@ class Typewriter extends Component {
     }
     render(){
         return(
-            <div class="text-intro" id="site-type">
+            <div>
                 <h1>We are</h1>
                 <h1 class="typewrite">
                     {this.state.onScreen}<span className="typed-cursor">|</span>
