@@ -13,7 +13,7 @@ class Contact extends Component {
                 style={{
                 fontSize: 20,
                 color: "black"
-              }}><i className="fab fa-facebook"/></a>
+              }}> <i className="fab fa-facebook"/> </a>
               Facebook
               <br/>or drop a mail at cyberlabs.ism@gmail.com</p>
             {/*           <form name = "filepost" method = "POST" action = "file.php" enctype = "multipart/form-data" id = "file">
