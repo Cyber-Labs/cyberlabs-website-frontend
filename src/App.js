@@ -1,7 +1,10 @@
 import React, { Component } from "react";
+
 import { BrowserRouter, Route } from "react-router-dom";
+
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+
 import Index from "./module/index/components/Index";
 import Member from "./module/member/components/Member";
 import Management from "./module/people/components/Management";
@@ -12,6 +15,7 @@ import About from "./module/about/components/About";
 import Contact from "./module/contact/components/Contact";
 import Publication from "./module/publication/components/Publication";
 import ComingSoon from "./module/comingSoon/components/ComingSoon";
+
 import "./App.css";
 
 class App extends Component {
