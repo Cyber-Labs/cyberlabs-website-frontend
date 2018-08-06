@@ -11,10 +11,10 @@ class Member extends Component {
           </div>
         </div>
         <ul className="portfolio-grid" id="portfolio-slidebar">
-          <div class="row"> 
-          {/* COLUMN 1 */}
+          <div class="row">
+            {/* COLUMN 1 */}
             <div class="column">
-                <li
+              <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
                 <img src="assets/img/large/amankrishna.jpg"/>
@@ -170,10 +170,10 @@ class Member extends Component {
                   </div>
                 </a>
               </li>
-            </div> 
+            </div>
             {/* COLUMN */}
             <div class="column">
-              
+
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
@@ -240,21 +240,10 @@ class Member extends Component {
                   </div>
                 </a>
               </li>
-              
 
             </div>
           </div>
 
-
-
-
-
-
-          
-
-          
-
-          
         </ul>
       </div>
     )
