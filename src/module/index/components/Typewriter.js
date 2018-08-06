@@ -1,6 +1,6 @@
-import React from "react";
+import React,{Component} from "react";
 import "../../../../public/assets/css/style.css";
-class Typewriter extends React.Component {
+class Typewriter extends Component {
     constructor(props){
         super(props);
         this.state= {
