@@ -6,9 +6,9 @@ class Portfolio extends Component {
       <div id='Portfolio'>
         {/*!-- PORTFOLIO GRID -->*/}
         <ul className="portfolio-grid" id="portfolio-sidebar">
-          <div class="row">
+          <div className="row">
             {/* COLUMN 1 */}
-            <div class="column">
+            <div className="column">
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
@@ -58,7 +58,7 @@ class Portfolio extends Component {
               </li>
             </div>
             {/* COLUMN 2 */}
-            <div class="column">
+            <div className="column">
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
