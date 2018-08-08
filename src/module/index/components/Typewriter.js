@@ -43,7 +43,7 @@ class Typewriter extends Component {
         return(
             <div>
                 <h1>We are</h1>
-                <h1 class="typewrite">
+                <h1 className="typewrite">
                     {this.state.onScreen}<span className="typed-cursor">|</span>
                 </h1>
             </div>

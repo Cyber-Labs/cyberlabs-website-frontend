@@ -6,6 +6,7 @@ class Header extends Component {
       <div id='Header'>
         <header className="boxed" id="header-white">
           <div className="header-margin">
+            {/* <span><i class="fas fa-bars"></i></span> */}
             <div className="logo">
               <img src="assets/img/favico.png" width="60px" height="60px" style={{float:"left", paddingTop:"10px"}} />
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>

@@ -1,4 +1,12 @@
 @media all and (max-width: 1330px) and (min-width: 1180px) {
+  ul.header-nav{
+    /* width:50%; */
+    display: none;
+  
+  }
+  ul.social-icon{
+    display: none;
+  }
 
   header.boxed .header-margin{
     width:1000px;
@@ -53,6 +61,14 @@
 
 @media all and (max-width: 1179px) and (min-width: 1024px) {
 
+  ul.header-nav{
+    /* width:50%; */
+    display: none;
+  
+  }
+  ul.social-icon{
+    display: none;
+  }
 
   header.boxed .header-margin{
     width:800px;
@@ -106,6 +122,14 @@
 
 @media all and (max-width: 1023px) and (min-width: 769px) {
 
+  ul.header-nav{
+    /* width:50%; */
+    display: none;
+  
+  }
+  ul.social-icon{
+    display: none;
+  }
 
   header.boxed .header-margin{
     width:600px;
@@ -137,7 +161,6 @@
   
   ul.header-nav{
     width:50%;
-  
   }
   
   header li > a{
@@ -208,8 +231,12 @@
   }
   
   ul.header-nav{
-    width:50%;
+    /* width:50%; */
+    display: none;
   
+  }
+  ul.social-icon{
+    display: none;
   }
   
   header li > a{
@@ -238,7 +265,7 @@
   }
 
   header.boxed{
-    display:none !important;
+    display:block !important;
   }  
   
   #footer-left{text-align:center;}
@@ -268,6 +295,14 @@
 
 @media all and (max-width: 480px) and (min-width: 320px) {
 
+  ul.header-nav{
+    /* width:50%; */
+    display: none;
+  
+  }
+  ul.social-icon{
+    display: none;
+  }
 
   header.boxed .header-margin{
     width:280px;
@@ -325,7 +360,7 @@
   }
   
   header.boxed{
-    display:none !important;
+    display:block;
   }  
   
   #footer-left{text-align:center;}
