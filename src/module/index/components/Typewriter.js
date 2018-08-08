@@ -1,4 +1,5 @@
 import React,{Component} from "react";
+let interval;
 class Typewriter extends Component {
     constructor(props){
         super(props);
@@ -12,6 +13,9 @@ class Typewriter extends Component {
     componentDidMount(){
         this.startPrinting();
     }
+    componentWillUnmount(){
+        clearInterval(interval);
+    }
     startPrinting(){
         let loopCounter=this.state.loopCounter;
         this.setState({currentWord:this.state.dataText[loopCounter]});
@@ -19,7 +23,7 @@ class Typewriter extends Component {
         let text=this.state.currentWord;
         let period=150;
         let j=text.length-1;
-        let interval=setInterval(()=>{
+        interval=setInterval(()=>{
             if(i<text.length){
             this.setState({onScreen:text.substring(0,i+1)});
             i++;
