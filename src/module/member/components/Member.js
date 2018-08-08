@@ -87,7 +87,7 @@ class Member extends Component {
 
             </div>
             {/* COLUMN 2 */}
-            <div class="column">
+            <div className="column">
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
