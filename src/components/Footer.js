@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <footer id="footer-box">
         <div className="footer-margin">
-          <div className="copyright" id="footer-left">© Copyright 2016 cyberlabs.club. All Rights Reserved.</div>
+          <div className="copyright" id="footer-left">© Copyright 2018 cyberlabs.club. All Rights Reserved.</div>
         </div>
         <p
           className="developer-details"
