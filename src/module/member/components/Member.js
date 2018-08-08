@@ -11,9 +11,9 @@ class Member extends Component {
           </div>
         </div>
         <ul className="portfolio-grid" id="portfolio-slidebar">
-          <div class="row">
+          <div className="row">
             {/* COLUMN 1 */}
-            <div class="column">
+            <div className="column">
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
@@ -172,7 +172,7 @@ class Member extends Component {
               </li>
             </div>
             {/* COLUMN */}
-            <div class="column">
+            <div className="column">
 
               <li
                 className="grid-item"
