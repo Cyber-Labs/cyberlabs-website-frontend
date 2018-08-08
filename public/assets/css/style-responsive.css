@@ -42,6 +42,11 @@
     width:1030px;
 
   }
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 312px;
+  }
 
   .grid-hover, li.grid-item, li.grid-item img{
     width:312px;
@@ -95,6 +100,12 @@
 
     width:830px;
 
+  }
+
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 246px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
@@ -163,8 +174,14 @@
     width:630px;
   }
 
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 315px;
+  }
+
   .grid-hover, li.grid-item, li.grid-item img{
-    width:282px;
+    width:285px;
   }
 
 }
@@ -259,6 +276,12 @@
     width:430px;
   }
 
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width:400px;
+  }
+
   .grid-hover, li.grid-item, li.grid-item img{
     width:400px;
   }
@@ -266,7 +289,7 @@
 }
 
 
-@media all and (max-width: 480px) and (min-width: 320px) {
+@media all and (max-width: 480px) and (min-width: 260px) {
 
 
   header.boxed .header-margin{
@@ -349,6 +372,12 @@
 
   .portfolio-grid{
     width:310px;
+  }
+
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 280px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{

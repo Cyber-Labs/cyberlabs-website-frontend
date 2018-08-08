@@ -615,7 +615,7 @@ PORTFOLIO GRID
 #ajax-content{width:100%;}
 
 .portfolio-grid{
-  width:1170px;
+  width:90%;
   position:relative;
   /*margin: 30px auto;*/
   margin: 10px auto;
@@ -648,6 +648,13 @@ li.grid-item{
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in; 
+}
+
+
+.grid-responsive{
+  text-align:center;
+  float: left;
+  width: 33%;
 }
 
 .grid-hover:hover{
@@ -876,7 +883,14 @@ HELPER CSS
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
+  .column {
+    flex: 40%;
+    max-width: 40%;
+  }
+}
+
+@media screen and (max-width: 768px) {
   .column {
     flex: 50%;
     max-width: 50%;
