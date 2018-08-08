@@ -43,6 +43,11 @@
 
   }
 
+  div.grid-img{
+    width: 312px;
+    float: left;
+  }
+
   .grid-hover, li.grid-item, li.grid-item img{
     width:312px;
   }
@@ -97,7 +102,11 @@
 
   }
 
-  .grid-hover, li.grid-item, li.grid-item img{
+  .grid-img{
+    width: 246px;
+    float: left;
+  }
+  .grid-hover, li.grid-item, li.grid-item img,{
     width:246px;
   }
 
@@ -161,6 +170,11 @@
 
   .portfolio-grid{
     width:630px;
+  }
+
+  div.grid-img{
+    width: 282px;
+    float: left;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
@@ -259,6 +273,11 @@
     width:430px;
   }
 
+  .grid-img{
+    width: 430px;
+    float: left;
+  }
+
   .grid-hover, li.grid-item, li.grid-item img{
     width:400px;
   }
@@ -349,6 +368,11 @@
 
   .portfolio-grid{
     width:310px;
+  }
+
+  .grid-img{
+    width: 280px;
+    float: left;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
