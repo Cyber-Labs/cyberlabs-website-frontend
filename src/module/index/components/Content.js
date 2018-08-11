@@ -11,11 +11,11 @@ class Content extends Component {
                 </p>
                 <p>Hop on, if you have that "keeda" of invention.</p>
                 <div>
-                  <a href="projects" style={{width:"40%",display:"inline-block"}}>
+                  <a class="indexLinks" href="comingSoon" style={{width:"40%"}}>
                     <h3 className="card-heading">See projects ></h3>
                   </a>
-                  <a href="logOrSign" style={{width:"40%",display:"inline-block"}}>
-                    <h3 className="card-heading">Login or Sign up ></h3>
+                  <a class="indexLinks" href="comingSoon" style={{width:"40%"}}>
+                    <h3 className="card-heading">See Past Internships ></h3>
                   </a>
                 </div>
               </div>

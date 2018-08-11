@@ -1,4 +1,4 @@
-import React, {Component} from 'react' ;
+import React, {Component} from "react" ;
 
 class Publication extends Component {
     render(){
@@ -15,7 +15,7 @@ class Publication extends Component {
                       (Special Issue on High Performance Computing and its Applications) </div>
                   </div>
                   <h3>The Bit Theories:</h3>
-                  <a href="https://thebittheories.com/" target="_blank"><div id="posts-header" style={{width: '50%', height: 'auto'}}>
+                  <a href="https://thebittheories.com/" target="_blank"><div id="posts-header" style={{width: "50%", height: "auto"}}>
                   <img src="assets/img/tbt_pic.png" /></div></a>
                   <p>Learn esoteric Computer Science concepts via short articles under 3-minute reads on the go!</p>
                   <p>Be it programming, hardware, software, data science or algorithms, our members tinker in their projects and let you know the must-haves to save your time!</p>

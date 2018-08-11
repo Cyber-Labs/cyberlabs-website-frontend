@@ -74,7 +74,7 @@ class Portfolio extends Component {
               <li
                 className="grid-item"
                 data-jkit="[show:delay=3000;speed=500;animation=fade]">
-                <img src="assets/img/large/mohit.png"/>
+                <img src="assets/img/mohit.png"/>
                 <a className="ajax-link" href="comingSoon">
                   <div className="grid-hover">
                     <p className="card-heading">"It was THE confluence of designers, innovators and techies!"</p>
