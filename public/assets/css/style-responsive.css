@@ -1,15 +1,15 @@
-@media all and (max-width: 1330px) and (min-width: 1180px) {
+@media all and (min-width: 1180px) {
   ul.header-nav{
     /* width:50%; */
-    display: none;
+    display: block;
   
   }
   ul.social-icon{
-    display: none;
+    display: block;
   }
 
   header.boxed .header-margin{
-    width:1000px;
+    
   }
 
   .content .text-intro{
@@ -22,6 +22,10 @@
 
   .content .text-intro h1, .content .text-intro p{
     width:60%;
+  }
+
+  .indexLinks {
+    display: inline-block
   }
 
   #full{
@@ -53,7 +57,6 @@
   .grid-responsive{
     margin-top: 10px;
     float: left;
-    width: 312px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
@@ -66,13 +69,17 @@
 
 @media all and (max-width: 1179px) and (min-width: 1024px) {
 
+  .indexLinks {
+    display: inline-block
+  }
+
   ul.header-nav{
     /* width:50%; */
-    display: none;
+    display: block;
   
   }
   ul.social-icon{
-    display: none;
+    display: block;
   }
 
   header.boxed .header-margin{
@@ -133,13 +140,17 @@
 
 @media all and (max-width: 1023px) and (min-width: 769px) {
 
+  .indexLinks {
+    display: inline-block
+  }
+
   ul.header-nav{
     /* width:50%; */
-    display: none;
+    display: block;
   
   }
   ul.social-icon{
-    display: none;
+    display: block;
   }
 
   header.boxed .header-margin{

@@ -28,9 +28,9 @@ class Header extends Component {
                   {/* had className="ajax-link" */}
                 </ul>
               </li>
-              <li>
+              {/* <li>
                 <Link to="comingSoon">Blog</Link>
-              </li>
+              </li> */}
               {/* blog */}
               <li>
                 <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fas fa-angle-down"></i> </a>
@@ -38,9 +38,9 @@ class Header extends Component {
                   <li>
                     <Link to="comingSoon">[.dotMatrix]</Link>
                   </li>
-                  <li>
-                    <Link to="comingSoon">Sessions</Link>
-                  </li>
+                  {/* <li>
+                    <Link to="comingSoon">Events</Link>
+                  </li> */}
                   <li>
                     <Link to="comingSoon">Downloads</Link>
                   </li>
@@ -55,7 +55,7 @@ class Header extends Component {
               {/* Apart */}
               {/* <li className="pull-right"><a href="comingSoon" style={{color:#111;">Calendar</a></li> */}
               <li className="pull-right" style={{float:"right"}}>
-                <a href="comingSoon" style={{color:"#111",}}>Newsletter</a>
+                <a href="comingSoon" style={{color:"#111",}}>Publications</a>
               </li>
             </ul>
             <ul className="social-icon">
@@ -66,8 +66,8 @@ class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/madepossibleincyberlabs/">
-                    <i className="fab fa-instagram"></i>
+                  <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
+                    <i className="fab fa-github"></i>
                   </a>
                 </li>
               </div>

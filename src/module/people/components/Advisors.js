@@ -36,7 +36,7 @@ class Advisors extends Component {
         <div className="content" id="ajax-content">
           <div className="text-intro" id="site-type">
             <center>
-              <h1>Alumunai</h1>
+              <h1>Alumni</h1>
             </center>
           </div>
         </div>
