@@ -42,6 +42,11 @@
     width:1030px;
 
   }
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 312px;
+  }
 
   div.grid-img{
     width: 312px;
@@ -106,7 +111,13 @@
     width: 246px;
     float: left;
   }
-  .grid-hover, li.grid-item, li.grid-item img,{
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width: 246px;
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
     width:246px;
   }
 
@@ -174,11 +185,16 @@
 
   div.grid-img{
     width: 282px;
+    float: left;}
+
+  .grid-responsive{
+    margin-top: 10px;
     float: left;
+    width: 315px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
-    width:282px;
+    width:285px;
   }
 
 }
@@ -277,6 +293,11 @@
     width: 430px;
     float: left;
   }
+  .grid-responsive{
+    margin-top: 10px;
+    float: left;
+    width:400px;
+  }
 
   .grid-hover, li.grid-item, li.grid-item img{
     width:400px;
@@ -285,7 +306,7 @@
 }
 
 
-@media all and (max-width: 480px) and (min-width: 320px) {
+@media all and (max-width: 480px) and (min-width: 260px) {
 
 
   header.boxed .header-margin{
@@ -372,7 +393,12 @@
 
   .grid-img{
     width: 280px;
+    float: left;}
+    
+  .grid-responsive{
+    margin-top: 10px;
     float: left;
+    width: 280px;
   }
 
   .grid-hover, li.grid-item, li.grid-item img{
