@@ -232,7 +232,7 @@ header.boxed{
 	-ms-transition: background 0.2s ease-in;
 	-o-transition: background 0.2s ease-in;
   transition: background 0.2s ease-in;   
-  box-shadow: 0 1px 22px -8px #888888;
+  box-shadow: 0 1px 22px -4px #888888;
 }
 
 header.boxed .header-margin{
@@ -320,7 +320,6 @@ header .logo > a{
   float:left;
   line-height:80px;
   padding-right:20px;
-  border-bottom: 1px solid #f1f1f1;
 }
 
 header .logo > a:hover{

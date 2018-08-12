@@ -2,10 +2,7 @@
 * {
   box-sizing: border-box;
 }
-body {
-  background: #f1f1f1;
-  margin: 2rem;
-}
+
 .blog-card {
   display: flex;
   flex-direction: column;
