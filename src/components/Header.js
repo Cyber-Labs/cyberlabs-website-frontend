@@ -6,14 +6,14 @@ class Header extends Component {
       <div id='Header'>
         <header className="boxed" id="header-white">
           <div className="header-margin">
-            {/* <span><i class="fas fa-bars"></i></span> */}
+            {/* <span><i class="fa fa-bars"></i></span> */}
             <div className="logo">
               <img src="assets/img/favico.png" width="60px" height="60px" style={{float:"left", paddingTop:"10px"}} />
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>
             </div>
             <ul className="header-nav">
               <li>
-                <Link className="ajax-link" to="#">People <i className="fas fa-angle-down"></i></Link>
+                <Link className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></Link>
                 <ul>
                   <li>
                     <Link to="members">Members</Link>
@@ -33,7 +33,7 @@ class Header extends Component {
               </li> */}
               {/* blog */}
               <li>
-                <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fas fa-angle-down"></i> </a>
+                <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fa fa-angle-down"></i> </a>
                 <ul>
                   <li>
                     <Link to="comingSoon">[.dotMatrix]</Link>
@@ -62,12 +62,12 @@ class Header extends Component {
               <div className="social-index">
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/labscyber">
-                    <i className="fab fa-facebook-f"></i>
+                    <i className="fa fa-facebook-f"></i>
                   </a>
                 </li>
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
-                    <i className="fab fa-github"></i>
+                    <i className="fa fa-github"></i>
                   </a>
                 </li>
               </div>
