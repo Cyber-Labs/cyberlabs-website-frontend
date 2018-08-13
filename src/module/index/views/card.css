@@ -8,7 +8,7 @@
   flex-direction: column;
   margin: 1rem auto;
   border: 1px #ded5d5 solid;
-  box-shadow: 0 3px 7px -1px rgba(0, 0, 0, .1);
+  box-shadow: -16px 16px 16px -9px #888888;
   margin-bottom: 1.6%;
   background: #fff;
   line-height: 1.4;
@@ -137,7 +137,7 @@
 }
 .blog-card p:first-of-type {
   border-bottom:.5px #dddddd solid;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   padding-top: 30px;
   color: #a2a2a2;
   width:95%;
@@ -148,7 +148,7 @@
   height: 5px;
   background: #e7433a;
   width: 95%;
-  top: -0.75rem;
+  top: -0.25rem;
   border-radius: 3px;
 }
 .blog-card:hover .details {
@@ -157,7 +157,7 @@
 @media (min-width: 640px) {
   .blog-card {
     flex-direction: row;
-    max-width: 90%;
+    max-width: 70%;
   }
   .blog-card .meta {
     flex-basis: 40%;
@@ -209,8 +209,8 @@
 
 .fab{
 position : absolute;
-right : 10px;
-margin-top: -50px;
+right : 20px;
+margin-top: -70px;
 box-sizing: border-box;
 padding-top: 9px;
 background-color : #1875D0;
@@ -239,7 +239,7 @@ box-shadow: 5px 5px 30px 0px rgba(0,0,0,0.75);
   
 .icons-font{
 color:#a2a2a2;
-padding-top:10px;
+margin-bottom: 0;
 }
 
 .icons-font-padding{

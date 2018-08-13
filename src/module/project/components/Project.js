@@ -30,7 +30,7 @@ class Project extends Component {
               <a className="ajax-link" href="single-fullscreen.html">
                 <div className="grid-hover">
                   <h1 className="card-heading">Smart mirror</h1>
-                  <p>A social engagement experiment to study the change in civic sense over time.</p>
+                  <p>A smart mirror and assistant seamlessly displaying pertinent information and helping plan the day while user brushes teeth. Has features as face recognition, efficient and dynamic route planning (with priority stop-points), connected to your phone so that you don't miss updates.</p>
                 </div>
               </a>
             </li>
