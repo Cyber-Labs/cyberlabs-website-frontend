@@ -848,6 +848,15 @@ textarea:focus{background:#f4f4f4; height:250px;}
   padding:1px;
 }
 
+.grid-item img {
+    border-radius: 7px;
+    box-shadow: -13px 1px 19px -9px #888888;
+}
+
+.portfolio-grid .grid-responsive img {
+  box-shadow: -10px 13px 17px -12px #888888;
+}
+
 /*
 **************************
 HELPER CSS
