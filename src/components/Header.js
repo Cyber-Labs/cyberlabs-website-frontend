@@ -16,7 +16,7 @@ class Header extends Component {
                 <Link className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></Link>
                 <ul>
                   <li>
-                    <Link to="members">Members</Link>
+                    <Link to="cyber_mem">Members</Link>
                   </li>
                   <li>
                     <Link to="advisors">Advisors</Link>
