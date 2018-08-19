@@ -1,30 +1,15 @@
 {
-  "name": "cyberlabs-website",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@material-ui/core": "^1.4.2",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4",
-    "babel-loader": "^7.1.5",
-    "css-loader": "^1.0.0",
-    "extract-text-webpack-plugin": "^3.0.2",
-    "file-loader": "^1.1.11",
-    "react-fa": "^5.0.0",
-    "react-tooltip": "^3.6.1",
-    "style-loader": "^0.22.1",
-    "url-loader": "^1.0.1",
-    "webpack": "^3.11.0",
-    "wow.js": "^1.2.2"
-  },
+  "name": "CyberLabs_Website",
+  "version": "1.0.0",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "eslint src public && react-scripts test --env=jsdom",
-    "test-dev": "eslint src public && react-scripts test --env=jsdom",
-    "lint": "eslint src public",
-    "eject": "react-scripts eject"
+    "client": "cd client && npm start",
+    "server": "node server.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0"
   }
 }
