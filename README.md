@@ -1,5 +1,5 @@
 Official Repo of CyberLabs Website frontend.
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e727efe0a22f4f1b8bcf0dc8bc8738fa)](https://www.codacy.com/app/Cyber-Labs/cyberlabs-website-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Cyber-Labs/cyberlabs-website-frontend&amp;utm_campaign=Badge_Grade)
 ### Prerequisites:
 1. Node.js
 2. NPM
