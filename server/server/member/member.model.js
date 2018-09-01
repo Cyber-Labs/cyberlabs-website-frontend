@@ -1,7 +1,7 @@
-const Promise = require('bluebird');
-const mongoose = require('mongoose');
-const httpStatus = require('http-status');
-const APIError = require('../helpers/APIError');
+const Promise = require("bluebird");
+const mongoose = require("mongoose");
+const httpStatus = require("http-status");
+const APIError = require("../helpers/APIError");
 
 /**
  * User Schema
@@ -14,7 +14,7 @@ const MemberSchema = new mongoose.Schema({
   
   projects: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'projects'
+    ref: "projects"
   }],
 
   website: {
@@ -34,22 +34,22 @@ const MemberSchema = new mongoose.Schema({
   },
  
   social: {
-      youtube: {
-        type: String
-      },
-      twitter: {
-        type: String
-      },
-      facebook: {
-        type: String
-      },
-      linkedin: {
-        type: String
-      },
-      instagram: {
-        type: String
-      },
+    youtube: {
+      type: String
     },
+    twitter: {
+      type: String
+    },
+    facebook: {
+      type: String
+    },
+    linkedin: {
+      type: String
+    },
+    instagram: {
+      type: String
+    },
+  },
 
   team: [{type: String, required: true}],
   role: {
@@ -91,13 +91,13 @@ MemberSchema.statics = {
         if (member) {
           return member;
         }
-        const err = new APIError('No such member exists!', httpStatus.NOT_FOUND);
+        const err = new APIError("No such member exists!", httpStatus.NOT_FOUND);
         return Promise.reject(err);
       })
   },
 
   /**
-   * List users in descending order of 'createdAt' timestamp.
+   * List users in descending order of "createdAt" timestamp.
    * @param {number} skip - Number of users to be skipped.
    * @param {number} limit - Limit number of users to be returned.
    * @returns {Promise<User[]>}
@@ -113,4 +113,4 @@ MemberSchema.statics = {
  */
 
 
-module.exports = Member = mongoose.model('members', MemberSchema)
+module.exports = mongoose.model("members", MemberSchema)

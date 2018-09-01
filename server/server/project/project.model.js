@@ -1,7 +1,7 @@
-const Promise = require('bluebird');
-const mongoose = require('mongoose');
-const httpStatus = require('http-status');
-const APIError = require('../helpers/APIError');
+const Promise = require("bluebird");
+const mongoose = require("mongoose");
+const httpStatus = require("http-status");
+const APIError = require("../helpers/APIError");
 
 /**
  * User Schema
@@ -24,7 +24,7 @@ const ProjectSchema = new mongoose.Schema({
 
   members: [{
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'members'
+    ref: "members"
   }]
 });
 
@@ -57,13 +57,13 @@ ProjectSchema.statics = {
         if (project) {
           return project;
         }
-        const err = new APIError('No such project exists!', httpStatus.NOT_FOUND);
+        const err = new APIError("No such project exists!", httpStatus.NOT_FOUND);
         return Promise.reject(err);
       });
   },
 
   /**
-   * List users in descending order of 'createdAt' timestamp.
+   * List users in descending order of "createdAt" timestamp.
    * @param {number} skip - Number of users to be skipped.
    * @param {number} limit - Limit number of users to be returned.
    * @returns {Promise<User[]>}
@@ -80,4 +80,4 @@ ProjectSchema.statics = {
 /**
  * @typedef User
  */
-module.exports = mongoose.model('projects', ProjectSchema);
+module.exports = mongoose.model("projects", ProjectSchema);

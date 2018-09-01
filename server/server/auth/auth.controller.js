@@ -1,12 +1,12 @@
-const jwt = require('jsonwebtoken');
-const httpStatus = require('http-status');
-const APIError = require('../helpers/APIError');
-const config = require('../../config/config');
+const jwt = require("jsonwebtoken");
+const httpStatus = require("http-status");
+const APIError = require("../helpers/APIError");
+const config = require("../../config/config");
 
 // sample user, used for authentication
 const user = {
-  username: 'react',
-  password: 'express'
+  username: "react",
+  password: "express"
 };
 
 /**
@@ -29,7 +29,7 @@ function login(req, res, next) {
     });
   }
 
-  const err = new APIError('Authentication error', httpStatus.UNAUTHORIZED, true);
+  const err = new APIError("Authentication error", httpStatus.UNAUTHORIZED, true);
   return next(err);
 }
 

@@ -1,4 +1,4 @@
-const Project = require('./project.model');
+const Project = require("./project.model");
 
 /**
  * Load project and append to req.
@@ -26,7 +26,6 @@ function get(req, res) {
  * @returns {Project}
  */
 function create(req, res, next) {
-  console.log(req.body.projects.split(","));
   const project = new Project({
     name: req.body.name,
     about: req.body.name,

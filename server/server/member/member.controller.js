@@ -1,4 +1,4 @@
-const Member = require('./member.model');
+const Member = require("./member.model");
 
 /**
  * Load member and append to req.
@@ -44,13 +44,13 @@ function create(req, res, next) {
  */
 function update(req, res, next) {
   const member = req.member;
-  member.name= req.body.name
-  member.website= req.body.website
-  member.bio= req.body.bio
-  member.guthubusername= req.body.githubusername
-  member.social= {...req.body.social}
-  member.role= req.body.role
-  member.team= [...req.body.team]
+  member.name = req.body.name
+  member.website = req.body.website
+  member.bio = req.body.bio
+  member.guthubusername = req.body.githubusername
+  member.social = { ...req.body.social }
+  member.role = req.body.role
+  member.team = [ ...req.body.team ]
 
   member.save()
     .then(savedMember => res.json(savedMember))

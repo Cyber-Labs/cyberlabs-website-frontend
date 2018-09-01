@@ -1,4 +1,4 @@
-const httpStatus = require('http-status');
+const httpStatus = require("http-status");
 
 /**
  * @extends Error

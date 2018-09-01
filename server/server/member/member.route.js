@@ -1,11 +1,11 @@
-const express = require('express');
-const validate = require('express-validation');
-const paramValidation = require('../../config/param-validation');
-const memberCtrl = require('./member.controller');
+const express = require("express");
+const validate = require("express-validation");
+const paramValidation = require("../../config/param-validation");
+const memberCtrl = require("./member.controller");
 
 const router = express.Router(); // eslint-disable-line new-cap
 
-router.route('/')
+router.route("/")
   /** GET /api/members - Get list of members */
   .get(memberCtrl.list)
 
@@ -13,7 +13,7 @@ router.route('/')
   // .post(validate(paramValidation.createMember), memberCtrl.create);
   .post(memberCtrl.create);
 
-router.route('/:memberId')
+router.route("/:memberId")
   /** GET /api/members/:memberId - Get member */
   .get(memberCtrl.get)
 
@@ -25,6 +25,6 @@ router.route('/:memberId')
   .delete(memberCtrl.remove);
 
 /** Load member when API with memberId route parameter is hit */
-router.param('memberId', memberCtrl.load);
+router.param("memberId", memberCtrl.load);
 
 module.exports = router;
