@@ -1,52 +1,46 @@
-const User = require('./user.model');
+const Member = require('./member.model');
 
 /**
- * Load user and append to req.
+ * Load member and append to req.
  */
 function load(req, res, next, id) {
-  User.get(id)
-    .then((user) => {
-      req.user = user; // eslint-disable-line no-param-reassign
+  Member.get(id)
+    .then((member) => {
+      req.member = member; // eslint-disable-line no-param-reassign
       return next();
     })
     .catch(e => next(e));
 }
 
 /**
- * Get user
- * @returns {User}
+ * Get member
+ * @returns {Member}
  */
 function get(req, res) {
-  return res.json(req.user);
+  return res.json(req.member);
 }
 
 /**
- * Create new user
- * @property {string} req.body.username - The username of user.
- * @property {string} req.body.mobileNumber - The mobileNumber of user.
- * @returns {User}
+ * Create new member
  */
 function create(req, res, next) {
-  const user = new User({
+  const member = new Member({
     name: req.body.name,
     website: req.body.website,
     bio: req.body.bio,
-    guthubusername: req.body.githubusername,
-    social: {...req.body.social},
+    guthubmembername: req.body.githubmembername,
+    social: req.body.social,
     role: req.body.role,
-    team: [...req.body.team]
+    team: req.body.team
   });
 
-  user.save()
-    .then(savedUser => res.json(savedUser))
+  member.save()
+    .then(savedMember => res.json(savedMember))
     .catch(e => next(e));
 }
 
 /**
- * Update existing user
- * @property {string} req.body.username - The username of user.
- * @property {string} req.body.mobileNumber - The mobileNumber of user.
- * @returns {User}
+ * Update existing member
  */
 function update(req, res, next) {
   const member = req.member;
@@ -58,32 +52,31 @@ function update(req, res, next) {
   member.role= req.body.role
   member.team= [...req.body.team]
 
-  user.save()
-    .then(savedUser => res.json(savedUser))
+  member.save()
+    .then(savedMember => res.json(savedMember))
     .catch(e => next(e));
 }
 
 /**
- * Get user list.
- * @property {number} req.query.skip - Number of users to be skipped.
- * @property {number} req.query.limit - Limit number of users to be returned.
- * @returns {User[]}
+ * Get member list.
+ * @property {number} req.query.skip - Number of members to be skipped.
+ * @property {number} req.query.limit - Limit number of members to be returned.
+ * @returns {Member[]}
  */
 function list(req, res, next) {
-  const { limit = 50, skip = 0 } = req.query;
-  User.list({ limit, skip })
-    .then(users => res.json(users))
+  Member.list()
+    .then(members => res.json(members))
     .catch(e => next(e));
 }
 
 /**
- * Delete user.
- * @returns {User}
+ * Delete member.
+ * @returns {Member}
  */
 function remove(req, res, next) {
-  const user = req.user;
-  user.remove()
-    .then(deletedUser => res.json(deletedUser))
+  const member = req.member;
+  member.remove()
+    .then(deletedMember => res.json(deletedMember))
     .catch(e => next(e));
 }
 

@@ -13,7 +13,7 @@ const MemberSchema = new mongoose.Schema({
   },
   
   projects: [{
-    type:Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'projects'
   }],
 
@@ -85,15 +85,15 @@ MemberSchema.statics = {
    * @returns {Promise<User, APIError>}
    */
   get(id) {
-    return this.find()
+    return this.findById(id)
       .exec()
-      .then((members) => {
-        if (members.length>0) {
-          return members;
+      .then((member) => {
+        if (member) {
+          return member;
         }
-        const err = new APIError('No such project exists!', httpStatus.NOT_FOUND);
+        const err = new APIError('No such member exists!', httpStatus.NOT_FOUND);
         return Promise.reject(err);
-      });
+      })
   },
 
   /**
@@ -102,11 +102,8 @@ MemberSchema.statics = {
    * @param {number} limit - Limit number of users to be returned.
    * @returns {Promise<User[]>}
    */
-  list({ skip = 0, limit = 50 } = {}) {
+  list() {
     return this.find()
-      .sort({ createdAt: -1 })
-      .skip(+skip)
-      .limit(+limit)
       .exec();
   }
 };
