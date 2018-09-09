@@ -18,7 +18,7 @@
       2,
       "nofunc"
     ],
-    // TODO: turn on later
+    // TODO: turn on later after mid sems
     "comma-dangle": [
       0
     ],
