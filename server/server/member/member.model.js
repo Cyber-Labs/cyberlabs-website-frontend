@@ -51,11 +51,14 @@ const MemberSchema = new mongoose.Schema({
     },
   },
 
-  team: [{type: String, required: true}],
-  role: {
-    type: String,
-    required: true
-  }
+  teams: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "teams"
+  }],
+  roles: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "projects"
+  }]
 
 })
 

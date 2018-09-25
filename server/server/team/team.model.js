@@ -6,27 +6,23 @@ const APIError = require("../helpers/APIError");
 /**
  * User Schema
  */
-const ProjectSchema = new mongoose.Schema({
+const MemberSchema = new mongoose.Schema({
   name: {
     type: String,
     required: true
   },
-  about: {
-    type: String,
-    required: true
-  },
-  liveUrl: {
-    type: String
-  },
-  description: {
-    type: String
-  },
-
+  
   members: [{
     type: mongoose.Schema.Types.ObjectId,
     ref: "members"
   }]
-});
+
+  
+
+})
+
+
+
 
 /**
  * Add your
@@ -44,7 +40,7 @@ const ProjectSchema = new mongoose.Schema({
 /**
  * Statics
  */
-ProjectSchema.statics = {
+MemberSchema.statics = {
   /**
    * Get user
    * @param {ObjectId} id - The objectId of user.
@@ -53,13 +49,13 @@ ProjectSchema.statics = {
   get(id) {
     return this.findById(id)
       .exec()
-      .then((project) => {
-        if (project) {
-          return project;
+      .then((member) => {
+        if (member) {
+          return member;
         }
-        const err = new APIError("No such project exists!", httpStatus.NOT_FOUND);
+        const err = new APIError("No such member exists!", httpStatus.NOT_FOUND);
         return Promise.reject(err);
-      });
+      })
   },
 
   /**
@@ -68,12 +64,8 @@ ProjectSchema.statics = {
    * @param {number} limit - Limit number of users to be returned.
    * @returns {Promise<User[]>}
    */
-  list({ skip = 0, limit = 50 } = {}) {
+  list() {
     return this.find()
-      .populate('members')
-      .sort({ createdAt: -1 })
-      .skip(+skip)
-      .limit(+limit)
       .exec();
   }
 };
@@ -81,4 +73,6 @@ ProjectSchema.statics = {
 /**
  * @typedef User
  */
-module.exports = mongoose.model("projects", ProjectSchema);
+
+
+module.exports = mongoose.model("members", MemberSchema)

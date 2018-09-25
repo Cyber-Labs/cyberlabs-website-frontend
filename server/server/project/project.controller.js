@@ -26,14 +26,13 @@ function get(req, res) {
  * @returns {Project}
  */
 function create(req, res, next) {
+  const members = req.body.members.split(",")
   const project = new Project({
     name: req.body.name,
     about: req.body.name,
     liveUrl: req.body.name,
     description: req.body.name,
-
-    projects: req.body.projects.split(",")
-
+    members
   });
 
   project.save()
@@ -52,6 +51,7 @@ function update(req, res, next) {
   project.about = req.body.name,
   project.liveUrl = req.body.name,
   project.description = req.body.name
+  project.members = req.body.members.split(",")
 
   project.save()
     .then(savedProject => res.json(savedProject))
