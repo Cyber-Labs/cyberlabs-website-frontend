@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import "../views/card.css"
+import "./Portfolio.css"
 
 class Portfolio extends Component {
   render() {

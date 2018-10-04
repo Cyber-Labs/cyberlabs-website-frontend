@@ -34,7 +34,7 @@ class Puzzle extends Component {
                 fontSize: 30
               }}>Jhajharia Computers, Bank More</h5>
               <h4>
-                <a href="http://www.jhajhariacomputers.com" target="_blank">www.jhajhariacomputers.com</a>
+                <a href="http://www.jhajhariacomputers.com" target="_blank" rel="noopener noreferrer">www.jhajhariacomputers.com</a>
               </h4>
             </div>
             <div className="col-sm-5 col-sm-offset-1">
