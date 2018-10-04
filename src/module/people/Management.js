@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {management} from "../views/managementFields";
+import {management} from "./managementFields";
 
 
 class Management extends Component {

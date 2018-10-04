@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^1.4.2",
-    "concurrently": "^4.0.1",
-    "nodemon": "^1.18.4",
+    "firebase": "^5.5.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
@@ -18,9 +16,7 @@
     "test": "eslint src public && react-scripts test --env=jsdom",
     "test-dev": "eslint src public && react-scripts test --env=jsdom",
     "lint": "eslint src public",
-    "eject": "react-scripts eject",
-    "server": "nodemon ./server/index.js",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "eject": "react-scripts eject"
   },
-  "proxy" : "http://localhost:4040/api/"
+  "proxy": "http://localhost:4040/api/"
 }

@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import alumni from "../views/advisorField";
+import alumni from "./advisorField";
 class Alumni extends Component {
   renderFields(item){
     return item.map(({name, img, position, place})=>{
