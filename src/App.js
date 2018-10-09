@@ -5,16 +5,16 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
-import Index from "./module/index/components/Index";
-import Member from "./module/member/components/Member";
-import Management from "./module/people/components/Management";
-import Project from "./module/project/components/Project"
-import Advisors from "./module/people/components/Advisors";
-import Puzzle from "./module/events/components/Puzzle";
-import About from "./module/about/components/About";
-import Contact from "./module/contact/components/Contact";
-import Publication from "./module/publication/components/Publication";
-import ComingSoon from "./module/comingSoon/components/ComingSoon";
+import Index from "./pages/index/Index";
+import Member from "./pages/member/Member";
+import Management from "./pages/people/Management";
+import Project from "./pages/project/Project"
+import Advisors from "./pages/people/Advisors";
+import Puzzle from "./pages/events/Puzzle";
+import About from "./pages/about/About";
+import Contact from "./pages/contact/Contact";
+import Publication from "./pages/publication/Publication";
+import ComingSoon from "./pages/comingSoon/ComingSoon";
 
 import "./App.css";
 
