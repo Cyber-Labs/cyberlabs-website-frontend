@@ -6,33 +6,22 @@ class cyber_mem extends Component {
   constructor(props){
     super(props);
     this.state={
-      visible:false,
-      name:'',
-      hover:false
+      name:"",
     }
-    this.handlehover = this.handlehover.bind(this);
-  }
-
-  handlehover(){
-    this.setState({
-      hover:true
-    });
   }
 
   componentDidMount(){
 
-    const {hover} = this.state;
-    const {handlehover} = this.handlehover;
-    const data = [{ express: 'Hello From Express' ,name:'Anushka mittal',feild:'Web',lang:['PHP','Node','React']},
-    { express: 'Hello From Express' ,name:'Yash mittal',feild:'App',lang:['Java','XML']},
-    { express: 'Hello From Express' ,name:'Anushka mittal',feild:'Web',lang:['Javascript','Angular JS']},
-    { express: 'Hello From Express' ,name:'Anushka mittal',feild:'Web',lang:['C','C++','Java','React','Angular','Node']}]
+    const data = [{ express: "Hello From Express" ,name:"Anushka mittal",feild:"Web",lang:["PHP","Node","React"]},
+    { express: "Hello From Express" ,name:"Yash mittal",feild:"App",lang:["Java","XML"]},
+    { express: "Hello From Express" ,name:"Anushka mittal",feild:"Web",lang:["Javascript","Angular JS"]},
+    { express: "Hello From Express" ,name:"Anushka mittal",feild:"Web",lang:["C","C++","Java","React","Angular","Node"]}]
 
       let name = data.map((pic)=>{
         return (
           <div className="box1 effect81">
-          <div id="img1"><img src="https://www.w3schools.com/howto/img_avatar.png" width="170px" /></div>
-          <div className="head1"><h1>{pic.name}</h1></div>
+          <div id="img1"><img src="https://www.w3schools.com/howto/img_avatar.png" alt={pic.name} width="170px" /></div>
+        <div className="head1" ><div>{pic.name}</div></div>
           <div className="container1 ">
           <div className="job1"><p>{pic.feild}</p></div>
           <div className="icons1">
@@ -42,7 +31,7 @@ class cyber_mem extends Component {
           </div>
           <div className="lang1">
           {pic.lang.map(element =>
-            <div className='bubble2'>{element}</div>
+            <div className="bubble2">{element}</div>
           )}
           </div>
           <p> Working at Cyberlabs at IIT(ISM),Dhanbad</p>
@@ -61,7 +50,6 @@ class cyber_mem extends Component {
         )
       })
       this.setState({name:name});
-      console.log("state",this.state.name);
   }
 
   render() {

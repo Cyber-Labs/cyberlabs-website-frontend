@@ -8,8 +8,7 @@ import Footer from "./components/Footer";
 import Index from "./module/index/components/Index";
 import cyber_mem from "./module/member/components/cyber_mem";
 import Management from "./module/people/components/Management";
-import Project from "./module/index/components/Project";
-import Projects from './module/project/components/p1';
+import Project from "./module/project/components/p1";
 import Advisors from "./module/people/components/Advisors";
 import Puzzle from "./module/events/components/Puzzle";
 import About from "./module/about/components/About";
@@ -30,8 +29,7 @@ class App extends Component {
             <Route exact path="/cyber_mem" component={cyber_mem} />
             <Route exact path="/management" component={Management} />
             <Route exact path="/advisors" component={Advisors} />
-            <Route exact path="/project" component={Project} />
-            <Route exact path='/projects' component={Projects}/>
+            <Route exact path="/projects" component={Project}/>
             <Route exact path="/about" component={About} />
             <Route exact path="/puzzle" component={Puzzle} />
             <Route exact path="/contact" component={Contact} />

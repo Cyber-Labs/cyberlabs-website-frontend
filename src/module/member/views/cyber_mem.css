@@ -5,9 +5,17 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin-top: 80px;
+    justify-content: center;
   }
   .tool1{
     font-size:15px;
+  }
+  .head1{
+    font-weight: 600;
+    padding-top:10px;
+  }
+  .head1:hover{
+    opacity: 0.6
   }
   img{
     border-radius: 50%;
@@ -85,7 +93,7 @@
     width:360px;
     height:670px;
     background: rgb(253, 251, 251);
-    margin:10px ;
+    margin:20px ;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

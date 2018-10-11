@@ -1,22 +1,80 @@
 .App2{
-    /* text-align: center;
+    text-align: center;
     padding:20px;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap; */
-    background-color:red;
+    flex-wrap: wrap;
+    margin-top:100px;
+    justify-content: center;
   }
-/* .box2{
-    width:350px;
-    height:500px;
-    background: rgb(253, 251, 251);
-    margin:10px ;
+  .column1{
+      padding: 0 none;
+      justify-content: center;
+  }
+  .name{
+      font-weight: 900;
+      font-size:25px;
+      justify-content: center;
+      margin-top:25px;
+  }
+  .name:hover{
+      opacity:0.6;
+  }
+  .url{
+      padding-top: 5px;
+      display: flex;
+      justify-content: center;
+  }
+  .icon1{
+    font-size: 30px;
+    padding-left: 10px;
+  }
+  .icon1:hover{
+      opacity:0.6;
+  }
+  .Description{
+    opacity: 1;
+   
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+    padding:20px;
+    padding-top:0px;
+  }
+ 
+  .by1{
+    border:2px solid rgb(49, 148, 247);
+    border-radius: 10px;
+    margin:15px;
+  padding: 15px;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:12px;
+  font-weight: 600;
+ 
+  color:white;
+
+}
+.by1:hover{
+    background-color:rgb(45, 148, 250);
+    cursor: pointer;
+}
+.madeby{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: dodgerblue;
+  }
+  
+.box{
+    width:550px;
+    background: white;
+    margin: 30px;
 }
 .effect82
 {
     position:relative;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 .effect82:before, .effect82:after
@@ -24,23 +82,13 @@
     content:"";
     position:absolute;
     z-index:-1;
-    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
-    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
-    box-shadow:0 0 20px rgba(0,0,0,0.8);
-    top:10px;
-    bottom:10px;
-    left:10px;
-    right:10px;
-    -moz-border-radius:100px / 10px;
-    border-radius:100px / 10px;
+    box-shadow:0 0 40px rgba(0,0,0,2);
+    top:20px;
+    bottom:20px;
+    left:20px;
+    right:20px;
+    
 }
-.effect82:after
-{
-    right:10px;
-    left:auto;
-    -webkit-transform:skew(8deg) rotate(3deg);
-       -moz-transform:skew(8deg) rotate(3deg);
-        -ms-transform:skew(8deg) rotate(3deg);
-         -o-transform:skew(8deg) rotate(3deg);
-            transform:skew(8deg) rotate(3deg);
-} */
+.effect83{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
