@@ -1,6 +1,13 @@
 import React, {Component} from "react";
 import {Link} from "react-router-dom"
 class Header extends Component {
+  constructor(props){
+    super(props);
+    this.state= {
+      responsive: false
+    };
+  }
+
   render() {
     return (
       <div id='Header'>
@@ -11,7 +18,7 @@ class Header extends Component {
               <img src="assets/img/favico.png" alt="logo"/>
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>
             </div>
-            <ul className="header-nav">
+            <ul className={"header-nav" + (this.state.responsive ? " responsive":"")}>
               <li>
                 <Link className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></Link>
                 <ul>
@@ -21,31 +28,29 @@ class Header extends Component {
                   <li>
                     <Link to="advisors">Advisors</Link>
                   </li>
-                  {/* had className="ajax-link" */}
                   <li>
                     <Link to="management">Management</Link>
                   </li>
-                  {/* had className="ajax-link" */}
                 </ul>
               </li>
               {/* <li>
                 <Link to="comingSoon">Blog</Link>
               </li> */}
               {/* blog */}
-              <li>
+              {/* <li>
                 <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fa fa-angle-down"></i> </a>
                 <ul>
                   <li>
                     <Link to="comingSoon">[.dotMatrix]</Link>
                   </li>
-                  {/* <li>
+                  <li>
                     <Link to="comingSoon">Events</Link>
-                  </li> */}
+                  </li>
                   <li>
                     <Link to="comingSoon">Downloads</Link>
                   </li>
                 </ul>
-              </li>
+              </li> */}
               <li>
                 <Link to="about">About</Link>
               </li>
@@ -54,9 +59,9 @@ class Header extends Component {
               </li>
               {/* Apart */}
               {/* <li className="pull-right"><a href="comingSoon" style={{color:#111;">Calendar</a></li> */}
-              <li className="pull-right" style={{float:"right"}}>
+              {/* <li className="pull-right" style={{float:"right"}}>
                 <a href="comingSoon" style={{color:"#111",}}>Publications</a>
-              </li>
+              </li> */}
             </ul>
             <ul className="social-icon">
               <div className="social-index">
@@ -68,6 +73,11 @@ class Header extends Component {
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
                     <i className="fa fa-github"></i>
+                  </a>
+                </li>
+                <li>
+                  <a className="icon" onClick={()=>{this.setState({responsive: !this.state.responsive})}}>
+                    <i className="fa fa-bars"></i>
                   </a>
                 </li>
               </div>

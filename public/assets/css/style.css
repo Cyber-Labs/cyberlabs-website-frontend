@@ -225,16 +225,16 @@ header.boxed{
   display:block;
   background:white;
   top:0;
-    -webkit-transition: background 0.2s ease-in;
+  -webkit-transition: background 0.2s ease-in;
 	-moz-transition: background 0.2s ease-in;
 	-ms-transition: background 0.2s ease-in;
 	-o-transition: background 0.2s ease-in;
   transition: background 0.2s ease-in;   
-  box-shadow: 0 1px 22px -4px #888888;
+  box-shadow: 0 1px 18px -4px #888888;
 }
 
 header.boxed .header-margin{
-  width:1140px;
+  max-width:1140px;
   margin:0 auto;
 }
 
@@ -253,12 +253,20 @@ ul.social-icon a{
   font-size:15px;
   border-bottom:0;
   color:black;
-  padding-right:0px !important;
+  padding-right:0px ;
+}
+
+ul.social-icon a.icon {
+  display: none;
 }
 
 ul.social-icon a:hover{
   color:#c3c3c3;
 }
+ul.social-icon a:active{
+  color:#c3c3c3;
+}
+
 
 .menu-index{
   position: fixed;
