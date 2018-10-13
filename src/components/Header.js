@@ -20,7 +20,7 @@ class Header extends Component {
             </div>
             <ul className={"header-nav" + (this.state.responsive ? " responsive":"")}>
               <li>
-                <Link className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></Link>
+                <a className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></a>
                 <ul>
                   <li>
                     <Link to="members">Members</Link>
