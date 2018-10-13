@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^5.5.1",
+    "contentful": "^7.0.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
@@ -17,6 +17,5 @@
     "test-dev": "eslint src public && react-scripts test --env=jsdom",
     "lint": "eslint src public",
     "eject": "react-scripts eject"
-  },
-  "proxy": "http://localhost:4040/api/"
+  }
 }

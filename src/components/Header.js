@@ -8,7 +8,7 @@ class Header extends Component {
           <div className="header-margin">
             {/* <span><i class="fa fa-bars"></i></span> */}
             <div className="logo">
-              <img src="assets/img/favico.png" width="60px" height="60px" style={{float:"left", paddingTop:"10px"}} />
+              <img src="assets/img/favico.png" alt="logo"/>
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>
             </div>
             <ul className="header-nav">
