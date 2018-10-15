@@ -6,7 +6,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 import Index from "./pages/index/Index";
-import Member from "./pages/member/Member";
+import cyber_mem from "./pages/member/cyber_mem";
 import Management from "./pages/people/Management";
 import Project from "./pages/project/Project"
 import Advisors from "./pages/people/Advisors";
@@ -26,7 +26,7 @@ class App extends Component {
           <div>
             <Header/>
             <Route exact path="/" component={Index} />
-            <Route exact path="/members" component={Member} />
+            <Route exact path="/members" component={cyber_mem} />
             <Route exact path="/management" component={Management} />
             <Route exact path="/advisors" component={Advisors} />
             <Route exact path="/projects" component={Project} />
