@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+// import MemberCard from "./Member.Card"
 class Member extends Component {
   render() {
     return (
