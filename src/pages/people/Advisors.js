@@ -1,16 +1,17 @@
 import React, {Component} from "react";
 import alumni from "./advisorField";
+import ProgressiveImage from "react-progressive-image"
 class Alumni extends Component {
-  renderFields(item){
-    return item.map(({name, img, position, place})=>{
+  renderFields(){
+    return alumni.map(({name, img, opImg, position, place})=>{
             return  (<div className="grid-responsive">
-                <img
-                  src={`assets/img/${img}`}
-                  alt="img"
-                  height="230"
-                  style={{
-                  borderRadius: "10px"
-                }}/>
+                <ProgressiveImage src={img} placeholder={opImg}>
+                  {src => <img src={src} alt="alumni" 
+                    height="230"
+                    style={{
+                    borderRadius: "10px"
+                  }}/>}
+                </ProgressiveImage>
                 <center>
                   <h4 className="person-name">{name}</h4>
                   <h6 className="person-position">{position}<br/>{place}</h6>
@@ -30,7 +31,7 @@ class Alumni extends Component {
         </div>
         <div className="container">
             <div className="portfolio-grid">
-              {this.renderFields(alumni)}
+              {this.renderFields()}
             </div>
         </div>
       </div>
