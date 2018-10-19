@@ -29,7 +29,6 @@ class Member extends Component {
         {this.renderGrid()}
         </div>
         
-        
       </div>
     )
   }
