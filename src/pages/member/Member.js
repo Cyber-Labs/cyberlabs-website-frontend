@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-// import MemberCard from "./Member.Card"
+import MemberCard from "./Member.Card"
 class Member extends Component {
   render() {
     return (
@@ -11,6 +11,9 @@ class Member extends Component {
             </center>
           </div>
         </div>
+
+        <MemberCard />
+
         <ul className="portfolio-grid" id="portfolio-slidebar">
           <div className="row">
             {/* COLUMN 1 */}

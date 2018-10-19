@@ -1,45 +1,41 @@
 import React, { Component } from "react";
-import "./member2.css";
+import "./member-card/member-card.css";
 
 
 class MemberCard extends Component {
 
   render() {
-    return (
-      <div className="box1 effect81">
-      <div id="img1"><img src="https://www.w3schools.com/howto/img_avatar.png" alt="" width="170px" /></div>
-      <div className="head1">
-          {/* <div>name here</div> */}
-      </div>
-      <div className="container1 ">
-          <div className="job1">
-              {/* <p>pic field here</p> */}
-          </div>
-          <div className="icons1">
-              <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank"><i class="fa fa-github"
-                          aria-hidden="true"></i></a></div>
-              <div className="icon1"><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><i class="fa fa-linkedin-square"
-                          aria-hidden="true"></i></a></div>
-              <div className="icon1"><a href="https://www.linkedin.com/in/anushka-mittal-38a729154/" target="_blank"><i class="fa fa-file-text"
-                          aria-hidden="true"></i></a></div>
-          </div>
-          <div className="lang1">
-              {/* {pic.lang.map(element =>
-              <div className="bubble2">languages here</div>
-              )} */}
-          </div>
-          <p> Working at Cyberlabs at IIT(ISM),Dhanbad</p>
-      </div>
-      <hr width="30%" />
-      <div className="profile1">PROJECTS</div>
-      <div className="pro1">
-          <div className="pro2">B</div>
-          <div className="pro2">C</div>
-          <div className="pro2">D</div>
-          <div className="pro2">Q</div>
-      </div>
-      </div>
-    );
+		return (
+			<div className="member-card">
+				<img className="member-profile-img" src="https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2" alt="" width="170px" />
+				<h2 className="member-name">Name Here</h2>
+				<div className="member-details">
+					{/* <div className="job1">
+						<p>pic field here</p>
+					</div> */}
+					<ul className="member-social-links">
+						<li className="member-social-icon"><a href="https://github.com/" rel="noopener noreferrer" target="_blank"><i className="fa fa-github"
+									aria-hidden="true"></i></a></li>
+						<li className="member-social-icon"><a href="https://linkedin.com/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square"
+									aria-hidden="true"></i></a></li>
+						<li className="member-social-icon"><a href="https://www.link.com/" rel="noopener noreferrer" target="_blank"><i
+									className="fa fa-file-text" aria-hidden="true"></i></a></li>
+					</ul>
+					<div className="lang1">
+						{/* languages here */}
+					</div>
+					<p className="member-about"> Working at Cyberlabs at IIT(ISM),Dhanbad</p>
+				</div>
+				<hr width="30%" />
+				<div className="member-projects-title">PROJECTS</div>
+				<div className="member-projects">
+					<div className="member-project-icon">B</div>
+					<div className="member-project-icon">C</div>
+					<div className="member-project-icon">D</div>
+					<div className="member-project-icon">Q</div>
+				</div>
+			</div>
+		);
   }
 }
 
