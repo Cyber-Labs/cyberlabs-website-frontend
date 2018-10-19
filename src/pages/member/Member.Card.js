@@ -8,15 +8,15 @@ class MemberCard extends Component {
 		return (
 			<div className="member-card">
 				<img className="member-profile-img" src="https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2" alt="" width="170px" />
-				<h2 className="member-name">Name Here</h2>
+				<h2 className="member-name">{this.props.name}</h2>
 				<div className="member-details">
 					{/* <div className="job1">
 						<p>pic field here</p>
 					</div> */}
 					<ul className="member-social-links">
-						<li className="member-social-icon"><a href="https://github.com/" rel="noopener noreferrer" target="_blank"><i className="fa fa-github"
+						<li className="member-social-icon"><a href={this.props.github} rel="noopener noreferrer" target="_blank"><i className="fa fa-github"
 									aria-hidden="true"></i></a></li>
-						<li className="member-social-icon"><a href="https://linkedin.com/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square"
+						<li className="member-social-icon"><a href={this.props.linkedin} rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square"
 									aria-hidden="true"></i></a></li>
 						<li className="member-social-icon"><a href="https://www.link.com/" rel="noopener noreferrer" target="_blank"><i
 									className="fa fa-file-text" aria-hidden="true"></i></a></li>

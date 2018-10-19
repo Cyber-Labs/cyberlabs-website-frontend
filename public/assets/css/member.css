@@ -1,0 +1,6 @@
+.members-grid{
+    display:grid;
+    width:100%;
+    grid-template-columns: repeat(auto-fill,400px);
+    justify-content: space-around;
+}
