@@ -1,0 +1,104 @@
+.member-card {
+  width: 360px;
+  height: 470px;
+  background: rgb(253, 251, 251);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10px;
+  box-shadow: 0 1px 18px -4px #888888;
+}
+
+.member-profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 18px;
+}
+
+.member-name {
+  font-weight: 600;
+  padding-top: 15px;
+  font-size: 18px;
+  opacity: 0.8;
+  text-align: center;
+}
+
+.member-name:hover {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.member-social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  opacity: 0.6;
+  font-size: 23px;
+}
+
+
+.member-social-icon .fa {
+  color: black;
+}
+
+.member-social-icon .fa:hover {
+  opacity: 0.9;
+}
+
+.member-about {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(37, 37, 37)
+}
+
+.member-projects-title {
+  padding: 10px;
+  opacity: 1;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.member-projects {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+.member-project-icon {
+  border: 1px solid dodgerblue;
+  border-radius: 50%;
+  padding: 15px;
+  background-color: dodgerblue;
+  color: white;
+  margin: 10px;
+  cursor: pointer;
+}
+
+
+@media (max-width:700px) {
+  .member-card {
+    width: 100%;
+    height: 670px;
+    background: rgb(253, 251, 251);
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+
+
+.lang1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  flex-wrap: wrap;
+
+}
