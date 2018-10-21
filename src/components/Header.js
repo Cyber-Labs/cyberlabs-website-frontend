@@ -18,6 +18,11 @@ class Header extends Component {
               <img src="assets/img/favico.png" alt="logo"/>
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>
             </div>
+            <li className="hamberger-menu">
+                  <a className="icon" onClick={()=>{this.setState({responsive: !this.state.responsive})}}>
+                    <i className="fa fa-bars"></i>
+                  </a>
+            </li>
             <ul className={"header-nav" + (this.state.responsive ? " responsive":"")}>
               <li>
                 <a className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></a>
@@ -73,11 +78,6 @@ class Header extends Component {
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
                     <i className="fa fa-github"></i>
-                  </a>
-                </li>
-                <li>
-                  <a className="icon" onClick={()=>{this.setState({responsive: !this.state.responsive})}}>
-                    <i className="fa fa-bars"></i>
                   </a>
                 </li>
               </div>
