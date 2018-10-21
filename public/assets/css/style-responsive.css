@@ -8,9 +8,6 @@
     display: block;
   }
 
-  header.boxed .header-margin{
-    
-  }
 
   .content .text-intro{
     width:1000px;
@@ -276,11 +273,18 @@
     display: none;
   
   }
+  ul.responsive.header-nav  {
+    float: none;
+    display: block;
+    text-align: left;
+  }
   
-  ul.social-icon a.icon {
+  li.hamberger-menu a.icon {
     display: block;
     color:#e7433a;
     font-size: 1.5rem;
+    text-align: right;
+    transform: translateX(70%);
   }
   
 
@@ -371,21 +375,23 @@
     width: 100vw;
     background: rgba(255, 255, 255, 0.959);
     left: 0;
-    margin-left: -40px;
   }
 
   ul.responsive.header-nav li a{
     color: black;
   }
 
-  ul.social-icon li:not(:last-child) {
+  ul.social-icon li {
     display:none;
   }
 
-  ul.social-icon li a.icon {
+  li.hamberger-menu a.icon {
     display: block;
     color:#e7433a;
     font-size: 1.5rem;
+    transform: translateX(70%);
+    padding-left: 15px;
+    padding-right: 15px;
   }
   
   header.boxed .header-margin{
