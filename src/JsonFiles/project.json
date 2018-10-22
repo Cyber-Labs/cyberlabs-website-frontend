@@ -1,0 +1,412 @@
+[
+  {
+    "Name": "Perul Jain",
+    "Project": "Information app",
+    "Description": "An app which stores the information of user in firebase realtime database and information can be used for official purposes.",
+    "Relevant Links": "https://github.com/peruljain",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Perul Jain",
+    "Project": "Concetto app",
+    "Description": "Our team (me , Vanshika,  Shridhar) made this app for biggest techno-management fest of East India, CONCETTO. This app consists of information about events, workshops, tech-talks.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Perul Jain",
+    "Project": "Light detecting bot",
+    "Description": "An autonomous bot which follows light .",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Perul Jain",
+    "Project": "Bluetooth control bot",
+    "Description": "An autonomous bot which is controlled by Android app",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Perul Jain",
+    "Project": "obstacle avoiding bot",
+    "Description": "An autonomous bot which compete the path with obstacles between their path",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Suyog Jadhav",
+    "Project": "DriveSmart",
+    "Description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad​. Nearing completion.",
+    "Relevant Links": "NDA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Suyog Jadhav",
+    "Project": "FaceSearch",
+    "Description": "Created a command-line tool that takes an image, detects faces in it, lets user select one and then tries to establish identity of the person by performing Google reverse Image search on the face. Used OpenCV​. Implemented in Python. Completed.",
+    "Relevant Links": "https://github.com/IAmSuyogJadhav/FaceSearch",
+    "Project-Images": "suyog-facesearch.png"
+  },
+  {
+    "Name": "Suyog Jadhav",
+    "Project": "WalkSafe",
+    "Description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
+    "Relevant Links": "https://github.com/hackabit18/CyberLabs",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Suyog Jadhav",
+    "Project": "T. A. L. K.",
+    "Description": "Working on a startup idea in a team of three members that promises something that has never been achieved before. Using recurrent neural networks in combination with advanced conducting fibres and other hardware sensors as the core technologies. The work hasn't yet started.",
+    "Relevant Links": "NDA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Udbhav Bamba",
+    "Project": "DriveSmart",
+    "Description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad​. Nearing completion.",
+    "Relevant Links": "NDA",
+    "Project-Images": ""
+  },
+  
+  {
+    "Name": "Udbhav Bamba",
+    "Project": "WalkSafe",
+    "Description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
+    "Relevant Links": "https://github.com/hackabit18/CyberLabs",
+    "Project-Images": ""
+  },
+ 
+  {
+    "Name": "Udbhav Bamba",
+    "Project": "Neural Style Transfer",
+    "Description": "It is the implementation of \"A Neural Algorithm of Artistic Style\"\n(https://arxiv.org/pdf/1508.06576.pdf) paper by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge.",
+    "Relevant Links": "https://github.com/ubamba98/Neural-Style-Transfer",
+    "Project-Images": "udbhav-neutralstyle.png"
+  },
+  
+  {
+    "Name": "Raj Rani",
+    "Project": "One of the communication apps of Microsoft",
+    "Description": "NDA",
+    "Relevant Links": "NDA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Aniket Teotia",
+    "Project": "FaceBot",
+    "Description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.",
+    "Relevant Links": "https://github.com/anikett12/Face-Recognition",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Aniket Teotia",
+    "Project": "WalkSafe",
+    "Description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
+    "Relevant Links": "https://github.com/hackabit18/CyberLabs",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Dev Vats",
+    "Project": "FaceBot",
+    "Description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.\n\n",
+    "Relevant Links": "https://github.com/devvats/FaceBot",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Dev Vats",
+    "Project": "Movie Recommender",
+    "Description": "With a dataset consisting of user id’s and their rating for movies they have watched , the program will be able to predict the rating for unseen movies and thus suggest movies to users.",
+    "Relevant Links": "https://github.com/devvats/Movie-Recommender-System",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Tejus",
+    "Project": "DriveSmart",
+    "Description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad​. Nearing completion.",
+    "Relevant Links": "NDA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Tejus",
+    "Project": "MNIST Regeneration",
+    "Description": "Recreated the Handwritten Digits from the MNIST Dataset using a Generative Adversarial Network(GAN), an implementation of \"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks\" (https://arxiv.org/pdf/1511.06434) paper.",
+    "Relevant Links": "https://github.com/gktejus/GAN-for-MNIST",
+    "Project-Images": "tejas-mnist.png"
+  },
+  {
+    "Name": "NIKHIL",
+    "Project": "LIGHT DETECTING BOT",
+    "Description": "A light detecting bot which move in direction of higher intensity of light",
+    "Relevant Links": "https://github.com/nikarora1111/light-detector-.git",
+    "Project-Images": ""
+  },
+  {
+    "Name": "NIKHIL",
+    "Project": "voltage tester of battery",
+    "Description": "arduino based voltage tester which tells about battery voltage",
+    "Relevant Links": "https://github.com/nikarora1111/voltage-tester-of-battery-using-arduino.git",
+    "Project-Images": ""
+  },
+  {
+    "Name": "NIKHIL",
+    "Project": "obstacle avoiding bot",
+    "Description": "an autonomous bot able to the path with obstacle between path",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "NIKHIL",
+    "Project": "LCD module printing",
+    "Description": "used lcd 20*4 module to printing data (scrolling mode,blinking mode..etc)",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "News Reader",
+    "Description": "Fetches news from various news agencies and display them in an organised way.",
+    "Relevant Links": "https://github.com/ShridharGoel/NewsReader",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "Wallpaper Gallery",
+    "Description": "A wallpaper gallery for Android devices which contains features like downloading, sharing and\nadding to favourite list. It uses firebase as backend for storing wallpapers and other details like\ntitle, description and category.",
+    "Relevant Links": "https://github.com/ShridharGoel/wallpaper-app",
+    "Project-Images": ""
+  },
+  
+  {
+    "Name": "Shridhar Goel",
+    "Project": "Ball Runner",
+    "Description": "Ball Runner is a game for the android platform made with Unity.",
+    "Relevant Links": "https://play.google.com/store/apps/details?id=com.dsapps.ballrunner",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "Classifieds App",
+    "Description": "An android app which can be used as a marketplace for people to sell and buy items.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "Attendance Management App",
+    "Description": "A simple attendance management app which can be used by employers to maintain the attendance\nof employees. The employees are expected to login using their mobile number by OTP\nauthentication. When a person checks-in by clicking on the \"Check-in\" button, his/her location\n(latitude, longitude and address) would be stored in the database along with the current\ntime. Similarly, while leaving office, the person should check-out so that the timing of checking-out\nis stored.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "Concetto App",
+    "Description": "Worked in a team of three to develop an app for the annual techno-management fest of IIT(ISM) Dhanbad.",
+    "Relevant Links": "bit.ly/concettoapp",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shridhar Goel",
+    "Project": "WalkSafe",
+    "Description": "Will be working on the android app of a smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
+    "Relevant Links": "https://github.com/hackabit18/CyberLabs",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Mayank kumar",
+    "Project": "Score Feeder",
+    "Description": "web crawler developed by cricbuzz python library which fetches live scores,full score card and commentry.",
+    "Relevant Links": "https://github.com/Mk-ism/Score-card-viewer",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Mayank kumar",
+    "Project": "Keylogger sender",
+    "Description": "key strokes hacking tool developed using pyhook library, which sends strokes data to the server.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Mayank kumar",
+    "Project": "Image downloader and url fetcher",
+    "Description": "python scrapping tool that downloads all image in a webpage and shows all urls ,which is used for furter pentesting.",
+    "Relevant Links": "https://github.com/Mk-ism/Image_downloaderhttps://github.com/Mk-ism/Fetch-urls",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Aditya Mudgil",
+    "Project": "AR Ruler",
+    "Description": "AR_Ruler is a powerful application which can measure any distance between two given points in all the three axis separately. It can measure distance between any two point in cm, inch, m, foot. This is made in Unity with Vuforia.",
+    "Relevant Links": "https://github.com/adityamudgil2505/AR_Ruler",
+    "Project-Images": "aditya-ruler.jpg"
+  },
+  {
+    "Name": "Aditya Mudgil",
+    "Project": "Music Player",
+    "Description": "Basic Music Player using html, css, javascript",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Saloni Mohta",
+    "Project": "Brick Breaker",
+    "Description": "A basic brickBreaker game which determines the score of an individual on the basis of the number of bricks broken by the ball. Implemented using React Native and JavaScript. Currently working on it.",
+    "Relevant Links": "https://github.com/salonimohta/brickBreaker-using-React-Native",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Saloni Mohta",
+    "Project": "The-Q",
+    "Description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) .Starting on 26.10.18.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Rishabh Rajput",
+    "Project": "Advanced sentiment analysis based Twitter support bot for #MeToo",
+    "Description": "• Used Natural Language processing and Machine learning algorithm to do a Sentiment Analysis and grade a #MeToo post. • Validated the genuinity of the post on the basis of polarity and factuality. •Analyzed emotion of the post & performed tasks such as re-tweeting the genuine post, and commenting supportive solution.",
+    "Relevant Links": "https://github.com/rrishabh145/Advanced-sentiment-analysis-based-Twitter-support-bot-for-MeToo",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Rishabh Rajput",
+    "Project": "Time series forecasting with LSTM neural network in Keras",
+    "Description": "• Made multiple models to solve a forecasting problem where, given the weather conditions and pollution for prior hours, pollution at the next hour was predicted using LSTM neural network on time series data. • Extended to generalize for forecasting on multivariate as well as univariate time series data of any type.",
+    "Relevant Links": "NA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Rishabh Rajput",
+    "Project": "Hand written digit recognition",
+    "Description": "Predicted hand written digit images (MNIST) by 2 methods: •implemented one vs all classiﬁcation by training multiple regularized logistic regression classiﬁers, one each for 10 digits. • implemented the back propagation algorithm to learn the parameters for regularized neural network",
+    "Relevant Links": "NA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Rishabh Rajput",
+    "Project": "Miniature Weather Monitoring Station (IoT based)",
+    "Description": "Built an automated weather monitoring station which gives us a regular weather report of our local surrounding. With the use of a Raspberry Pi and a network of sensors, the system monitors wind speed, wind direction, air temperature, humidity, rain and solar radiation. The user gets a regular update of the surrounding weather on his/her computer through the internet cloud storage centre.",
+    "Relevant Links": "NA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Rishabh Rajput",
+    "Project": "Awesome Text Editor",
+    "Description": "A graphical user friendly text editor written in python using PyQt5 module. It has many functions and tools for the user to create and edit various styles of text.",
+    "Relevant Links": "https://github.com/rrishabh145/Awesome-Text-Editor",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Ali Sabir",
+    "Project": "ImageCompress",
+    "Description": "An app which compresses as well as decompresses high resolution images using  K means a widely used unsupervised machine learning algorithm.",
+    "Relevant Links": "https://github.com/Samuelimza/ImageCompress",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Ali Sabir",
+    "Project": "CodeOnPaper",
+    "Description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code.Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
+    "Relevant Links": "https://github.com/hackabit18/Gizmos",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Osama Azmi",
+    "Project": "ImageCompress",
+    "Description": "An app which compresses as well as decompresses high resolution images using  K means a widely used unsupervised machine learning algorithm.",
+    "Relevant Links": "https://github.com/Samuelimza/ImageCompress",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Osama Azmi",
+    "Project": "CodeOnPaper",
+    "Description": "An app which converts small programs written on paper to editable formats with the options to compile and run. Starting 26/10/2018",
+    "Relevant Links": "https://github.com/hackabit18/Gizmos",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Osama Azmi",
+    "Project": "Autonomous Car (prototype)",
+    "Description": "Genetically evolved simulated cars to drive within the boundaries of a defined track.",
+    "Relevant Links": "",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "Food Haunt",
+    "Description": "Foodhunt is an online food ordering service active in Jabalpur, India and for this Designed and Developed an Android mobile app and REST API back end for online food ordering services. \nInvolved technologies were Android, Java, PHP and SQL.",
+    "Relevant Links": "https://play.google.com/store/apps/details?id=com.foodHaunt.app&hl=en_IN",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "Recommendation Engines",
+    "Description": "Implemented different Recommendation Engine models on Collaborative filtering and Association based algorithms.\n\n1 - Collaborative Filtering based on Nearest Neighbors using Hamming distance.\n2 - Collaborative Filtering based on Nearest Neighbors using Pearson's correlation.\n3 - Collaborative Filtering based on Latent Factor (It solves sparse matrix problem and is highly efficient too).\n4 - Collaborative Filtering based on Regression and uses Gradient descent algorithm to reduce cost.\n5 - Association based Recommendation Engine based on Apriori Association.",
+    "Relevant Links": "https://github.com/Shubham-vish/Recommendation-Engines",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "Saddacampus",
+    "Description": "Saddacampus is a Startup which aims to make college life easier and for this designed and developed an Android application with Restfull API services.",
+    "Relevant Links": "https://play.google.com/store/apps/details?id=com.saddacampus.app&hl=en_IN",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "HubISM",
+    "Description": "This is an open source android project for Hackfest 2017 called \"hubISM\", which serves as a solution to all the daily life problems of IIT(ISM) students. The app is being developed to be usable in even offline mode. The app follows an open-source approach for further development, in addition to what the team does itself.",
+    "Relevant Links": "https://play.google.com/store/apps/details?id=io.github.gitwebx.hubiitism",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "B+ Tree Implementation in Hadoop For Big Data",
+    "Description": "Implemented the indexing of B+ Tree on Hadoop Distributed File System on top of HBase database to make efficient queries such as:\nSearch by primary key. Time Complexity: BigO(log(n)/(number of clusters)\nSearch by a non-primary key. Time Complexity: BigO(n/(number of cluster))\nInsertion and deletion of a single row in the database. Time Complexity: BigO(log(n))\n\nThe indexing is very effective in the scenarios where huge datasets can’t be loaded on RAM so in those cases this method of indexing load just a single node of the dataset at a time. Also, as the size of a single node is large, it takes fewer memory checks to perform queries.",
+    "Relevant Links": "https://github.com/Shubham-vish/hadoop-B-Tree",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "Shuttle Tracker",
+    "Description": "It's an android application developed for tracking buses at IIT-ISM Dhanbad, A Raspberry Pi will be attached with the bus which will continuously send coordinates of bus to the server then from this server app will fetch the location and show it to users.",
+    "Relevant Links": "Err:509",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Shubham Vishwakarma",
+    "Project": "Object Detection and Classification Android application",
+    "Description": "Implemented the famous YOLO algorithm to detect and classify objects in an Android application using Java and tensorflow.",
+    "Relevant Links": "NA",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Anushka Mittal",
+    "Project": "Crytocurrency App",
+    "Description": "It is a React-Native App used for tracking prices of various coins and to know the percent change in their prices per hour ,per day and per week.",
+    "Relevant Links": "https://github.com/anushkamittal/Crytocurrency",
+    "Project-Images": "anushka-crypto.png"
+  },
+  {
+    "Name": "Anushka Mittal",
+    "Project": "Breakout game",
+    "Description": "A game made using pure Javascript.",
+    "Relevant Links": "https://github.com/anushkamittal/Breakout",
+    "Project-Images": "anushka-breakout.png"
+  },
+  {
+    "Name": "Anushka Mittal",
+    "Project": "Chatapp",
+    "Description": "An App like messenger used  for both group as well as personel chat",
+    "Relevant Links": "https://github.com/anushkamittal/Chatapp",
+    "Project-Images": ""
+  },
+  {
+    "Name": "Anushka Mittal",
+    "Project": "CyberLabs Website",
+    "Description": "Me along with my web team of Cyberlabs Society Made the website of the official coding club of IIT ISM Dhanbad",
+    "Relevant Links": "https://github.com/anushkamittal/cyberlabs-website-frontend",
+    "Project-Images": ""
+  }
+]
