@@ -52,7 +52,8 @@
 .member-about {
   text-align: center;
   margin-top: 10px;
-  color: rgb(37, 37, 37)
+  color: rgb(37, 37, 37);
+  overflow: hidden;
 }
 
 .member-projects-title {
