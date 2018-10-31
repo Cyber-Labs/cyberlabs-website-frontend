@@ -493,3 +493,8 @@
   }
 
 }
+@media all and (max-width: 315px) and (min-width: 250px){
+  .logo{
+    margin-left: 4%;
+  }
+}
