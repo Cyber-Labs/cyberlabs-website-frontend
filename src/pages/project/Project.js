@@ -14,7 +14,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/sddefault.jpg"/>
+              <img src="assets/img/projects/sddefault.jpg" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="single.html">
                 <div className="grid-hover">
                   <h1 className="card-heading">Alice</h1>
@@ -26,7 +26,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/smartMirror.jpg"/>
+              <img src="assets/img/projects/smartMirror.jpg" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="single-fullscreen.html">
                 <div className="grid-hover">
                   <h1 className="card-heading">Smart mirror</h1>
@@ -38,7 +38,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/shril_earthquake.png"/>
+              <img src="assets/img/projects/shril_earthquake.png" alt="cyber-labs-projects"/>
               <a className="ajax-link" href="single.html">
                 <div className="grid-hover">
                   <h1 className="card-heading">EarthQuake mapper</h1>
@@ -52,7 +52,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/digibin.jpg"/>
+              <img src="assets/img/projects/digibin.jpg" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="single-fullscreen.html">
                 <div className="grid-hover">
                   <h1 className="card-heading">DigiBin</h1>
@@ -64,7 +64,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/thumb_digiboard.png"/>
+              <img src="assets/img/thumb_digiboard.png" alt="cyber-labs-projects"/>
               <a className="ajax-link" href="#">
                 <div className="grid-hover">
                   <h1 className="card-heading">DigiBoard</h1>
@@ -77,7 +77,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/SH_captions.jpg"/>
+              <img src="assets/img/projects/SH_captions.jpg" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="#">
                 <div className="grid-hover">
                   <h1 className="card-heading">Smart Handshake</h1>
@@ -90,7 +90,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/thumb_buzzlogs.png"/>
+              <img src="assets/img/thumb_buzzlogs.png" alt="cyber-labs-projects"/>
               <a className="ajax-link" href="#">
                 <div className="grid-hover">
                   <h1 className="card-heading">BuzzLogs</h1>
@@ -102,7 +102,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/buzzer.JPG"/>
+              <img src="assets/img/projects/buzzer.JPG" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="#">
                 <div className="grid-hover">
                   <h1 className="card-heading">Low power remote alerter</h1>
@@ -113,7 +113,7 @@ class Project extends Component {
             <li
               className="grid-item"
               data-jkit="[show:delay=3000;speed=500;animation=fade]">
-              <img src="assets/img/projects/old_cl.jpg"/>
+              <img src="assets/img/projects/old_cl.jpg" alt="Cyber_labs_Project"/>
               <a className="ajax-link" href="#">
                 <div className="grid-hover">
                   <h1 className="card-heading">Cyber Labs Member Space</h1>
