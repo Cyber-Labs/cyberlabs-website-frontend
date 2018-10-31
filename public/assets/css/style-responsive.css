@@ -395,9 +395,11 @@
   }
   
   header.boxed .header-margin{
-    width:280px;
+    width:100%;
   }
-
+  .logo{
+    margin-left: 10%;
+  }
   .content .text-intro{
     width:280px;
   }
