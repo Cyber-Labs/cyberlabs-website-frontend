@@ -4,10 +4,15 @@ class Header extends Component {
   constructor(props){
     super(props);
     this.state= {
-      responsive: false
+      responsive: false,
+      windonHref: ""
     };
   }
-
+  componentDidMount(){
+    this.setState({
+      windowHref: window.location.href.substr(window.location.href.length-7, 7)
+    })
+  }
   render() {
     return (
       <div id='Header'>
