@@ -352,7 +352,7 @@
 }
 
 
-@media all and (max-width: 480px) and (min-width: 260px) {
+@media all and (max-width: 480px) and (min-width: 240px) {
 
   ul.header-nav{
     /* width:50%; */
@@ -493,8 +493,8 @@
   }
 
 }
-@media all and (max-width: 315px) and (min-width: 250px){
+@media all and (max-width: 315px) and (min-width: 240px){
   .logo{
-    margin-left: 4%;
+    margin-left: 0;
   }
 }
