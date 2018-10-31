@@ -4,7 +4,7 @@ class Header extends Component {
   constructor(props){
     super(props);
     this.state= {
-      responsive: false
+      responsive: false,
     };
   }
 
