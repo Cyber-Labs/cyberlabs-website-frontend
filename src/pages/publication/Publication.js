@@ -16,7 +16,7 @@ class Publication extends Component {
                   </div>
                   <h3>The Bit Theories:</h3>
                   <a href="https://thebittheories.com/" target="_blank" rel="noopener noreferrer"><div id="posts-header" style={{width: "50%", height: "auto"}}>
-                  <img src="assets/img/tbt_pic.png" /></div></a>
+                  <img src="assets/img/tbt_pic.png" alt="img" /></div></a>
                   <p>Learn esoteric Computer Science concepts via short articles under 3-minute reads on the go!</p>
                   <p>Be it programming, hardware, software, data science or algorithms, our members tinker in their projects and let you know the must-haves to save your time!</p>
                   <p>Follow <a href="https://thebittheories.com/" target="_blank" rel="noopener noreferrer">us here</a> to learn via the Bit Theories.</p>

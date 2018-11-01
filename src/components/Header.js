@@ -4,7 +4,7 @@ class Header extends Component {
   constructor(props){
     super(props);
     this.state= {
-      responsive: false
+      responsive: false,
     };
   }
 
@@ -28,13 +28,13 @@ class Header extends Component {
                 <a className="ajax-link" to="#">People <i className="fa fa-angle-down"></i></a>
                 <ul>
                   <li>
-                    <Link to="members">Members</Link>
+                    <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="members">Members</Link>
                   </li>
                   <li>
-                    <Link to="advisors">Advisors</Link>
+                    <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="advisors">Advisors</Link>
                   </li>
                   <li>
-                    <Link to="management">Management</Link>
+                    <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="management">Management</Link>
                   </li>
                 </ul>
               </li>
@@ -57,10 +57,10 @@ class Header extends Component {
                 </ul>
               </li> */}
               <li>
-                <Link to="about">About</Link>
+                <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="about">About</Link>
               </li>
               <li>
-                <Link to="contact">Contact</Link>
+                <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="contact">Contact</Link>
               </li>
               {/* Apart */}
               {/* <li className="pull-right"><a href="comingSoon" style={{color:#111;">Calendar</a></li> */}
