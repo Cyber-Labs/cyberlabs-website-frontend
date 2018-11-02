@@ -3,12 +3,15 @@ import "./member-card/member-card.css";
 
 
 class MemberCard extends Component {
-	// constructor(props){
-	// 	super(props);
-	// 	this.state={
-			
-	// 	};
-	// }
+	constructor(props){
+		super(props);
+		this.state={
+			img:"https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2"
+		};
+		if(this.props.img){
+			this.setState({img:this.props.img})
+		}
+	}
 	// dataFilter(){
 	// 	let data=this.props.info;
 
@@ -18,7 +21,8 @@ class MemberCard extends Component {
 
 		return (
 			<div className="member-card">
-				<img className="member-profile-img" src="https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2" alt="" width="170px" />
+				
+				<img className="member-profile-img" src={this.state.img} alt="" width="170px" />
 				<h2 className="member-name">{this.props.info.name}</h2>
 				<div className="member-details">
 					{/* <div className="job1">
@@ -37,8 +41,8 @@ class MemberCard extends Component {
 							<li className="member-social-icon"><a href={this.props.info.links.linkedin} rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin-square"
 							aria-hidden="true"></i></a></li>
 						}
-						{this.props.info.links.resume &&
-							<li className="member-social-icon"><a href={this.props.info.links.resume} rel="noopener noreferrer" target="_blank"><i
+						{this.props.info.links.others &&
+							<li className="member-social-icon"><a href={this.props.info.links.others} rel="noopener noreferrer" target="_blank"><i
 							className="fa fa-file-text" aria-hidden="true"></i></a></li>
 						}
 						{this.props.info.links.medium &&
