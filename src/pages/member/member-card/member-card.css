@@ -52,15 +52,16 @@
 .member-about {
   text-align: center;
   margin-top: 10px;
-  color: rgb(37, 37, 37)
+  color: rgb(37, 37, 37);
+  overflow: ;
 }
 
 .member-projects-title {
   padding: 10px;
   opacity: 1;
   font-size: 15px;
-  font-weight: 600;
-  text-align: center;
+  font-weight: 600;       
+  text-align: center;       
 }
 
 .member-projects {
