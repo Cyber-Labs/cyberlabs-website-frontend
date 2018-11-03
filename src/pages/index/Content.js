@@ -11,7 +11,7 @@ class Content extends Component {
                 </p>
                 <p>Hop on, if you have that "keeda" of invention.</p>
                 <div>
-                  <a className="indexLinks" href="comingSoon" style={{width:"40%"}}>
+                  <a className="indexLinks" href="projects" style={{width:"40%"}}>
                     <h3 className="card-heading">See projects ></h3>
                   </a>
                   <a className="indexLinks" href="comingSoon" style={{width:"40%"}}>
