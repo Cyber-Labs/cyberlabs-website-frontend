@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import "./p1.css";
+import "./project.css";
 
 class Project extends Component {
 
@@ -18,10 +18,10 @@ class Project extends Component {
                 </div>
                 <hr width="50%"  color="orange"/>    
                 <div className="url">
-                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-github" aria-hidden="true"></i></div>  </a> 
               </div>
-                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-external-link-square" aria-hidden="true"></i></div>  </a> 
               </div>   
                 </div>
@@ -51,10 +51,10 @@ class Project extends Component {
                 </div>
                 <hr width="50%"  color="orange"/>    
                 <div className="url">
-                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-github" aria-hidden="true"></i></div>  </a> 
               </div>
-                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-external-link-square" aria-hidden="true"></i></div>  </a> 
               </div>   
                 </div>
@@ -84,10 +84,10 @@ class Project extends Component {
                 </div>
                 <hr width="50%"  color="orange"/>    
                 <div className="url">
-                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-github" aria-hidden="true"></i></div>  </a> 
               </div>
-                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-external-link-square" aria-hidden="true"></i></div>  </a> 
               </div>   
                 </div>
@@ -117,14 +117,14 @@ class Project extends Component {
                 </div>
                 <hr width="50%"  color="orange"/>    
                 <div className="url">
-                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1"><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-github" aria-hidden="true"></i></div>  </a> 
               </div>
-                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank">
+                <div className="icon1" ><a href="https://github.com/anushkamittal/" target="_blank" rel="noopener noreferrer">
               <div><i class="fa fa-external-link-square" aria-hidden="true"></i></div>  </a> 
               </div>   
                 </div>
-                <div className="Description"><p> Getting started with contributing open source is not
+                <div className="Description"><p> Getting started with contributing open source is not 
                    always straightforward and can be tricky. With this series, you’ll be equipped with
                     the the tools, knowledge, and understanding you need to be productive and contribute
                      to the wonderful world of open source projects. Much of this series speaks about
