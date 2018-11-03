@@ -11,24 +11,21 @@ class MemberCard extends Component {
 	}
 
   render() {
-
 		return (
-			<div className="member-card">
-				
-				<ProgressiveImage className="member-profile-img" src={this.props.info.img}  placeholder={this.state.img}  >
-                  {src => <img src={src} alt="alumni" 
+			<div className="member-card">	
+				<ProgressiveImage className="member-profile-img" src={`/assets/img/memberProfile/${this.props.info.img}`}  placeholder={this.state.img}  >
+                  {src => <img src={src} alt="member" 
                     height="250" width="200"
                     style={{
 					borderRadius: "30px",
 					margin: "auto",
-					boxShadow: "-13px 1px 19px -9px #888888"
+					boxShadow: "0 1px 18px -4px #888888",
+					objectFit: "cover",
+					objectPosition: "50% 20%"
                   }}/>}
                 </ProgressiveImage>
 				<h2 className="member-name">{this.props.info.name}</h2>
 				<div className="member-details">
-					{/* <div className="job1">
-						<p>pic field here</p>
-					</div> */}
 					<ul className="member-social-links">
 						{this.props.info.email &&
 							<li className="member-social-icon"><a href={this.props.info.email} rel="noopener noreferrer" target="_blank"><i className="fa fa-at"
@@ -53,18 +50,10 @@ class MemberCard extends Component {
 						
 					</ul>
 					<div className="lang1">
-						{/* languages here */}
 					</div>
 					<p className="member-about"> {this.props.info.about}</p>
 				</div>
 				<hr width="30%" />
-				{/* <div className="member-projects-title">PROJECTS</div>
-				<div className="member-projects">
-					<div className="member-project-icon">B</div>
-					<div className="member-project-icon">C</div>
-					<div className="member-project-icon">D</div>
-					<div className="member-project-icon">Q</div>
-				</div> */}
 			</div>
 		);
   }

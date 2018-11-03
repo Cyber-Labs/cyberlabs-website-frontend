@@ -31,53 +31,30 @@ class Header extends Component {
                     <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="members">Members</Link>
                   </li>
                   <li>
-                    <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="advisors">Advisors</Link>
+                    <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="alumni">Alumni</Link>
                   </li>
                   <li>
                     <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="management">Management</Link>
                   </li>
                 </ul>
               </li>
-              {/* <li>
-                <Link to="comingSoon">Blog</Link>
-              </li> */}
-              {/* blog */}
-              {/* <li>
-                <a className="ajax-link" style={{cursor: "pointer"}}>Events <i className="fa fa-angle-down"></i> </a>
-                <ul>
-                  <li>
-                    <Link to="comingSoon">[.dotMatrix]</Link>
-                  </li>
-                  <li>
-                    <Link to="comingSoon">Events</Link>
-                  </li>
-                  <li>
-                    <Link to="comingSoon">Downloads</Link>
-                  </li>
-                </ul>
-              </li> */}
               <li>
                 <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="about">About</Link>
               </li>
               <li>
                 <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="contact">Contact</Link>
               </li>
-              {/* Apart */}
-              {/* <li className="pull-right"><a href="comingSoon" style={{color:#111;">Calendar</a></li> */}
-              {/* <li className="pull-right" style={{float:"right"}}>
-                <a href="comingSoon" style={{color:"#111",}}>Publications</a>
-              </li> */}
             </ul>
             <ul className="social-icon">
               <div className="social-index">
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/labscyber">
-                    <i className="fa fa-facebook-f fa-2x"></i>
+                    <i className="fa fa-facebook-f"></i>
                   </a>
                 </li>
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
-                    <i className="fa fa-github fa-2x"></i>
+                    <i className="fa fa-github"></i>
                   </a>
                 </li>
               </div>
