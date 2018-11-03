@@ -6,11 +6,12 @@ class MemberCard extends Component {
 	constructor(props){
 		super(props);
 		this.state={
-			img:"https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2"
+			// img:"https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2"
+			// img:"/images/"+this.props.info.img
 		};
-		if(this.props.img){
-			this.setState({img:this.props.img})
-		}
+		// if(this.props.img){
+		// 	this.setState({img:"./images/"+this.props.info.img})
+		// }
 	}
 	// dataFilter(){
 	// 	let data=this.props.info;
@@ -22,7 +23,7 @@ class MemberCard extends Component {
 		return (
 			<div className="member-card">
 				
-				<img className="member-profile-img" src={this.state.img} alt="" width="170px" />
+				<img className="member-profile-img" src={`images/${this.props.info.img}`} alt="" width="170px" />
 				<h2 className="member-name">{this.props.info.name}</h2>
 				<div className="member-details">
 					{/* <div className="job1">
@@ -57,13 +58,13 @@ class MemberCard extends Component {
 					<p className="member-about"> {this.props.info.about}</p>
 				</div>
 				<hr width="30%" />
-				<div className="member-projects-title">PROJECTS</div>
+				{/* <div className="member-projects-title">PROJECTS</div>
 				<div className="member-projects">
 					<div className="member-project-icon">B</div>
 					<div className="member-project-icon">C</div>
 					<div className="member-project-icon">D</div>
 					<div className="member-project-icon">Q</div>
-				</div>
+				</div> */}
 			</div>
 		);
   }
