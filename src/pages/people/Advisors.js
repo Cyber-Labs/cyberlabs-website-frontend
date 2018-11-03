@@ -2,10 +2,16 @@ import React, {Component} from "react";
 import alumni from "./advisorField";
 import ProgressiveImage from "react-progressive-image"
 class Alumni extends Component {
+  constructor(props){
+    super(props);
+    this.state = {
+      opImg: "https://opensource.google.com/assets/static/images/home/blog/blog_image_1.jpg"
+    }
+  }
   renderFields(){
-    return alumni.map(({name, img, opImg, position, place})=>{
+    return alumni.map(({name, img, position, place})=>{
             return  (<div className="grid-responsive">
-                <ProgressiveImage src={img} placeholder={opImg}>
+                <ProgressiveImage src={img} placeholder={this.state.opImg}>
                   {src => <img src={src} alt="alumni" 
                     height="230" width="250px"
                     style={{
