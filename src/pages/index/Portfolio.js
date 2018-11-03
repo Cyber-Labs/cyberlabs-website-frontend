@@ -7,7 +7,7 @@ class Portfolio extends Component {
     return projects.map(({name, project, description, links, images}, index)=>{
       return (<div className={"blog-card" + (index%2 === 0 ? " alt":"")}>
       <div className="meta">
-        <div className="photo" style={{backgroundImage: `url(assets/img/project/${images})`}} />
+        <div className="photo" style={{backgroundImage: `url(assets/img/project/${images}), url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Planet_-_The_Noun_Project.svg/1280px-Planet_-_The_Noun_Project.svg.png)`}} />
         <ul className="details">
           <li className="author">{name}</li>          
         </ul>
