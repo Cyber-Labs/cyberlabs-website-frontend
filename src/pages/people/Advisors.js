@@ -7,7 +7,7 @@ class Alumni extends Component {
             return  (<div className="grid-responsive">
                 <ProgressiveImage src={img} placeholder={opImg}>
                   {src => <img src={src} alt="alumni" 
-                    height="230"
+                    height="230" width="250px"
                     style={{
                     borderRadius: "10px"
                   }}/>}
