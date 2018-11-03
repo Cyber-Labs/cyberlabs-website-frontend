@@ -7,7 +7,7 @@ class Management extends Component {
     return item.map(({name, img, position, place})=>{
             return  (<div className="grid-responsive">
                 <img
-                  src={`assets/img/${img}`}
+                  src={`${img}`}
                   alt="img"
                   height="230"
                   style={{

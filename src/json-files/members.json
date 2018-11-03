@@ -1,11 +1,23 @@
 [{
+  "email": "nveenjain@gmail.com",
+  "name": "Naveen Jain",
+  "team": "Web",
+  "contactNo": "9680946939",
+  "about": "Secretary | Web | OSS",
+  "links": {
+    "github": "https://github.com/nveenjain",
+    "linkedin": "https://www.linkedin.com/in/nveenjain/",
+    "twitter": "https://twitter.com/nveenjain"
+  },
+  "img": "/images/naveen-jain.jpg"
+},{
   "email": "aayushd100@gmail.com",
   "name": "Aayush Dutt",
   "team": "Web Development",
   "contactNo": "",
   "about": "Web Application Developer at Cyber Labs",
   "links": {},
-  "img": "aayush-dutt.jpg"
+  "img": "/images/aayush-dutt.jpg"
 }, {
   "email": "2893ag@gmail.com",
   "name": "ANURAG GUPTA",
@@ -17,7 +29,7 @@
     "linkedin": "https://in.linkedin.com/in/anuraggupta93",
     "facebook": "https://www.facebook.com/AnuragGupta93"
   },
-  "img": "anurag-gupta.jpg"
+  "img": "/images/anurag-gupta.jpg"
 }, {
   "email": "anushkashikha1998@gmail.com",
   "name": "Anushka Mittal",
@@ -28,7 +40,7 @@
     "linkedin": "https://www.linkedin.com/in/anushka-mittal-38a729154/",
     "resume": "https://drive.google.com/file/d/17OTSqSGIE4JZdyXkZkYtI3Nreuer_YxB/view?usp=sharing"
   },
-  "img": "anushka-mittal.jpg"
+  "img": "/images/anushka-mittal.jpg"
 }, {
   "email": "perul365@gmail.com",
   "name": "Perul Jain",
@@ -38,7 +50,7 @@
   "links": {
     "facebook": "https://www.facebook.com/perul.jain"
   },
-  "img": "perul-jain.jpg"
+  "img": "/images/perul-jain.jpg"
 }, {
   "email": "vatsdev22@gmail.com",
   "name": "Dev Vats",
@@ -50,7 +62,7 @@
     "github": "https://github.com/devvats",
     "codechef": "https://www.codechef.com/users/devvats"
   },
-  "img": "dev-vats.jpg"
+  "img": "/images/dev-vats.jpg"
 }, {
   "email": "adityamudgil2505@gmail.com",
   "name": "Aditya Mudgil",
@@ -60,7 +72,7 @@
   "links": {
     "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
   },
-  "img": "aditya-mudgil.jpg"
+  "img": "/images/aditya-mudgil.jpg"
 }, {
   "email": "udbhav.17je002781@am.ism.ac.in",
   "name": "Udbhav Bamba",
@@ -71,7 +83,7 @@
     "linkedin": "linkedin.com/in/ubamba98",
     "blog" : "https://mlendeavours.wordpress.com"
   },
-  "img": "udbhav-bamba.jpg"
+  "img": "/images/udbhav-bamba.jpg"
 }, {
   "email": "shridhar.goel@gmail.com",
   "name": "Shridhar Goel",
@@ -82,7 +94,7 @@
     "linkedin": "https://www.linkedin.com/in/shridhar-goel",
     "github":"https://www.github.com/ShridharGoel"
   },
-  "img": "shridhar-goel.jpg"
+  "img": "/images/shridhar-goel.jpg"
 }, {
   "email": "suyog.jadhav1@gmail.com", 
   "name": "Suyog Jadhav",
@@ -92,7 +104,7 @@
   "links": {
     ")": "(Portfolio) https://iamsuyogjadhav.github.io/\n(Blog) https://mlendeavours.wordpress.com/\n(Linkedin) https://www.linkedin.com/in/IAmSuyogJadhav/\n(GitHub) https://github.com/IAmSuyogJadhav\n(Twitter) https://twitter.com/IAmSuyogJadhav\n(Facebook) http://fb.com/IAmSuyogJadhav\n(StackExchange) https://ai.stackexchange.com/users/16159/suyog-jadhav"
   },
-  "img": "suyog-jadhav.jpg"
+  "img": "/images/suyog-jadhav.jpg"
 }, {
   "email": "mayankkumar2652@gmail.com",
   "name": "Mayank kumar",
@@ -103,7 +115,7 @@
     ")": "Portfolio- about.me/mk-ism",
     "linkedin": "https://www.linkedin.com/in/mk-ism"
   },
-  "img": "mayank-kumar.jpg"
+  "img": "/images/mayank-kumar.jpg"
 }, {
   "email": "awasthishivansh5@gmail.com",
   "name": "Shivansh Awasthi",
@@ -113,7 +125,7 @@
   "links": {
     "github": "https://github.com/Shivansh55"
   },
-  "img": "shivansh-awasthi.jpg"
+  "img": "/images/shivansh-awasthi.jpg"
 }, {
   "email": "aayu.16je002440@am.ism.ac.in",
   "name": "Aayush Ahuja",
@@ -126,7 +138,7 @@
     "medium": "https://www.medium.com/@codeaayu",
     "facebook": "https://www.facebook.com/codeaayu"
   },
-  "img": "aayush-ahuja.jpg"
+  "img": "/images/aayush-ahuja.jpg"
 }, {
   "email": "rajrani0710@gmail.com",
   "name": "Raj Rani",
@@ -138,7 +150,7 @@
     "linked": "https://www.linkedin.com/in/rrsquare",
     "facebook": "https://facebook.com/arrsquare"
   },
-  "img": "raj-rani.jpg"
+  "img": "/images/raj-rani.jpg"
 }, {
   "email": "sanketsingh24@gmail.com",
   "name": "Sanket Singh",
@@ -148,7 +160,7 @@
   "links": {
     "github": "https://github.com/sanketsingh24"
   },
-  "img": "sanket-singh.jpg"
+  "img": "/images/sanket-singh.jpg"
 }, {
   "email": "ss.mrinalini@gmail.com",
   "name": "Mrinalini Singh",
@@ -156,7 +168,7 @@
   "contactNo": "9709369360",
   "about": "I\"m just an ordinary person enthusiastic about stars and how far we can go with computing.",
   "links": {},
-  "img": "mrinalini-singh.jpg"
+  "img": "/images/mrinalini-singh.jpg"
 }, {
   "email": "salonimohta37@gmail.com",
   "name": "Saloni Mohta",
@@ -166,7 +178,7 @@
   "links": {
     "github": "https://github.com/salonimohta"
   },
-  "img": "saloni-mohta.jpg"
+  "img": "/images/saloni-mohta.jpg"
 }, {
   "email": "osamaazmi1999@gmail.com",
   "name": "Osama Ashhad Azmi",
@@ -180,7 +192,7 @@
     "facebook": "https://www.facebook.com/dhaaba.beedu",
     "twitter": "https://twitter.com/Osamazmi"
   },
-  "img": "osama-ashhad-azmi.jpg"
+  "img": "/images/osama-ashhad-azmi.jpg"
 }, {
   "email": "specialopps9@gmail.com",
   "name": "Rishabh Verma",
@@ -188,7 +200,7 @@
   "contactNo": "9977991841",
   "about": "I know C/C++, python and much into linux operation system",
   "links": {},
-  "img": "rishabh-verma.jpg"
+  "img": "/images/rishabh-verma.jpg"
 }, {
   "email": "aniket.teotia@gmail.com",
   "name": "Aniket Teotia",
@@ -199,7 +211,7 @@
     "github": "https://github.com/anikett12/",
     "linkedin": "https://www.linkedin.com/in/aniket-teotia-4514b0165/"
   },
-  "img": "aniket-teotia.jpg"
+  "img": "/images/aniket-teotia.jpg"
 }, {
   "email": "tazrilparvez96@gmail.com",
   "name": "Tazril Parveez Ali",
@@ -210,7 +222,7 @@
     "github": "https://github.com/Tazril",
     "facebook": "https://m.facebook.com/tazrilparviz.ali"
   },
-  "img": "tazril-parveez-ali.jpg"
+  "img": "/images/tazril-parveez-ali.jpg"
 }, {
   "email": "ajaybhave108@gmail.com",
   "name": "Ajay Bhave",
@@ -220,7 +232,7 @@
   "links": {
     "linkedin": "www.linkedin.com/in/ajay-bhave-a4a828156"
   },
-  "img": "ajay-bhave.jpg"
+  "img": "/images/ajay-bhave.jpg"
 }, {
   "email": "vanshikaa937@gmail.com",
   "name": "Vanshika",
@@ -232,7 +244,7 @@
     "github": "https://github.com/vanshikaarora",
     "twitter": "Twitter-https://twitter.com/Vanshik74929888"
   },
-  "img": "vanshika-arora.jpg"
+  "img": "/images/vanshika-arora.jpg"
 }, {
   "email": "kumaramardipsingh@gmail.com",
   "name": "Amardeep Kumar",
@@ -243,7 +255,7 @@
     "linkedin": "https://www.linkedin.com/in/amardeep-kumar-634aa0171/",
     "facebook": "https://www.facebook.com/amardeepkumar26398"
   },
-  "img": "amardeep-kumar.jpg"
+  "img": "/images/amardeep-kumar.jpg"
 }, {
   "email": "tejusgk.17je002918@am.ism.ac.in",
   "name": "Tejus",
@@ -254,7 +266,7 @@
     "github": "github.com/gktejus",
     "linkedin": "linkedin.com/in/gktejus\nfacebook.com/Gktejus"
   },
-  "img": "tejus.jpg"
+  "img": "/images/tejus.jpg"
 }, {
   "email": "manchesteritesh@yahoo.com",
   "name": "Ritesh Manna",
@@ -262,7 +274,7 @@
   "contactNo": "7003506700",
   "about": "Loves Coding and Hacking!!!Die-hard ManUtd fan!!!",
   "links": {},
-  "img": "ritesh-manna.jpg"
+  "img": "/images/ritesh-manna.jpg"
 }, {
   "email": "madhavshahsisodiya@gmail.com",
   "name": "Madhav Shah Sisodiya",
@@ -275,7 +287,7 @@
     "facebook": "https://www.facebook.com/madhavshahsisodiya",
     "twitter": "https://www.twitter.com/MadhavShahS"
   },
-  "img": "madhavshahsisodiya@gmail.com.jpg"
+  "img": "/images/madhavshahsisodiya@gmail.com.jpg"
 }, {
   "email": "rrishabh145@gmail.com",
   "name": "Rishabh Rajput",
@@ -286,20 +298,8 @@
     "github": "https://github.com/rrishabh145",
     "linkedin": "https://www.linkedin.com/in/rishabh-rajput-a3b156120/"
   },
-  "img": "rishabh-rajput.jpg"
-}, {
-  "email": "nveenjain@gmail.com",
-  "name": "Naveen Jain",
-  "team": "Web",
-  "contactNo": "9680946939",
-  "about": "Secretary | Web | OSS",
-  "links": {
-    "github": "https://github.com/nveenjain",
-    "linkedin": "https://www.linkedin.com/in/nveenjain/",
-    "twitter": "https://twitter.com/nveenjain"
-  },
-  "img": "naveen-jain.jpg"
-}, {
+  "img": "/images/rishabh-rajput.jpg"
+},  {
   "email": "banipreet.raheja@gmail.com",
   "name": "Banipreet Singh Raheja",
   "team": "Machine Learning",
@@ -310,7 +310,7 @@
     "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
     "facebook": "https://www.facebook.com/banipreet.raheja"
   },
-  "img": "banipreet-singh-raheja.jpg"
+  "img": "/images/banipreet-singh-raheja.jpg"
 }, {
   "email": "manishism1997@gmail.com",
   "name": "Manish Kumar",
@@ -320,7 +320,7 @@
   "links": {
     "linkedin": "https://www.linkedin.com/in/manish97"
   },
-  "img": "manish-kumar.jpg"
+  "img": "/images/manish-kumar.jpg"
 }, {
   "email": "nikarora1111@gmail.com",
   "name": "Nikhil Arora",
@@ -332,7 +332,7 @@
     "facebook": "https://www.facebook.com/nikhil.arora.5602728",
     "linkedin": "https://www.linkedin.com/in/nikhil-arora-241847166/"
   },
-  "img": "nikhil-arora.jpg"
+  "img": "/images/nikhil-arora.jpg"
 }, {
   "email": "avijuneja.cs@gmail.com",
   "name": "Aarush Juneja",
@@ -344,7 +344,7 @@
     "linkedin": "https://in.linkedin.com/in/aarush-juneja-a72373121",
     "github": "https://github.com/AarushJ"
   },
-  "img": "aarush-juneja.jpg"
+  "img": "/images/aarush-juneja.jpg"
 }, {
   "email": "anirudh_jain@am.ism.ac.in",
   "name": "Anirudh Jain",
@@ -356,7 +356,7 @@
     "linkedin": "www.linkedin.com/in/sponde",
     "others": ["arxiv.org/abs/1803.06473"]
   },
-  "img": "anirudh-jain.jpg"
+  "img": "/images/anirudh-jain.jpg"
 }, {
   "email": "pawan.dogra99@gmail.com",
   "name": "Pawan Mohan Dogra",
@@ -364,7 +364,7 @@
   "contactNo": "8988404140",
   "about": "just your friendly neighborhood hacker..",
   "links": {},
-  "img": "pawan-mohan-dogra.jpg"
+  "img": "/images/pawan-mohan-dogra.jpg"
 }, {
   "email": "sabirali2560@gmail.com",
   "name": "Ali Sabir",
@@ -375,5 +375,5 @@
     "github": "https://github.com/sabirali2560",
     "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b"
   },
-  "img": "ali-sabir.jpg"
+  "img": "/images/ali-sabir.jpg"
 }]

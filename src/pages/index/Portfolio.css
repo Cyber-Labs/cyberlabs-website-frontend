@@ -184,8 +184,8 @@
     .blog-card .description:before {
       transform: skewX(-3deg);
       content: "";
-      background: rgb(217, 217, 217);
-      width: 20px;
+      background: #fff;
+      width: 30px;
       position: absolute;
       left: -10px;
       top: 0;

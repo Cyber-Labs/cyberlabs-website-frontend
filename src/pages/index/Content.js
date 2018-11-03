@@ -14,9 +14,6 @@ class Content extends Component {
                   <a className="indexLinks" href="projects" style={{width:"40%"}}>
                     <h3 className="card-heading">See projects ></h3>
                   </a>
-                  <a className="indexLinks" href="comingSoon" style={{width:"40%"}}>
-                    <h3 className="card-heading">See Past Internships ></h3>
-                  </a>
                 </div>
               </div>
             </div>

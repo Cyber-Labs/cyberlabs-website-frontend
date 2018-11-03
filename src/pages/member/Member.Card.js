@@ -1,29 +1,29 @@
 import React, { Component } from "react";
 import "./member-card/member-card.css";
-
+import ProgressiveImage from "react-progressive-image"
 
 class MemberCard extends Component {
 	constructor(props){
 		super(props);
 		this.state={
-			// img:"https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2"
-			// img:"/images/"+this.props.info.img
+			img:"https://www.inbenta.com/wp-content/themes/inbenta/img/icons/avatar.svg?ver=2"
 		};
-		// if(this.props.img){
-		// 	this.setState({img:"./images/"+this.props.info.img})
-		// }
 	}
-	// dataFilter(){
-	// 	let data=this.props.info;
 
-	// 	// return Object.keys(data);
-	// }
   render() {
 
 		return (
 			<div className="member-card">
 				
-				<img className="member-profile-img" src={`images/${this.props.info.img}`} alt="" width="170px" />
+				<ProgressiveImage className="member-profile-img" src={this.props.info.img}  placeholder={this.state.img}  >
+                  {src => <img src={src} alt="alumni" 
+                    height="250" width="200"
+                    style={{
+					borderRadius: "30px",
+					margin: "auto",
+					boxShadow: "-13px 1px 19px -9px #888888"
+                  }}/>}
+                </ProgressiveImage>
 				<h2 className="member-name">{this.props.info.name}</h2>
 				<div className="member-details">
 					{/* <div className="job1">

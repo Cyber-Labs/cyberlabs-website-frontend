@@ -72,12 +72,12 @@ class Header extends Component {
               <div className="social-index">
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/labscyber">
-                    <i className="fa fa-facebook-f"></i>
+                    <i className="fa fa-facebook-f fa-2x"></i>
                   </a>
                 </li>
                 <li>
                   <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/cyber-labs">
-                    <i className="fa fa-github"></i>
+                    <i className="fa fa-github fa-2x"></i>
                   </a>
                 </li>
               </div>
