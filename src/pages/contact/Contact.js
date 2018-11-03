@@ -15,7 +15,7 @@ class Contact extends Component {
                 color: "black"
               }}> <i className="fa fa-facebook"/> </a>
               Facebook
-              <br/>or drop a mail at cyberlabs.ism@gmail.com</p>
+              <br/>or drop a mail at cyberlabs@iitism.ac.in</p>
             {/*           <form name = "filepost" method = "POST" action = "file.php" enctype = "multipart/form-data" id = "file">
                    Name: <input name = "from" type = "text" id = "from" size = "30">
                    Age: <input name = "emaila"  type = "text" id = "emaila" size = "30">
