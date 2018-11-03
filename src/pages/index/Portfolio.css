@@ -5,6 +5,7 @@
   
   .blog-card {
     display: flex;
+    width: 90%;
     flex-direction: column;
     margin: 1rem auto;
     box-shadow:0px 0px 15px -5px #888;
@@ -183,8 +184,8 @@
     .blog-card .description:before {
       transform: skewX(-3deg);
       content: "";
-      background: #fff;
-      width: 30px;
+      background: rgb(217, 217, 217);
+      width: 20px;
       position: absolute;
       left: -10px;
       top: 0;
@@ -221,22 +222,6 @@
       cursor: default;
   }
   
-  .fab{
-  position : absolute;
-  right : 20px;
-  margin-top: -70px;
-  box-sizing: border-box;
-  padding-top: 9px;
-  background-color : #1875D0;
-  width : 50px;
-  height : 50px;
-  color : white;
-  text-align : center;
-  border-radius : 50%;
-  -webkit-box-shadow: 5px 5px 30px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 5px 5px 30px 0px rgba(0,0,0,0.75);
-  box-shadow: 5px 5px 30px 0px rgba(0,0,0,0.75);
-  }
   
   .fab:hover{
     animation-name: myRotate;
@@ -246,8 +231,8 @@
   
   @keyframes myRotate{
   
-    0% {transform: rotate(0deg);}    
-    100% {transform: rotate(90deg);}
+    0% {transform: scale(1);}    
+    100% {transform: scale(1.5);}
   
   }
     

@@ -7,6 +7,18 @@
   "links": {},
   "img": "aayush-dutt.jpg"
 }, {
+  "email": "2893ag@gmail.com",
+  "name": "ANURAG GUPTA",
+  "team": "WEB D",
+  "contactNo": "9097477747",
+  "about": " 👨‍💻 Web Developer || 💽 JS   Enthusiast || ⌨️Competitive Coder || 📘 Reader || 😉 Anime Lover ",
+  "links": {
+    "github": "www.github.com/AnuragGupta93",
+    "linkedin": "https://in.linkedin.com/in/anuraggupta93",
+    "facebook": "https://www.facebook.com/AnuragGupta93"
+  },
+  "img": "anurag-gupta.jpg"
+}, {
   "email": "anushkashikha1998@gmail.com",
   "name": "Anushka Mittal",
   "team": "Web Development",
@@ -177,18 +189,6 @@
   "about": "I know C/C++, python and much into linux operation system",
   "links": {},
   "img": "rishabh-verma.jpg"
-}, {
-  "email": "2893ag@gmail.com",
-  "name": "ANURAG GUPTA",
-  "team": "WEB D",
-  "contactNo": "9097477747",
-  "about": "NA",
-  "links": {
-    "github": "www.github.com/AnuragGupta93",
-    "linkedin": "https://in.linkedin.com/in/anuraggupta93",
-    "facebook": "https://www.facebook.com/AnuragGupta93"
-  },
-  "img": "anurag-gupta.jpg"
 }, {
   "email": "aniket.teotia@gmail.com",
   "name": "Aniket Teotia",
