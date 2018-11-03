@@ -4,7 +4,7 @@ class Header extends Component {
   constructor(props){
     super(props);
     this.state= {
-      responsive: false,
+      responsive: false
     };
   }
 
@@ -13,7 +13,6 @@ class Header extends Component {
       <div id='Header'>
         <header className="boxed" id="header-white">
           <div className="header-margin">
-            {/* <span><i class="fa fa-bars"></i></span> */}
             <div className="logo">
               <img src="assets/img/favico.png" alt="logo"/>
               <Link to="/" style={{paddingLeft: "15px"}}>Cyber Labs</Link>

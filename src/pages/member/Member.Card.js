@@ -47,7 +47,6 @@ class MemberCard extends Component {
 							<li className="member-social-icon"><a href={this.props.info.links.medium} rel="noopener noreferrer" target="_blank"><i
 							className="fa-medium" aria-hidden="true"></i></a></li>
 						}
-						
 					</ul>
 					<div className="lang1">
 					</div>
