@@ -15,7 +15,7 @@ class Contact extends Component {
                 color: "black"
               }}> <i className="fa fa-facebook"/> </a>
               Facebook
-              <br/>or drop a mail at: <br /> <a href="mailto:cyberlabs@iitism.ac.in"><i className="fa fa-envelope fa-2x"/> cyberlabs@iitism.ac.in</a></p>
+              <br/>or drop a mail at: <br /> <a style={{color: "black"}} href="mailto:cyberlabs@iitism.ac.in"><i style={{marginRight: "10px"}} className="fa fa-envelope fa-2x"/> cyberlabs@iitism.ac.in</a></p>
           </div>
         </div>
       </div>
