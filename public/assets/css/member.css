@@ -4,3 +4,10 @@
     grid-template-columns: repeat(auto-fill,400px);
     justify-content: space-around;
 }
+
+center h1{
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 50px;
+}
