@@ -6,15 +6,16 @@ class Alumni extends Component {
   renderFields(){
     return alumni.map(({name, img, position, place, opImg})=>{
             return  (<div className="grid-responsive">
-                <ProgressiveImage src={"/assets/img/alumni/" + img} placeholder="https://opensource.google.com/assets/static/images/home/blog/blog_image_1.jpg">
-                  {src => 
+                <ProgressiveImage src={"/assets/img/alumni/" + img} placeholder={"/assets/opImg/alumni/" + img}>
+                  {(src, loading) => 
                     <img src={src}
                       alt="alumni" 
                       height="230" width="250px"
                       style={{
                         borderRadius: "10px",
                         objectFit: "cover",
-                        objectPosition: "50% 20%"
+                        objectPosition: "50% 20%",
+                        filter: loading ? "blur(8px)" : "blur(0)" 
                       }}
                     />
                   }
