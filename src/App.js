@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import Index from "./pages/index/Index";
 import Member from "./pages/member/Member";
 import Management from "./pages/people/Management";
-import Project from "./pages/project/Project"
+import Project from "./pages/project/project";
 import Advisors from "./pages/people/Advisors";
 import Puzzle from "./pages/events/Puzzle";
 import About from "./pages/about/About";
@@ -28,14 +28,14 @@ class App extends Component {
             <Route exact path="/" component={Index} />
             <Route exact path="/members" component={Member} />
             <Route exact path="/management" component={Management} />
-            <Route exact path="/advisors" component={Advisors} />
+            <Route exact path="/alumni" component={Advisors} />
             <Route exact path="/projects" component={Project} />
             <Route exact path="/about" component={About} />
             <Route exact path="/puzzle" component={Puzzle} />
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/publication" component={Publication} />
             <Route exact path="/comingSoon" component={ComingSoon} />
-            <Footer />
+            <Footer key={window.location.pathname}/>
           </div>
         </BrowserRouter>
       </div>

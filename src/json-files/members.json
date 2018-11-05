@@ -1,4 +1,16 @@
 [{
+  "email": "nveenjain@gmail.com",
+  "name": "Naveen Jain",
+  "team": "Web",
+  "contactNo": "9680946939",
+  "about": "Secretary | Web | OSS",
+  "links": {
+    "github": "https://github.com/nveenjain",
+    "linkedin": "https://www.linkedin.com/in/nveenjain/",
+    "twitter": "https://twitter.com/nveenjain"
+  },
+  "img": "naveen-jain.jpg"
+},{
   "email": "aayushd100@gmail.com",
   "name": "Aayush Dutt",
   "team": "Web Development",
@@ -7,11 +19,23 @@
   "links": {},
   "img": "aayush-dutt.jpg"
 }, {
+  "email": "2893ag@gmail.com",
+  "name": "Anurag Gupta",
+  "team": "WEB D",
+  "contactNo": "9097477747",
+  "about": " 👨‍💻 Web Developer || 💽 JS   Enthusiast || ⌨️Competitive Coder || 📘 Reader || 😉 Anime Lover ",
+  "links": {
+    "github": "www.github.com/AnuragGupta93",
+    "linkedin": "https://in.linkedin.com/in/anuraggupta93",
+    "facebook": "https://www.facebook.com/AnuragGupta93"
+  },
+  "img": "anurag-gupta.jpg"
+}, {
   "email": "anushkashikha1998@gmail.com",
   "name": "Anushka mittal",
   "team": "Web Development",
   "contactNo": "",
-  "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web development.",
+  "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web devel",
   "links": {
     "linkedin": "https://www.linkedin.com/in/anushka-mittal-38a729154/",
     "resume": "https://drive.google.com/file/d/17OTSqSGIE4JZdyXkZkYtI3Nreuer_YxB/view?usp=sharing"
@@ -19,7 +43,7 @@
   "img": "anushka-mittal.jpg"
 }, {
   "email": "perul365@gmail.com",
-  "name": "PERUL JAIN",
+  "name": "Perul Jain",
   "team": "ANDROID and HARDWARE",
   "contactNo": "7891167889",
   "about": "I am currently pursuing Bachelor of Technology in ELECTRONICS AND COMMUNICATION ENGINEERING. \nMy hobby is writing Hindi shayri",
@@ -44,7 +68,7 @@
   "name": "Aditya Mudgil",
   "team": "Graphic Designing",
   "contactNo": "7206783125",
-  "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Interested in Web Development. Strong professional with a Integrated Master of Technology focused in Mathematics and Computing.",
+  "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Interested in Web Development.",
   "links": {
     "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
   },
@@ -66,18 +90,18 @@
   "name": "Shridhar Goel",
   "team": "Android",
   "contactNo": "",
-  "about": "I\"m a second year student with a strong passion for android development. I started android development back in my second semester and since then, I have done quite a few projects and I am always striving to learn new things and improve my skills.",
+  "about": "I\"m a second year student with a strong passion for android development. I started android development back i",
   "links": {
-    "linkedin": "https://www.linkedin.com/in/shridhar-goel/",
-    "github": "ttps://www.github.com/ShridharGoel"
+    "linkedin": "https://www.linkedin.com/in/shridhar-goel",
+    "github":"https://www.github.com/ShridharGoel"
   },
   "img": "shridhar-goel.jpg"
 }, {
-  "email": "suyog.jadhav1@gmail.com",
+  "email": "suyog.jadhav1@gmail.com", 
   "name": "Suyog Jadhav",
   "team": "Machine Learning",
   "contactNo": "917719058077",
-  "about": "A proud 90\"s geek with a knack for AI. Loves doing innovative projects using deep learning. When not coding, can often be found writing blogs or playing legacy games.",
+  "about": "A proud 90\"s geek with a knack for AI. Loves doing innovative projects using deep learning. When not",
   "links": {
     "portfolio": "https://iamsuyogjadhav.github.io/",
     "blog": "https://mlendeavours.wordpress.com/",
@@ -104,17 +128,17 @@
   "name": "Shivansh Awasthi",
   "team": "Machine Learning",
   "contactNo": "9452604678",
-  "about": "I am B.Tech Second year student of Computer Science and Engineering at IIT(ISM) Dhanbad.I have always been amazed by the wonders of Machine Learning and Artificial Intelligence.Learning about Artificial Intelligence is more of fun than traditional study.My areas of interest include Deep Learning,Computer Vision and Natural Language processing.",
+  "about": "I am B.Tech Second year student of Computer Science and Engineering at IIT(ISM) Dhanbad.",
   "links": {
-    "github": "GitHub-https://github.com/Shivansh55"
+    "github": "https://github.com/Shivansh55"
   },
   "img": "shivansh-awasthi.jpg"
 }, {
   "email": "aayu.16je002440@am.ism.ac.in",
   "name": "Aayush Ahuja",
-  "team": "Web-Development(Backend)",
+  "team": "Web-Development(Backend)", 
   "contactNo": "8873643965",
-  "about": "I\"m a third year undergraduate student at the Indian Institute of Technology(Indian School of Mines) Dhanbad. I have a background in Mathematics & Computing. I am passionate about solving problems through technology, mixing the real and virtual world.\n\nMy past projects and research work involves Backend development in Python3 (RESTful APIs in Django) and Hardware. I have also worked on a Computer Vision based project in HackFest-2K18 and prototyped & researched working solutions for the same that involves Human Machine interaction using Computer Vision in my team.",
+  "about" : " ",
   "links": {
     "linkedin": "https://www.linkedin.com/in/codeaayu",
     "github": "https://www.github.com/codeaayu",
@@ -127,7 +151,7 @@
   "name": "Raj Rani",
   "team": "Web Development",
   "contactNo": "8539061765",
-  "about": "I am a pre-final year undergrad student at IIT (ISM) Dhanbad, with a background in Computer science and engineering. My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
+  "about": "My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
   "links": {
     "github": "https://github.com/ARsquare",
     "linked": "https://www.linkedin.com/in/rrsquare",
@@ -140,7 +164,9 @@
   "team": "Web",
   "contactNo": "9425004151",
   "about": "Nice person",
-  "links": {},
+  "links": {
+    "github": "https://github.com/sanketsingh24"
+  },
   "img": "sanket-singh.jpg"
 }, {
   "email": "ss.mrinalini@gmail.com",
@@ -183,18 +209,6 @@
   "links": {},
   "img": "rishabh-verma.jpg"
 }, {
-  "email": "2893ag@gmail.com",
-  "name": "Anurag Gupta",
-  "team": "WEB D",
-  "contactNo": "9097477747",
-  "about": "NA",
-  "links": {
-    "github": "www.github.com/AnuragGupta93",
-    "linkedin": "https://in.linkedin.com/in/anuraggupta93",
-    "facebook": "https://www.facebook.com/AnuragGupta93"
-  },
-  "img": "anurag-gupta.jpg"
-}, {
   "email": "aniket.teotia@gmail.com",
   "name": "Aniket Teotia",
   "team": "Machine Learning",
@@ -231,12 +245,12 @@
   "name": "Vanshika",
   "team": "Android",
   "contactNo": "9149245760",
-  "about": "Android application developer experienced on working with databases, frameworks and Backend such as Firebase.\nCommitted to viable and easily functional app solutions for clients. Over and above, possessing accountable knowledge\nabout Algorithms and Data Structures.",
+  "about": "Android application developer experienced on working with databases, frameworks and Backend such as Firebase.",
   "links": {
     "linkedin": "https://www.linkedin.com/in/vanshika-arora-6396b4143/",
     "github": "https://github.com/vanshikaarora\nTwitter-https://twitter.com/Vanshik74929888"
   },
-  "img": "vanshika.jpg"
+  "img": "vanshika-arora.jpg"
 }, {
   "email": "kumaramardipsingh@gmail.com",
   "name": "Amardeep Kumar",
@@ -269,10 +283,10 @@
   "img": "ritesh-manna.jpg"
 }, {
   "email": "madhavshahsisodiya@gmail.com",
-  "name": "madhavshahsisodiya@gmail.com",
+  "name": "Madhav Shah Sisodiya",
   "team": "Hardware",
   "contactNo": "9458467120",
-  "about": "A good humorous personality with sharp catching brain and with high presence of mind with perfect blend of hard work ,dedication and willingness is always in seek for an opportunity in the field of IT development with an special interest in hardware and IoT.",
+  "about": "A good humorous personality with sharp catching brain.",
   "links": {
     "github": "https://github.com/MadhavShah",
     "linkedin": "https://www.linkedin.com/in/madhav-shah-sisodiya-149304158",
@@ -291,19 +305,7 @@
     "linkedin": "https://www.linkedin.com/in/rishabh-rajput-a3b156120/"
   },
   "img": "rishabh-rajput.jpg"
-}, {
-  "email": "nveenjain@gmail.com",
-  "name": "Naveen Jain",
-  "team": "Web",
-  "contactNo": "9680946939",
-  "about": "Secretary | Web | OSS",
-  "links": {
-    "github": "https://github.com/nveenjain",
-    "linkedin": "https://www.linkedin.com/in/nveenjain/",
-    "twitter": "https://twitter.com/nveenjain"
-  },
-  "img": "naveen-jain.jpg"
-}, {
+},  {
   "email": "banipreet.raheja@gmail.com",
   "name": "Banipreet Singh Raheja",
   "team": "Machine Learning",
@@ -327,7 +329,7 @@
   "img": "manish-kumar.jpg"
 }, {
   "email": "nikarora1111@gmail.com",
-  "name": "NIKHIL ARORA",
+  "name": "Nikhil Arora",
   "team": "Hardware",
   "contactNo": "9828758383",
   "about": "hardware proficient",

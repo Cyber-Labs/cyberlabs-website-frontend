@@ -53,15 +53,15 @@
   text-align: center;
   margin-top: 10px;
   color: rgb(37, 37, 37);
-  overflow: hidden;
+  /* overflow: ; */
 }
 
 .member-projects-title {
   padding: 10px;
   opacity: 1;
   font-size: 15px;
-  font-weight: 600;
-  text-align: center;
+  font-weight: 600;       
+  text-align: center;       
 }
 
 .member-projects {
@@ -102,4 +102,18 @@
   margin: 10px;
   flex-wrap: wrap;
 
+}
+
+@keyframes glow{
+  from {
+    box-shadow:0px 0px 15px -5px #888;
+  }
+
+  to {
+    box-shadow:2px 2px 25px -3px #888;
+  }
+}
+
+.member-card:hover {
+  animation: glow 0.4s forwards;
 }
