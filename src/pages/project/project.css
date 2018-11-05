@@ -46,7 +46,6 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 20px;
     font-size: 15px;
-<<<<<<< HEAD
     padding:20px;
    
   }
@@ -57,17 +56,6 @@
   padding: 15px;
   justify-content: center; 
   color:white;
-=======
-    padding: 20px;
-}
-
-.by1 {
-    border-radius: 10px;
-    margin: 15px;
-    padding: 15px;
-    justify-content: center;
-    color: white;
->>>>>>> 792eead32a1964503a315593839ecdbc24b577f7
 
 }
 
