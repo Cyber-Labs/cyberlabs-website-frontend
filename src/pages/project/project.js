@@ -22,9 +22,9 @@ class Project extends Component {
               </div>  
                 </div>
                 <div className="Description"><p>{description}</p></div>
-                      <div className="madeby">
-                            <div className="by1 effect83"><i class="fa fa-user" aria-hidden="true" style={{"padding":"5px"}}></i>{name}</div>
-                      </div>
+                  <div className="madeby">
+                        <div className="by1 effect83"><i class="fa fa-user" aria-hidden="true" style={{"padding":"5px"}}></i>{name}</div>
+                  </div>
             </div>
           </div>
         </div>

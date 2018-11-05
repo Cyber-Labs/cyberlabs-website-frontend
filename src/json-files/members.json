@@ -17,7 +17,7 @@
   "contactNo": "",
   "about": "Web Application Developer at Cyber Labs",
   "links": {},
-  "img": "aayush-dutt.jpg"
+  "img": ""
 }, {
   "email": "2893ag@gmail.com",
   "name": "Anurag Gupta",
@@ -32,7 +32,7 @@
   "img": "anurag-gupta.jpg"
 }, {
   "email": "anushkashikha1998@gmail.com",
-  "name": "Anushka Mittal",
+  "name": "Anushka mittal",
   "team": "Web Development",
   "contactNo": "",
   "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web devel",
@@ -80,8 +80,9 @@
   "contactNo": "+91 7779891930",
   "about": "Sophomore | Developer | Gamer | Bingewatcher",
   "links": {
-    "linkedin": "linkedin.com/in/ubamba98",
-    "blog" : "https://mlendeavours.wordpress.com"
+    "linkedin": "linkedin.com/in/ubamba98/",
+    "blog": "https://mlendeavours.wordpress.com",
+    "facebook": "https://mlendeavours.wordpress.com/"
   },
   "img": "udbhav-bamba.jpg"
 }, {
@@ -102,7 +103,13 @@
   "contactNo": "917719058077",
   "about": "A proud 90\"s geek with a knack for AI. Loves doing innovative projects using deep learning. When not",
   "links": {
-    ")": "(Portfolio) https://iamsuyogjadhav.github.io/\n(Blog) https://mlendeavours.wordpress.com/\n(Linkedin) https://www.linkedin.com/in/IAmSuyogJadhav/\n(GitHub) https://github.com/IAmSuyogJadhav\n(Twitter) https://twitter.com/IAmSuyogJadhav\n(Facebook) http://fb.com/IAmSuyogJadhav\n(StackExchange) https://ai.stackexchange.com/users/16159/suyog-jadhav"
+    "portfolio": "https://iamsuyogjadhav.github.io/",
+    "blog": "https://mlendeavours.wordpress.com/",
+    "linkedin": "https://www.linkedin.com/in/IAmSuyogJadhav/",
+    "github": "https://github.com/IAmSuyogJadhav",
+    "twitter": "https://twitter.com/IAmSuyogJadhav",
+    "facebook": "http://fb.com/IAmSuyogJadhav",
+    "others": ["https://ai.stackexchange.com/users/16159/suyog-jadhav"]
   },
   "img": "suyog-jadhav.jpg"
 }, {
@@ -112,8 +119,8 @@
   "contactNo": "9097982652",
   "about": "Infosec Enthusiasts.",
   "links": {
-    ")": "Portfolio- about.me/mk-ism",
-    "linkedin": "https://www.linkedin.com/in/mk-ism"
+    "portfolio": "about.me/mk-ism",
+    "linked": "https://www.linkedin.com/in/mk-ism"
   },
   "img": "mayank-kumar.jpg"
 }, {
@@ -222,7 +229,7 @@
     "github": "https://github.com/Tazril",
     "facebook": "https://m.facebook.com/tazrilparviz.ali"
   },
-  "img": "tazril-parveez-ali.jpg"
+  "img": ""
 }, {
   "email": "ajaybhave108@gmail.com",
   "name": "Ajay Bhave",
@@ -241,8 +248,7 @@
   "about": "Android application developer experienced on working with databases, frameworks and Backend such as Firebase.",
   "links": {
     "linkedin": "https://www.linkedin.com/in/vanshika-arora-6396b4143/",
-    "github": "https://github.com/vanshikaarora",
-    "twitter": "Twitter-https://twitter.com/Vanshik74929888"
+    "github": "https://github.com/vanshikaarora\nTwitter-https://twitter.com/Vanshik74929888"
   },
   "img": "vanshika-arora.jpg"
 }, {
@@ -287,7 +293,7 @@
     "facebook": "https://www.facebook.com/madhavshahsisodiya",
     "twitter": "https://www.twitter.com/MadhavShahS"
   },
-  "img": "madhavshahsisodiya@gmail.com.jpg"
+  "img": "madhav-shah-sisodiya.jpg"
 }, {
   "email": "rrishabh145@gmail.com",
   "name": "Rishabh Rajput",
@@ -298,7 +304,7 @@
     "github": "https://github.com/rrishabh145",
     "linkedin": "https://www.linkedin.com/in/rishabh-rajput-a3b156120/"
   },
-  "img": "rishabh-rajput.jpg"
+  "img": ""
 },  {
   "email": "banipreet.raheja@gmail.com",
   "name": "Banipreet Singh Raheja",
@@ -375,5 +381,5 @@
     "github": "https://github.com/sabirali2560",
     "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b"
   },
-  "img": "ali-sabir.jpg"
+  "img": ""
 }]

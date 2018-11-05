@@ -1,16 +1,11 @@
 import React, {Component} from "react";
 import MemberCard from "./Member.Card";
-// import Test from "./Test";
 import data from "../../json-files/members.json";
 class Member extends Component {
   renderGrid=()=>{
     let i=1;
     let j=[];
     let len=data.length;
-    // console.log(len);
-    // let names=data.map((mem)=>mem.name);
-    // let githubs=data.map((mem)=>mem.github);
-    // let linkedins=data.map((mem)=>mem.linkedin);
     for(i=0;i<len;i++){
       j.push(<MemberCard info={data[i]}/>);
     }
