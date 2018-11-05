@@ -5,14 +5,18 @@ import {management} from "./managementFields";
 class Management extends Component {
   renderFields(item){
     return item.map(({name, img, position, place})=>{
-            return  (<div className="grid-responsive">
+            return  (
+              <div className="grid-responsive">
                 <img
-                  src={`${img}`}
+                  src={`/assets/img/management/${img}`}
                   alt="img"
                   height="230"
                   style={{
-                  borderRadius: "50%"
-                }}/>
+                    borderRadius: "50%",
+                    objectFit: "cover",
+                          objectPosition: "50% 20%"
+                  }}
+                />
                 <center>
                   <h4 className="person-name">{name}</h4>
                   <h6 className="person-position">{position}<br/>{place}</h6>
