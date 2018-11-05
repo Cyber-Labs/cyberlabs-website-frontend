@@ -12,6 +12,7 @@
 
 .member-profile-img {
   display: block;
+  background-size: cover;
   margin-left: auto;
   margin-right: auto;
   width: 50%;

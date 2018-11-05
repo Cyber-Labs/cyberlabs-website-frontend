@@ -45,15 +45,10 @@
   }
  
   .by1{
-    border:2px solid lightblue;
     border-radius: 10px;
     margin:15px;
   padding: 15px;
-  justify-content: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size:12px;
-  font-weight: 600;
- 
+  justify-content: center; 
   color:white;
 
 }
