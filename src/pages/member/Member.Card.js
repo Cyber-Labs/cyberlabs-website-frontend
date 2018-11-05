@@ -28,7 +28,7 @@ class MemberCard extends Component {
 				<div className="member-details">
 					<ul className="member-social-links">
 						{this.props.info.email &&
-							<li className="member-social-icon"><a href={this.props.info.email} rel="noopener noreferrer" target="_blank"><i className="fa fa-at"
+							<li className="member-social-icon"><a href={`mailto:${this.props.info.email}`} ><i className="fa fa-envelope"
 							aria-hidden="true"></i></a></li>
 						}
 						{this.props.info.links.github &&
@@ -45,7 +45,7 @@ class MemberCard extends Component {
 						}
 						{this.props.info.links.medium &&
 							<li className="member-social-icon"><a href={this.props.info.links.medium} rel="noopener noreferrer" target="_blank"><i
-							className="fa-medium" aria-hidden="true"></i></a></li>
+							className="fa fa-medium" aria-hidden="true"></i></a></li>
 						}
 					</ul>
 					<div className="lang1">

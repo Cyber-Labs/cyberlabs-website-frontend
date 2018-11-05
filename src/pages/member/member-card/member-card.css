@@ -19,6 +19,14 @@
   margin-top: 18px;
 }
 
+div.name h1{
+  min-height: 2em;
+}
+
+div.Description p{
+  min-height: 180px;
+}
+
 .member-name {
   font-weight: 600;
   padding-top: 15px;
