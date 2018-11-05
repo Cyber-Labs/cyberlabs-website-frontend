@@ -81,7 +81,7 @@ class MemberCard extends Component {
 			info.links.medium && 
 			<li className="member-social-icon">
               <a href={info.links.medium} rel="noopener noreferrer" target="_blank">
-                <i className="fa-medium" aria-hidden="true"></i>
+                <i className="fa fa-medium" aria-hidden="true"></i>
               </a>
             </li>
 			}

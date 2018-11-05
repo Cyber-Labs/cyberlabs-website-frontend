@@ -172,6 +172,20 @@
   },
   {
     "yearOfPassing": "2021",
+    "email": "banipreet.raheja@gmail.com",
+    "name": "Banipreet Singh Raheja",
+    "team": "Machine Learning",
+    "contactNo": "9935701111",
+    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
+    "links": {
+      "github": "https://github.com/baniraheja2197",
+      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
+      "facebook": "https://www.facebook.com/banipreet.raheja"
+    },
+    "img": "banipreet-singh-raheja.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
     "email": "awasthishivansh5@gmail.com",
     "name": "Shivansh Awasthi",
     "team": "Machine Learning",
@@ -272,20 +286,6 @@
       "linkedin": "https://www.linkedin.com/in/rishabh-rajput-a3b156120/"
     },
     "img": "rishabh-rajput.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "banipreet.raheja@gmail.com",
-    "name": "Banipreet Singh Raheja",
-    "team": "Machine Learning",
-    "contactNo": "9935701111",
-    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
-    "links": {
-      "github": "https://github.com/baniraheja2197",
-      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
-      "facebook": "https://www.facebook.com/banipreet.raheja"
-    },
-    "img": "banipreet-singh-raheja.jpg"
   },
   {
     "yearOfPassing": "2021",
