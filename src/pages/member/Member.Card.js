@@ -48,8 +48,8 @@ class MemberCard extends Component {
             {
 			info.email && 
 			<li className="member-social-icon">
-              <a href={info.email} rel="noopener noreferrer" target="_blank">
-                <i className="fa fa-at" aria-hidden="true"></i>
+              <a href={"mailto:" + info.email}>
+                <i className="fa fa-envelope" aria-hidden="true"></i>
               </a>
             </li>
 			}
@@ -81,7 +81,7 @@ class MemberCard extends Component {
 			info.links.medium && 
 			<li className="member-social-icon">
               <a href={info.links.medium} rel="noopener noreferrer" target="_blank">
-                <i className="fa-medium" aria-hidden="true"></i>
+                <i className="fa fa-medium" aria-hidden="true"></i>
               </a>
             </li>
 			}

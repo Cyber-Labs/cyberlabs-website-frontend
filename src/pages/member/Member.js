@@ -3,13 +3,53 @@ import MemberCard from "./Member.Card";
 import data from "../../json-files/members.json";
 class Member extends Component {
   renderGrid=()=>{
+    data.sort((a, b)=>{
+      return a.yearOfPassing -  b.yearOfPassing;
+    });
     let i=1;
-    let j=[];
+    let webD=[];
+    let androidD = [];
+    let ml = [];
+    let infoSec = [];
+    let hardware = [];
+    let graphicD = [];
+    let coder = [];
     let len=data.length;
     for(i=0;i<len;i++){
-      j.push(<MemberCard info={data[i]}/>);
+      switch(data[i].team){
+        case "Web Development":
+          webD.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Machine Learning":
+          ml.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Graphic Designing":
+          graphicD.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Competitive Coding":
+          coder.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Android":
+          androidD.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Hardware":
+          hardware.push(<MemberCard info={data[i]}/>);
+          break;
+        case "Cyber Security":
+          infoSec.push(<MemberCard info={data[i]}/>);
+          break;
+        default:
+      }
     }
-    return j;
+    return {
+      webD,
+      ml,
+      graphicD,
+      androidD,
+      infoSec,
+      hardware,
+      coder
+    }
   }
   render() {
     return (
@@ -21,8 +61,47 @@ class Member extends Component {
             </center>
           </div>
         </div>
+        <center>
+          <h1>Web Development</h1>
+        </center>
         <div className="members-grid">
-        {this.renderGrid()}
+        {this.renderGrid().webD}
+        </div>
+        <center>
+          <h1>Machine Learing</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().ml}
+        </div>
+        <center>
+          <h1>Android</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().androidD}
+        </div>
+        <center>
+          <h1>Graphics Designer</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().graphicD}
+        </div>
+        <center>
+          <h1>Competitive Coder</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().coder}
+        </div>
+        <center>
+          <h1>Hardware</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().hardware}
+        </div>
+        <center>
+          <h1>Cyber Security</h1>
+        </center>
+        <div className="members-grid">
+        {this.renderGrid().infoSec}
         </div>
         
       </div>
