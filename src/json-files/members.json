@@ -51,6 +51,21 @@
   },
   {
     "yearOfPassing": "2021",
+    "email": "ujjawaljaiswal2017@gmail.com",
+    "name": "Ujjawal Jaiswal  ",
+    "team": "Web Development",
+    "contactNo": "",
+    "about": "Web Application Developer at Cyber Labs",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ujjawal-jaiswal-20ba9b145",
+      "github": "https://github.com/ujjawaljaiswal2017",
+      "medium": "https://medium.com/@ujjawaljaiswal2017",
+      "facebook": "https://www.facebook.com/ujjawal.jaiswal.5249 " 
+    },
+    "img": "ujjawal-jaiswal.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
     "email": "2893ag@gmail.com",
     "name": "Anurag Gupta",
     "team": "Web Development",
