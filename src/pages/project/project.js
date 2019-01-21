@@ -4,7 +4,7 @@ import "./project.css";
 
 class Project extends Component {
   renderProjects(){
-    return projects.map(({name, description, images, links , project})=>{
+    return projects.map(({name, description, images, links , project}, index)=>{
       return (
         <div className="box effect82">
           <div className="columns">

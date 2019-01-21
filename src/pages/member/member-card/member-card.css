@@ -12,10 +12,19 @@
 
 .member-profile-img {
   display: block;
+  background-size: cover;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   margin-top: 18px;
+}
+
+div.name h1{
+  min-height: 2em;
+}
+
+div.Description p{
+  min-height: 180px;
 }
 
 .member-name {
