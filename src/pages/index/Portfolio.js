@@ -1,33 +1,43 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 import "./Portfolio.css";
-import projects from "../../json-files/frontPageProject.json";
+import projects from "../../json-files/ProjectsHome.json";
 
 class Portfolio extends Component {
-  renderProjects(){
-    return projects.map(({name, project, description, links, images}, index)=>{
-      return (<div className={"blog-card" + (index%2 === 0 ? " alt":"")}>
-      <div className="meta">
-        <div className="photo" style={{backgroundImage: `url(assets/img/project/${images}), url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Planet_-_The_Noun_Project.svg/1280px-Planet_-_The_Noun_Project.svg.png)`}} />
-        <ul className="details">
-          <li className="author">{name}</li>          
-        </ul>
-      </div>
-      <div className="description">
-        <h1>{project}</h1>
-        <p>{description}</p>
-        <h1 className="icons-font">
-          <a href={`${links.github}`} ><i className="fab icons-font-padding fa fa-github fa-3px" style={{float: "right"}} /></a>
-        </h1>    
-      </div>
-    </div>)
-    })
+  renderProjects() {
+    return projects.map(
+      ({ name, project, description, links, images }, index) => {
+        return (
+          <div className={"blog-card" + (index % 2 === 0 ? " alt" : "")}>
+            <div className="meta">
+              <div
+                className="photo"
+                style={{
+                  backgroundImage: `url(assets/img/project/${images}), url(assets/img/project-placeholder.png)`
+                }}
+              />
+              <ul className="details">
+                <li className="author">{name}</li>
+              </ul>
+            </div>
+            <div className="description">
+              <h1>{project}</h1>
+              <p>{description}</p>
+              <h1 className="icons-font">
+                <a href={`${links.github}`}>
+                  <i
+                    className="fab icons-font-padding fa fa-github fa-3px"
+                    style={{ float: "right" }}
+                  />
+                </a>
+              </h1>
+            </div>
+          </div>
+        );
+      }
+    );
   }
   render() {
-    return (
-      <div id="Portfolio">
-      {this.renderProjects()}
-      </div>
-    )
+    return <div id="Portfolio">{this.renderProjects()}</div>;
   }
 }
 

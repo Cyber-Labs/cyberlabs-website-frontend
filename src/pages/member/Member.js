@@ -1,21 +1,53 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 import MemberCard from "./Member.Card";
-// import Test from "./Test";
 import data from "../../json-files/members.json";
 class Member extends Component {
-  renderGrid=()=>{
-    let i=1;
-    let j=[];
-    let len=data.length;
-    // console.log(len);
-    // let names=data.map((mem)=>mem.name);
-    // let githubs=data.map((mem)=>mem.github);
-    // let linkedins=data.map((mem)=>mem.linkedin);
-    for(i=0;i<len;i++){
-      j.push(<MemberCard info={data[i]}/>);
+  renderGrid = () => {
+    data.sort((a, b) => {
+      return a.yearOfPassing - b.yearOfPassing;
+    });
+    let i = 1;
+    let webD = [];
+    let androidD = [];
+    let ml = [];
+    let infoSec = [];
+    let hardware = [];
+    let graphicD = [];
+    let coder = [];
+    let len = data.length;
+    for (i = 0; i < len; i++) {
+      switch (data[i].team) {
+        case "Web Development":
+          webD.push(<MemberCard info={data[i]} />);
+          break;
+        case "Machine Learning":
+          ml.push(<MemberCard info={data[i]} />);
+          break;
+        case "Graphic Designing":
+          graphicD.push(<MemberCard info={data[i]} />);
+          break;
+        case "Android":
+          androidD.push(<MemberCard info={data[i]} />);
+          break;
+        case "Hardware":
+          hardware.push(<MemberCard info={data[i]} />);
+          break;
+        case "Cyber Security":
+          infoSec.push(<MemberCard info={data[i]} />);
+          break;
+        default:
+      }
     }
-    return j;
-  }
+    return {
+      webD,
+      ml,
+      graphicD,
+      androidD,
+      infoSec,
+      hardware,
+      coder
+    };
+  };
   render() {
     return (
       <div id="Member">
@@ -26,13 +58,33 @@ class Member extends Component {
             </center>
           </div>
         </div>
-        <div className="members-grid">
-        {this.renderGrid()}
-        </div>
-        
+        <center>
+          <h1>Web Development</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().webD}</div>
+        <center>
+          <h1>Machine Learing</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().ml}</div>
+        <center>
+          <h1>Android</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().androidD}</div>
+        <center>
+          <h1>Graphics Design</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().graphicD}</div>
+        <center>
+          <h1>Hardware</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().hardware}</div>
+        <center>
+          <h1>Cyber Security</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().infoSec}</div>
       </div>
-    )
+    );
   }
 }
 
-export default Member
+export default Member;

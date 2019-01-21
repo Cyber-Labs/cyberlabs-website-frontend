@@ -3,7 +3,7 @@ import React, {Component} from "react";
 class Contact extends Component {
   render() {
     return (
-      <div id='Contact'>
+      <div id='Contact' style={{marginBottom: "40vh"}}>
         <div className="content" id="ajax-content">
           <div className="text-intro">
             <h1>Contact</h1>
@@ -15,17 +15,8 @@ class Contact extends Component {
                 color: "black"
               }}> <i className="fa fa-facebook"/> </a>
               Facebook
-              <br/>or drop a mail at cyberlabs@iitism.ac.in</p>
-            {/*           <form name = "filepost" method = "POST" action = "file.php" enctype = "multipart/form-data" id = "file">
-                   Name: <input name = "from" type = "text" id = "from" size = "30">
-                   Age: <input name = "emaila"  type = "text" id = "emaila" size = "30">
-                   <input name = "filea" type = "file" id = "filea" size = "16">
-                    <input name = "Reset2" type = "reset" id = "Reset2" value = "Reset">
-                    <input name = "Submit2" type = "submit" value = "Submit" onClick = "return CheckData45()">
-
-                </form> */}
+              <br/>or drop a mail at: <br /> <a style={{color: "black"}} href="mailto:cyberlabs@iitism.ac.in"><i style={{marginRight: "10px"}} className="fa fa-envelope fa-2x"/> cyberlabs@iitism.ac.in</a></p>
           </div>
-          <br/><br/><br/><br/><br/><br/><br/><br/>
         </div>
       </div>
     )
