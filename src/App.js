@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import Index from "./pages/index/Index";
 import Member from "./pages/member/Member";
 import Management from "./pages/people/Management";
-import Project from "./pages/project/project";
+import Project from "./pages/project/Project";
 import Alumni from "./pages/people/Alumni";
 import About from "./pages/about/About";
 import Contact from "./pages/contact/Contact";

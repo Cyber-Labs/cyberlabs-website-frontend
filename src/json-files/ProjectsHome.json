@@ -1,25 +1,30 @@
-[    {
+[
+  {
     "name": "Suyog Jadhav",
     "project": "FaceSearch",
     "description": "Created a command-line tool that takes an image, detects faces in it, lets user select one and then tries to establish identity of the person by performing Google reverse Image search on the face. Used OpenCV?? Implemented in Python. Completed.",
-    "links":{"github": "https://github.com/IAmSuyogJadhav/FaceSearch"} ,
+    "links": { "github": "https://github.com/IAmSuyogJadhav/FaceSearch" },
     "images": "suyog-facesearch.png"
-  },    {
+  },
+  {
     "name": "Udbhav Bamba",
     "project": "Neural Style Transfer",
     "description": "It is the implementation of \"A Neural Algorithm of Artistic Style\"\n(https://arxiv.org/pdf/1508.06576.pdf) paper by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge.",
-    "links": {"github":"https://github.com/ubamba98/Neural-Style-Transfer"},
+    "links": { "github": "https://github.com/ubamba98/Neural-Style-Transfer" },
     "images": "udbhav-neutralstyle.png"
-  },    {
+  },
+  {
     "name": "Tejus",
     "project": "MNIST Regeneration",
     "description": "Recreated the Handwritten Digits from the MNIST Dataset using a Generative Adversarial Network(GAN), an implementation of \"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks\" (https://arxiv.org/pdf/1511.06434) paper.",
-    "links": {"github":"https://github.com/gktejus/GAN-for-MNIST"},
+    "links": { "github": "https://github.com/gktejus/GAN-for-MNIST" },
     "images": "tejus-mnist.png"
-  },    {
+  },
+  {
     "name": "Aditya Mudgil",
     "project": "AR Ruler",
     "description": "AR_Ruler is a powerful application which can measure any distance between two given points in all the three axis separately. It can measure distance between any two point in cm, inch, m, foot. This is made in Unity with Vuforia.",
-    "links": {"github":"https://github.com/adityamudgil2505/AR_Ruler"},
+    "links": { "github": "https://github.com/adityamudgil2505/AR_Ruler" },
     "images": "aditya-ruler.jpg"
-  }]
+  }
+]
