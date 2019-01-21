@@ -13,7 +13,7 @@ class Project extends Component {
       ({ name, description, images, links, project }, index) => {
         return (
           <div className="box effect82">
-            <div className="columns">
+            <div className="columns" style={{ height: "100%" }}>
               <div className="column1">
                 <img
                   src={
@@ -38,17 +38,19 @@ class Project extends Component {
                 <div className="about" />
                 <hr width="50%" color="orange" />
                 <div className="url">
-                  <div className="icon1">
-                    <a
-                      href={links.github}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <div>
-                        <i class="fa fa-github" aria-hidden="true" />
-                      </div>{" "}
-                    </a>
-                  </div>
+                  {links.github && (
+                    <div className="icon1">
+                      <a
+                        href={links.github}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <div>
+                          <i class="fa fa-github" aria-hidden="true" />
+                        </div>{" "}
+                      </a>
+                    </div>
+                  )}
                 </div>
                 <div className="Description">
                   <p>{description}</p>

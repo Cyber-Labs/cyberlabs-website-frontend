@@ -1,100 +1,101 @@
 .App2 {
-    text-align: center;
-    padding: 20px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-top: 100px;
-    justify-content: center;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  justify-content: center;
 }
 
 .column1 {
-    padding: 0 none;
-    justify-content: center;
+  padding: 0 none;
+  justify-content: center;
 }
 
 .name {
-    font-weight: 900;
-    font-size: 25px;
-    justify-content: center;
-    margin-top: 25px;
-    padding-bottom: 20px;
+  font-weight: 900;
+  font-size: 25px;
+  justify-content: center;
+  margin-top: 25px;
+  padding-bottom: 20px;
 }
 
 .name:hover {
-    opacity: 0.6;
+  opacity: 0.6;
 }
 
 .url {
-    padding-top: 5px;
-    display: flex;
-    justify-content: center;
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
 }
 
 .icon1 {
-    font-size: 30px;
-    padding-left: 10px;
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+.fa.fa-github {
+  color: black;
 }
 
 .icon1:hover {
-    opacity: 0.6;
+  opacity: 0.6;
 }
 
 .Description {
-    opacity: 1;
-    justify-content: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    line-height: 20px;
-    font-size: 15px;
-    padding:20px;
-   
-  }
- 
-  .by1{
-    border-radius: 10px;
-    margin:15px;
-  padding: 15px;
-  justify-content: center; 
-  color:white;
+  opacity: 1;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  line-height: 20px;
+  font-size: 15px;
+  padding: 20px;
+}
 
+.by1 {
+  border-radius: 10px;
+  margin: 15px;
+  padding: 15px;
+  justify-content: center;
+  color: white;
 }
 
 .by1:hover {
-    background-color: rgb(69, 154, 238);
-    cursor: pointer;
+  background-color: rgb(69, 154, 238);
+  cursor: pointer;
 }
 
 .madeby {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    background: dodgerblue;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: dodgerblue;
 }
 
 .box {
-    width: 550px;
-    background: white;
-    margin: 30px;
+  width: 550px;
+  background: white;
+  margin: 30px;
 }
 
 .effect82 {
-    position: relative;
-    box-shadow: 0 1px 18px -4px #888888;
+  position: relative;
+  box-shadow: 0 1px 18px -4px #888888;
 }
 
 .effect82:before,
 .effect82:after {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    box-shadow: 0 1px 18px -4px #888888;
-    top: 20px;
-    bottom: 20px;
-    left: 20px;
-    right: 20px;
-
+  content: "";
+  position: absolute;
+  z-index: -1;
+  box-shadow: 0 1px 18px -4px #888888;
+  top: 20px;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
 }
 
 .effect83 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

@@ -13,7 +13,6 @@ class Member extends Component {
     let infoSec = [];
     let hardware = [];
     let graphicD = [];
-    let coder = [];
     let len = data.length;
     for (i = 0; i < len; i++) {
       switch (data[i].team) {
@@ -23,7 +22,7 @@ class Member extends Component {
         case "Machine Learning":
           ml.push(<MemberCard info={data[i]} />);
           break;
-        case "Graphic Designing":
+        case "Graphic Design":
           graphicD.push(<MemberCard info={data[i]} />);
           break;
         case "Android":
@@ -44,8 +43,7 @@ class Member extends Component {
       graphicD,
       androidD,
       infoSec,
-      hardware,
-      coder
+      hardware
     };
   };
   render() {
@@ -71,7 +69,7 @@ class Member extends Component {
         </center>
         <div className="members-grid">{this.renderGrid().androidD}</div>
         <center>
-          <h1>Graphics Design</h1>
+          <h1>Graphic Design</h1>
         </center>
         <div className="members-grid">{this.renderGrid().graphicD}</div>
         <center>
