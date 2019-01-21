@@ -38,6 +38,9 @@ class Header extends Component {
                 </ul>
               </li>
               <li>
+                <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="projects">Projects</Link>
+              </li>
+              <li>
                 <Link onClick={()=>{this.setState({responsive: !this.state.responsive})}} to="about">About</Link>
               </li>
               <li>
