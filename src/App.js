@@ -9,7 +9,7 @@ import Index from "./pages/index/Index";
 import Member from "./pages/member/Member";
 import Management from "./pages/people/Management";
 import Project from "./pages/project/project";
-import Advisors from "./pages/people/Advisors";
+import Alumni from "./pages/people/Alumni";
 import About from "./pages/about/About";
 import Contact from "./pages/contact/Contact";
 import Publication from "./pages/publication/Publication";
@@ -27,7 +27,7 @@ class App extends Component {
             <Route exact path="/" component={Index} />
             <Route exact path="/members" component={Member} />
             <Route exact path="/management" component={Management} />
-            <Route exact path="/alumni" component={Advisors} />
+            <Route exact path="/alumni" component={Alumni} />
             <Route exact path="/projects" component={Project} />
             <Route exact path="/about" component={About} />
             <Route exact path="/contact" component={Contact} />
