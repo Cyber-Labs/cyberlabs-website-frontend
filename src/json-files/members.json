@@ -60,7 +60,7 @@
       "linkedin": "https://www.linkedin.com/in/ujjawal-jaiswal-20ba9b145",
       "github": "https://github.com/ujjawaljaiswal2017",
       "medium": "https://medium.com/@ujjawaljaiswal2017",
-      "facebook": "https://www.facebook.com/ujjawal.jaiswal.5249 " 
+      "facebook": "https://www.facebook.com/ujjawal.jaiswal.5249 "
     },
     "img": "ujjawal-jaiswal.jpg"
   },
@@ -90,6 +90,18 @@
       "resume": "https://drive.google.com/file/d/17OTSqSGIE4JZdyXkZkYtI3Nreuer_YxB/view?usp=sharing"
     },
     "img": "anushka-mittal.jpg"
+  },
+  {
+    "yearOfPassing": "2019",
+    "email": "manishism1997@gmail.com",
+    "name": "Manish Kumar",
+    "team": "Web Development",
+    "contactNo": "8825131994",
+    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manish97"
+    },
+    "img": "manish-kumar.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -318,25 +330,13 @@
     "yearOfPassing": "2021",
     "email": "adityamudgil2505@gmail.com",
     "name": "Aditya Mudgil",
-    "team": "Graphic Designing",
+    "team": "Graphic Design",
     "contactNo": "7206783125",
     "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Interested in Web Development.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
     },
     "img": "aditya-mudgil.jpg"
-  },
-  {
-    "yearOfPassing": "2019",
-    "email": "manishism1997@gmail.com",
-    "name": "Manish Kumar",
-    "team": "Competitive Coding",
-    "contactNo": "8825131994",
-    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/manish97"
-    },
-    "img": "manish-kumar.jpg"
   },
   {
     "yearOfPassing": "2022",
