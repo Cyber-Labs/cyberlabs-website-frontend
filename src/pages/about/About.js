@@ -77,7 +77,7 @@ class About extends Component {
             <div className="two-column">
               <p>
                 You can ask any of the members or find
-                <a href="http://mohitchawla.in/">this guy</a>..!
+                <a href="https://www.facebook.com/labscyber/">this guy</a>..!
               </p>
             </div>
             <div className="clear"/>
