@@ -13,18 +13,18 @@ class About extends Component {
                 -Albert Einstein</p>
             </div>
             <div className="two-column">
-              <p>We are a team of individuals from multiple disciplines, driven by the desire
-                of implementing solutions-ubounded by the limits of knowledge or techical
-                know-how. The problem statement address issues ranging from solving social
-                problems and cultural oportunities to building some cool gadgets. It was founded
-                post inpiration on the footsteps of MIT MEDIA LABS by an enthusiatic and ticking
-                learner who discovered a scope beyond rote learning and plain-vanilla
-                implementations of the common problems and sci-fi solutions.</p>
-              <p>Cyber Labs provides a platform to discuss debate and explore the viable and
-                easy solutions, be it tech or non-tech to problems via a project-based approach.
-                With hopes to par the levels of exposure, we are delightful for the fact that
-                Cyber Labs is the first direct interface between Indian School of Mines and
-                Massachusetts Institute of Technology.
+              <p>We are a team of individuals from multiple disciplines, driven by the desire 
+                of implementing solutions-ubounded by the limits of knowledge or techical know-how.
+                Cyberlabs is the biggest coding club of IIT(ISM) Dhanbad which act as a platform for
+                the people enthusiastic about coding and development to work together.It was founded
+                 post inpiration on the footsteps of MIT MEDIA LABS by an enthusiatic and ticking 
+                 learner who discovered a scope beyond rote learning and plain-vanilla implementations 
+                 of the common problems and sci-fi solutions.</p>
+              <p>Cyberlabs expertise in feilds 
+                namely, Web Android Machine learning/Deep learning Hardware Security 
+                Competitive coding Data analysis graphic designing OSS and UX .One session is held for each feild per 
+                week. The main aim of our club is to to discuss debate and explore the viable and easy solutions,
+                 be it tech or non-tech to problems via a project-based approach .
               </p>
             </div>
             <div className="clear"/>
