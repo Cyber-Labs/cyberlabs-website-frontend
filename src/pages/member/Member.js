@@ -1,42 +1,39 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 import MemberCard from "./Member.Card";
 import data from "../../json-files/members.json";
 class Member extends Component {
-  renderGrid=()=>{
-    data.sort((a, b)=>{
-      return a.yearOfPassing -  b.yearOfPassing;
+  renderGrid = () => {
+    data.sort((a, b) => {
+      return a.yearOfPassing - b.yearOfPassing;
     });
-    let i=1;
-    let webD=[];
+    let i = 1;
+    let webD = [];
     let androidD = [];
     let ml = [];
     let infoSec = [];
     let hardware = [];
     let graphicD = [];
     let coder = [];
-    let len=data.length;
-    for(i=0;i<len;i++){
-      switch(data[i].team){
+    let len = data.length;
+    for (i = 0; i < len; i++) {
+      switch (data[i].team) {
         case "Web Development":
-          webD.push(<MemberCard info={data[i]}/>);
+          webD.push(<MemberCard info={data[i]} />);
           break;
         case "Machine Learning":
-          ml.push(<MemberCard info={data[i]}/>);
+          ml.push(<MemberCard info={data[i]} />);
           break;
         case "Graphic Designing":
-          graphicD.push(<MemberCard info={data[i]}/>);
-          break;
-        case "Competitive Coding":
-          coder.push(<MemberCard info={data[i]}/>);
+          graphicD.push(<MemberCard info={data[i]} />);
           break;
         case "Android":
-          androidD.push(<MemberCard info={data[i]}/>);
+          androidD.push(<MemberCard info={data[i]} />);
           break;
         case "Hardware":
-          hardware.push(<MemberCard info={data[i]}/>);
+          hardware.push(<MemberCard info={data[i]} />);
           break;
         case "Cyber Security":
-          infoSec.push(<MemberCard info={data[i]}/>);
+          infoSec.push(<MemberCard info={data[i]} />);
           break;
         default:
       }
@@ -49,8 +46,8 @@ class Member extends Component {
       infoSec,
       hardware,
       coder
-    }
-  }
+    };
+  };
   render() {
     return (
       <div id="Member">
@@ -64,49 +61,30 @@ class Member extends Component {
         <center>
           <h1>Web Development</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().webD}
-        </div>
+        <div className="members-grid">{this.renderGrid().webD}</div>
         <center>
           <h1>Machine Learing</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().ml}
-        </div>
+        <div className="members-grid">{this.renderGrid().ml}</div>
         <center>
           <h1>Android</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().androidD}
-        </div>
+        <div className="members-grid">{this.renderGrid().androidD}</div>
         <center>
-          <h1>Graphics Designer</h1>
+          <h1>Graphics Design</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().graphicD}
-        </div>
-        <center>
-          <h1>Competitive Coder</h1>
-        </center>
-        <div className="members-grid">
-        {this.renderGrid().coder}
-        </div>
+        <div className="members-grid">{this.renderGrid().graphicD}</div>
         <center>
           <h1>Hardware</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().hardware}
-        </div>
+        <div className="members-grid">{this.renderGrid().hardware}</div>
         <center>
           <h1>Cyber Security</h1>
         </center>
-        <div className="members-grid">
-        {this.renderGrid().infoSec}
-        </div>
-        
+        <div className="members-grid">{this.renderGrid().infoSec}</div>
       </div>
-    )
+    );
   }
 }
 
-export default Member
+export default Member;
