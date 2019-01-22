@@ -7,8 +7,8 @@ do
 	echo width= $W
 	if test $W -ge 300; then
 	convert $i -resize 300 $i
-	fi
 	convert $i -quality 70 $i
+	fi
 done
 for i in ./public/assets/img/*/*.png
 do
@@ -18,8 +18,8 @@ do
 	echo width= $W
 	if test $W -ge 300; then
 	convert $i -resize 300 $i
-	fi
 	convert $i -quality 70 $i
+	fi
 done
 echo "Total images changes: $count"
 
