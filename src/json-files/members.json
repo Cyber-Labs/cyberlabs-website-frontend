@@ -51,6 +51,20 @@
   },
   {
     "yearOfPassing": "2021",
+    "email": "2893ag@gmail.com",
+    "name": "Anurag Gupta",
+    "team": "Web Development",
+    "contactNo": "9097477747",
+    "about": " 👨‍💻 Web Developer || 💽 JS   Enthusiast || ⌨️Competitive Coder || 📘 Reader || 😉 Anime Lover ",
+    "links": {
+      "github": "https://github.com/AnuragGupta93",
+      "linkedin": "https://in.linkedin.com/in/anuraggupta93",
+      "facebook": "https://www.facebook.com/AnuragGupta93"
+    },
+    "img": "anurag-gupta.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
     "email": "ujjawaljaiswal2017@gmail.com",
     "name": "Ujjawal Jaiswal  ",
     "team": "Web Development",
@@ -63,20 +77,6 @@
       "facebook": "https://www.facebook.com/ujjawal.jaiswal.5249 "
     },
     "img": "ujjawal-jaiswal.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "2893ag@gmail.com",
-    "name": "Anurag Gupta",
-    "team": "Web Development",
-    "contactNo": "9097477747",
-    "about": " 👨‍💻 Web Developer || 💽 JS   Enthusiast || ⌨️Competitive Coder || 📘 Reader || 😉 Anime Lover ",
-    "links": {
-      "github": "https://github.com/AnuragGupta93",
-      "linkedin": "https://in.linkedin.com/in/anuraggupta93",
-      "facebook": "https://www.facebook.com/AnuragGupta93"
-    },
-    "img": "anurag-gupta.jpg"
   },
   {
     "yearOfPassing": "2021",
