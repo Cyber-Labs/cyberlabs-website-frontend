@@ -15,27 +15,13 @@
     },
     {
       "name": ["Perul Jain"],
-      "project": "Light detecting bot",
-      "description": "An autonomous bot which follows light .",
-      "links": {},
-      "images": ""
-    },
-    {
-      "name": ["Perul Jain"],
       "project": "Bluetooth control bot",
       "description": "An autonomous bot which is controlled by Android app",
       "links": {},
       "images": ""
     },
     {
-      "name": ["Perul Jain"],
-      "project": "obstacle avoiding bot",
-      "description": "An autonomous bot which compete the path with obstacles between their path",
-      "links": {},
-      "images": ""
-    },
-    {
-      "name": ["Suyog Jadhav"],
+      "name": ["Suyog Jadhav","Udbhav Bamba","Tejus"],
       "project": "DriveSmart",
       "description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad?? Nearing completion.",
       "links": {},
@@ -50,27 +36,13 @@
     },
     {
       "name": ["Suyog Jadhav"],
-      "project": "WalkSafe",
-      "description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
-      "links":{"github":"https://github.com/hackabit18/CyberLabs"} ,
-      "images": ""
-    },
-    {
-      "name": ["Suyog Jadhav"],
       "project": "T. A. L. K.",
       "description": "Working on a startup idea in a team of three members that promises something that has never been achieved before. Using recurrent neural networks in combination with advanced conducting fibres and other hardware sensors as the core technologies. The work hasn't yet started.",
       "links": {},
       "images": ""
     },
     {
-      "name": ["Udbhav Bamba"],
-      "project": "DriveSmart",
-      "description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad?? Nearing completion.",
-      "links": {},
-      "images": ""
-    },
-    {
-      "name": ["Udbhav Bamba"],
+      "name": ["Udbhav Bamba","Aniket Teotia","Shridhar Goel","Suyog Jadhav"],
       "project": "WalkSafe",
       "description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
       "links": {"github":"https://github.com/hackabit18/CyberLabs"},
@@ -98,13 +70,6 @@
       "images": ""
     },
     {
-      "name": ["Aniket Teotia"],
-      "project": "WalkSafe",
-      "description": "A smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
-      "links": {"github":"https://github.com/hackabit18/CyberLabs"},
-      "images": ""
-    },
-    {
       "name": ["Dev Vats"],
       "project": "FaceBot",
       "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.\n\n",
@@ -120,20 +85,13 @@
     },
     {
       "name": ["Tejus"],
-      "project": "DriveSmart",
-      "description": "A smart system for cars that alerts the driver with visual cues and audio alerts when the driver gets distracted from the road or is drowsy. Developed a real-time headpose estimation system using TensorFlow and OpenCV. Startup funded by CIIE, IIT (ISM) Dhanbad?? Nearing completion.",
-      "links": {},
-      "images": ""
-    },
-    {
-      "name": ["Tejus"],
       "project": "MNIST Regeneration",
       "description": "Recreated the Handwritten Digits from the MNIST Dataset using a Generative Adversarial Network(GAN), an implementation of \"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks\" (https://arxiv.org/pdf/1511.06434) paper.",
       "links": {"github":"https://github.com/gktejus/GAN-for-MNIST"},
       "images": "tejus-mnist.png"
     },
     {
-      "name": ["NIKHIL"],
+      "name": ["NIKHIL","Perul Jain"],
       "project": "LIGHT DETECTING BOT",
       "description": "A light detecting bot which move in direction of higher intensity of light",
       "links": {"github":"https://github.com/nikarora1111/light-detector-.git"},
@@ -147,7 +105,7 @@
       "images": ""
     },
     {
-      "name": ["NIKHIL"],
+      "name": ["NIKHIL","Perul Jain"],
       "project": "obstacle avoiding bot",
       "description": "an autonomous bot able to the path with obstacle between path",
       "links": {},
@@ -196,13 +154,6 @@
       "images": ""
     },
     {
-      "name": ["Shridhar Goel"],
-      "project": "WalkSafe",
-      "description": "Will be working on the android app of a smart system for pedestrians wearing earphones, that alerts the user whenever he/she is being honked at by an oncoming car. Promises to dramatically reduce the no. of accidents caused due to pedestrians crossing streets wearing earphones. Starting 26-10-2018.",
-      "links": "https://github.com/hackabit18/CyberLabs",
-      "images": ""
-    },
-    {
       "name": ["Mayank Kumar"],
       "project": "Score Feeder",
       "description": "web crawler developed by cricbuzz python library which fetches live scores,full score card and commentry.",
@@ -245,10 +196,10 @@
       "images": ""
     },
     {
-      "name": ["Saloni Mohta"],
+      "name": ["Saloni Mohta","Anushka Mittal","Aayush Ahuja","Raj Rani"],
       "project": "The-Q",
       "description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) .Starting on 26.10.18.",
-      "links": {},
+      "links": {"github":"https://github.com/anushkamittal/Geeks_and_Freaks"},
       "images": ""
     },
     {
@@ -287,31 +238,17 @@
       "images": ""
     },
     {
-      "name": ["Ali Sabir"],
+      "name": ["Ali Sabir","Osama Azmi"],
       "project": "ImageCompress",
       "description": "An app which compresses as well as decompresses high resolution images using  K means a widely used unsupervised machine learning algorithm.",
       "links": {"github":"https://github.com/Samuelimza/ImageCompress"},
       "images": ""
     },
     {
-      "name": ["Ali Sabir"],
+      "name": ["Ali Sabir","Osama Azmi"],
       "project": "CodeOnPaper",
       "description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code.Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
       "links":{"github":"https://github.com/hackabit18/Gizmos"} ,
-      "images": ""
-    },
-    {
-      "name": ["Osama Azmi"],
-      "project": "ImageCompress",
-      "description": "An app which compresses as well as decompresses high resolution images using  K means a widely used unsupervised machine learning algorithm.",
-      "links": {"github":"https://github.com/Samuelimza/ImageCompress"},
-      "images": ""
-    },
-    {
-      "name": ["Osama Azmi"],
-      "project": "CodeOnPaper",
-      "description": "An app which converts small programs written on paper to editable formats with the options to compile and run. Starting 26/10/2018",
-      "links": {"github":"https://github.com/hackabit18/Gizmos"},
       "images": ""
     },
     {
@@ -391,13 +328,6 @@
       "project": "Chatapp",
       "description": "An App like messenger used  for both group as well as personel chat",
       "links": {"github":"https://github.com/anushkamittal/Chatapp"},
-      "images": ""
-    },
-    {
-      "name": ["Anushka Mittal"],
-      "project": "CyberLabs Website",
-      "description": "Me along with my web team of Cyberlabs Society Made the website of the official coding club of IIT ISM Dhanbad",
-      "links":{"github":"https://github.com/anushkamittal/cyberlabs-website-frontend"} ,
       "images": ""
     }
   ]
