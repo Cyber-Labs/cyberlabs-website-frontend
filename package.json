@@ -10,7 +10,7 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "./shell.sh && react-scripts start",
     "client": "react-scripts start",
     "build": "react-scripts build",
     "test": "eslint src public && react-scripts test --env=jsdom",
