@@ -5,7 +5,7 @@ do
 	W=`identify $i | cut -f 3 -d " " | sed s/x.*//` #width'
 	echo $i
 	echo width= $W
-	if test $W -ge 300; then
+	if test $W -g 300; then
 	convert $i -resize 300 $i
 	convert $i -quality 70 $i
 	fi
@@ -16,7 +16,7 @@ do
 	W=`identify $i | cut -f 3 -d " " | sed s/x.*//` #width'
 	echo $i
 	echo width= $W
-	if test $W -ge 300; then
+	if test $W -g 300; then
 	convert $i -resize 300 $i
 	convert $i -quality 70 $i
 	fi
