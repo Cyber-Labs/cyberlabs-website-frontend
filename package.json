@@ -16,6 +16,7 @@
     "test": "eslint src public && react-scripts test --env=jsdom",
     "test-dev": "eslint src public && react-scripts test --env=jsdom",
     "lint": "eslint src public",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "newstart":"react-scripts start"
   }
 }

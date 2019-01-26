@@ -10,11 +10,6 @@ class Content extends Component {
                   matter!
                 </p>
                 <p>Hop on, if you have that "keeda" of invention.</p>
-                <div>
-                  <a className="indexLinks" href="projects" style={{width:"40%"}}>
-                    <h3 className="card-heading">See projects ></h3>
-                  </a>
-                </div>
               </div>
             </div>
         )
