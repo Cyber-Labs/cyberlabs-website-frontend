@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import MemberCard from "./Member.Card";
 import data from "../../json-files/members.json";
 class Member extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
   renderGrid = () => {
     data.sort((a, b) => {
       return a.yearOfPassing - b.yearOfPassing;

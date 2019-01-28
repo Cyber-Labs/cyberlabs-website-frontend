@@ -3,10 +3,18 @@ import projects from "../../json-files/project.json";
 import "./project.css";
 
 class Project extends Component {
-  renderArray(name){
-    return name.map(member =>{
-      return (<div className="by1 effect83"><i class="fa fa-user" aria-hidden="true" style={{"padding":"5px"}}></i>{member}</div>)
-    })
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
+  renderArray(name) {
+    return name.map(member => {
+      return (
+        <div className="by1 effect83">
+          <i class="fa fa-user" aria-hidden="true" style={{ padding: "5px" }} />
+          {member}
+        </div>
+      );
+    });
   }
   renderProjects() {
     return projects.map(
@@ -55,9 +63,7 @@ class Project extends Component {
                 <div className="Description">
                   <p>{description}</p>
                 </div>
-                <div className="madeby">
-                {this.renderArray(name)}
-                </div>
+                <div className="madeby">{this.renderArray(name)}</div>
               </div>
             </div>
           </div>

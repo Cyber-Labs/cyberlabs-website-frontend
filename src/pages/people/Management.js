@@ -3,6 +3,9 @@ import {management} from "./managementFields";
 
 
 class Management extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
   renderFields(item){
     return item.map(({name, img, position, place})=>{
             return  (
