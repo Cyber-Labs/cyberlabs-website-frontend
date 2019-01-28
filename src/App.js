@@ -18,6 +18,10 @@ import ComingSoon from "./pages/comingSoon/ComingSoon";
 import "./App.css";
 
 class App extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
+  
   render() {
     return (
       <div className="App">
