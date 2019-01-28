@@ -37,7 +37,21 @@ class Portfolio extends Component {
     );
   }
   render() {
-    return <div id="Portfolio">{this.renderProjects()}</div>;
+    return (
+    <div>
+    <div id="Portfolio">{this.renderProjects()}
+    </div>
+    <div className="content" id="ajax-content">
+              <div className="text-intro" id="site-type">
+              <div>
+                  <a className="indexLinks" href="projects" style={{width:"40%"}}>
+                    <h3 className="card-heading">See projects ></h3>
+                  </a>
+                </div>
+              </div>
+            </div>
+      </div>
+    );
   }
 }
 
