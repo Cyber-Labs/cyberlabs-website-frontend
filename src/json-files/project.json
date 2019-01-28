@@ -56,13 +56,6 @@
       "images": "udbhav-neutralstyle.png"
     },
     {
-      "name": ["Raj Rani"],
-      "project": "One of the communication apps of Microsoft",
-      "description": "NDA",
-      "links": {},
-      "images": ""
-    },
-    {
       "name": ["Aniket Teotia"],
       "project": "FaceBot",
       "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.",
