@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import alumni from "./../../json-files/alumni.json";
 import ProgressiveImage from "react-progressive-image";
 class Alumni extends Component {
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderFields() {
     return alumni.map(({ name, img, position, place, opImg }) => {
       return (
