@@ -11,7 +11,6 @@ import Management from "./pages/people/Management";
 import Project from "./pages/project/Project";
 import Alumni from "./pages/people/Alumni";
 import About from "./pages/about/About";
-import Contact from "./pages/contact/Contact";
 import Publication from "./pages/publication/Publication";
 import ComingSoon from "./pages/comingSoon/ComingSoon";
 
@@ -19,9 +18,9 @@ import "./App.css";
 
 class App extends Component {
   componentDidMount() {
-    window.scrollTo(0, 0)
+    window.scrollTo(0, 0);
   }
-  
+
   render() {
     return (
       <div className="App">
@@ -34,7 +33,6 @@ class App extends Component {
             <Route exact path="/alumni" component={Alumni} />
             <Route exact path="/projects" component={Project} />
             <Route exact path="/about" component={About} />
-            <Route exact path="/contact" component={Contact} />
             <Route exact path="/publication" component={Publication} />
             <Route exact path="/comingSoon" component={ComingSoon} />
             <Footer key={window.location.pathname} />
