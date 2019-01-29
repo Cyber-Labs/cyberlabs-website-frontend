@@ -1,5 +1,5 @@
 COUNT=0
-INPUT_DIR=./src/images-uncompressed
+INPUT_DIR=./src/images
 OUTPUT_DIR=./public/assets/img
 OUTPUT_OPTIMISED_DIR=./public/assets/img/opImg
 
@@ -11,16 +11,21 @@ do
 	IMG_NAME=`basename  $originalImg`
 	OUTPUT_PATH=$OUTPUT_DIR/$DIR_NAME/$IMG_NAME
 	OUTPUT_OPTIMISED_PATH=$OUTPUT_OPTIMISED_DIR/$DIR_NAME/$IMG_NAME
+	FILESIZE=$(du -k $originalImg | cut -f 1)
+	
+	echo Current Image: $IMG_NAME
+	echo Input Path: $originalImg
+	echo Output Path: $OUTPUT_PATH
+	# echo Optimised Image Path: $OUTPUT_OPTIMISED_PATH
+	echo __________________________________________
 
-	if [ $W -gt 300 ]
+	if [ $W -gt 300 ] || [ $FILESIZE -gt 50 ];
 	then
 		((COUNT++))
 		convert $originalImg -resize 300 $OUTPUT_PATH
-		convert $originalImg -quality 50 $OUTPUT_PATH
-
-		convert $originalImg -resize 300 $OUTPUT_OPTIMISED_PATH
-		convert $originalImg -quality 1 $OUTPUT_OPTIMISED_PATH
+		convert $OUTPUT_PATH -quality 50 $OUTPUT_PATH
 	fi
+	# convert $originalImg -resize 300 $OUTPUT_OPTIMISED_PATH
 done
 
 echo "Total changes: $COUNT"
