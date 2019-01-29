@@ -5,7 +5,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
-import Index from "./pages/index/Index";
+import Home from "./pages/home/Home";
 import Member from "./pages/member/Member";
 import Management from "./pages/people/Management";
 import Project from "./pages/project/Project";
@@ -27,7 +27,7 @@ class App extends Component {
         <BrowserRouter>
           <div>
             <Header />
-            <Route exact path="/" component={Index} />
+            <Route exact path="/" component={Home} />
             <Route exact path="/members" component={Member} />
             <Route exact path="/management" component={Management} />
             <Route exact path="/alumni" component={Alumni} />
