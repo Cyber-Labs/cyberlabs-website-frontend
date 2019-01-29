@@ -77,6 +77,17 @@ class MemberCard extends Component {
                 </a>
               </li>
             )}
+            {info.links.website && (
+              <li className="member-social-icon">
+                <a
+                  href={info.links.website}
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <i className="fa fa-globe" aria-hidden="true" />
+                </a>
+              </li>
+            )}
             {info.links.others && (
               <li className="member-social-icon">
                 <a

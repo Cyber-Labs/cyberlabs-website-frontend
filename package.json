@@ -13,7 +13,7 @@
     "start": "react-scripts start",
     "compress": "./compress.sh",
     "client": "react-scripts start",
-    "build": "./compress.sh && react-scripts build",
+    "build": "react-scripts build",
     "test": "eslint src public && react-scripts test --env=jsdom",
     "test-dev": "eslint src public && react-scripts test --env=jsdom",
     "lint": "eslint src public",

@@ -19,7 +19,7 @@ do
 	# echo Optimised Image Path: $OUTPUT_OPTIMISED_PATH
 	echo __________________________________________
 
-	if [ $W -gt 300 ] || [ $FILESIZE -gt 50 ];
+	if [ $W -gt 300 ] || [ $FILESIZE -gt 50 ]
 	then
 		((COUNT++))
 		convert $originalImg -resize 300 $OUTPUT_PATH

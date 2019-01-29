@@ -41,13 +41,14 @@
   },
   {
     "yearOfPassing": "2021",
-    "email": "aayushd100@gmail.com",
     "name": "Aayush Dutt",
     "team": "Web Development",
     "contactNo": "",
-    "about": "Web Application Developer at Cyber Labs",
-    "links": {},
-    "img": ""
+    "about": "Node.js Fanboy",
+    "links": {
+      "website": "https://www.aayushdutt.com"
+    },
+    "img": "aayush-dutt.jpg"
   },
   {
     "yearOfPassing": "2021",
