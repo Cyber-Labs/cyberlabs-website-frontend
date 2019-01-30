@@ -18,6 +18,7 @@ class Portfolio extends Component {
               <ul className="details">
                 <li className="author">{name}</li>
               </ul>
+              
             </div>
             <div className="description">
               <h1>{project}</h1>
