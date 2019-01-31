@@ -123,7 +123,7 @@
   .blog-card .description h2 {
     font-size: 1rem;
     font-weight: 300;
-    color: #a2a2a2;
+    color:#a2a2a2;
     margin-top: 5px;
   }
   .blog-card .description .read-more a:after {
@@ -146,7 +146,15 @@
     border-bottom:.5px #dddddd solid;
     padding-bottom: 50px;
     padding-top: 30px;
-    color: #a2a2a2;
+    font-size:13px;
+    /*color:#8d8d8d;*/
+    /* color:#544e4e; */
+    /* color:#837f7f; */
+    color:rgb(34, 33, 33);
+    margin-top:30px;
+    font-weight:400;
+    line-height:22px;
+    letter-spacing:1px;
     width:95%;
   }
   .blog-card p:first-of-type:before {

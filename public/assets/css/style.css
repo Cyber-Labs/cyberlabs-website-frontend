@@ -344,7 +344,7 @@ header li{
 
 header li > a{
   font-size:13px;
-  color:#c3c3c3;
+  color:#837f7f;
   padding-right:25px;
   padding-left:25px;
   font-weight:800;
@@ -499,7 +499,10 @@ CONTENT
 .content .text-intro p{
   font-size:13px;
   /*color:#8d8d8d;*/
-  color:#544e4e;
+  /* color:#544e4e; */
+  /* color:#837f7f; */
+  /* color:#333; */
+  color:rgb(34, 33, 33);
   margin-top:30px;
   font-weight:400;
   line-height:22px;
