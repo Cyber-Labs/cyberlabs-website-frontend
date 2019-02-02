@@ -11,7 +11,7 @@ class Alumni extends Component {
         <div className="grid-responsive">
           <ProgressiveImage
             src={"/assets/img/alumni/" + img}
-            placeholder={"/assets/opImg/alumni/" + img}
+            placeholder={"/assets/img/default-profile-icon.jpg"}
           >
             {(src, loading) => (
               <img
