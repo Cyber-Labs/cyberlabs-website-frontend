@@ -8,7 +8,7 @@ class Portfolio extends Component {
       ({ name, project, description, links, images }, index) => {
         return (
           <div className={"blog-card" + (index % 2 === 0 ? " alt" : "")}>
-            <div className="meta">
+           <div className="meta">
               <div
                 className="photo"
                 style={{
