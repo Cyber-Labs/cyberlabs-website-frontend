@@ -123,7 +123,7 @@
   .blog-card .description h2 {
     font-size: 1rem;
     font-weight: 300;
-    color: #a2a2a2;
+    color: #474747;
     margin-top: 5px;
   }
   .blog-card .description .read-more a:after {
@@ -146,7 +146,7 @@
     border-bottom:.5px #dddddd solid;
     padding-bottom: 50px;
     padding-top: 30px;
-    color: #a2a2a2;
+    color: #1a1a1a;
     width:95%;
   }
   .blog-card p:first-of-type:before {
@@ -229,7 +229,7 @@
   }
     
   .icons-font{
-  color:#a2a2a2;
+  color:#474747;
   margin-bottom: 0;
   }
   
