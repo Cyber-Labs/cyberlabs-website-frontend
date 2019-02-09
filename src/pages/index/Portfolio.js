@@ -15,9 +15,6 @@ class Portfolio extends Component {
                   backgroundImage: `url(assets/img/project/${images}), url(assets/img/project-placeholder.png)`
                 }}
               />
-              {/* <ul className="details">
-                <li className="author">{name}</li>
-              </ul> */}
             </div>
             <div className="description">
               <h1>{project}</h1>
