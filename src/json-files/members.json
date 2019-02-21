@@ -1,19 +1,5 @@
 [
   {
-    "yearOfPassing": "2020",
-    "email": "nveenjain@gmail.com",
-    "name": "Naveen Jain",
-    "team": "Web Development",
-    "contactNo": "9680946939",
-    "about": "Secretary | Web | OSS",
-    "links": {
-      "github": "https://github.com/nveenjain",
-      "linkedin": "https://www.linkedin.com/in/nveenjain/",
-      "twitter": "https://twitter.com/nveenjain"
-    },
-    "img": "naveen-jain.jpg"
-  },
-  {
     "yearOfPassing": "2019",
     "email": "avijuneja.cs@gmail.com",
     "name": "Aarush Juneja",
@@ -28,6 +14,32 @@
     "img": "aarush-juneja.jpg"
   },
   {
+    "yearOfPassing": "2019",
+    "email": "manishism1997@gmail.com",
+    "name": "Manish Kumar",
+    "team": "Web Development",
+    "contactNo": "8825131994",
+    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manish97"
+    },
+    "img": "manish-kumar.jpg"
+  },
+  {
+    "yearOfPassing": "2020",
+    "email": "nveenjain@gmail.com",
+    "name": "Naveen Jain",
+    "team": "Web Development",
+    "contactNo": "9680946939",
+    "about": "Secretary | Web | OSS",
+    "links": {
+      "github": "https://github.com/nveenjain",
+      "linkedin": "https://www.linkedin.com/in/nveenjain/",
+      "twitter": "https://twitter.com/nveenjain"
+    },
+    "img": "naveen-jain.jpg"
+  },
+  {
     "yearOfPassing": "2020",
     "email": "sanketsingh24@gmail.com",
     "name": "Sanket Singh",
@@ -38,6 +50,35 @@
       "github": "https://github.com/sanketsingh24"
     },
     "img": "sanket-singh.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
+    "email": "aayu.16je002440@am.ism.ac.in",
+    "name": "Aayush Ahuja",
+    "team": "Web Development",
+    "contactNo": "8873643965",
+    "about": " ",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/codeaayu",
+      "github": "https://www.github.com/codeaayu",
+      "medium": "https://www.medium.com/@codeaayu",
+      "facebook": "https://www.facebook.com/codeaayu"
+    },
+    "img": "aayush-ahuja.jpg"
+  },
+  {
+    "yearOfPassing": "2020",
+    "email": "rajrani0710@gmail.com",
+    "name": "Raj Rani",
+    "team": "Web Development",
+    "contactNo": "8539061765",
+    "about": "My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
+    "links": {
+      "github": "https://github.com/ARsquare",
+      "linked": "https://www.linkedin.com/in/rrsquare",
+      "facebook": "https://facebook.com/arrsquare"
+    },
+    "img": "raj-rani.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -93,47 +134,6 @@
     "img": "anushka-mittal.jpg"
   },
   {
-    "yearOfPassing": "2019",
-    "email": "manishism1997@gmail.com",
-    "name": "Manish Kumar",
-    "team": "Web Development",
-    "contactNo": "8825131994",
-    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/manish97"
-    },
-    "img": "manish-kumar.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "aayu.16je002440@am.ism.ac.in",
-    "name": "Aayush Ahuja",
-    "team": "Web Development",
-    "contactNo": "8873643965",
-    "about": " ",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/codeaayu",
-      "github": "https://www.github.com/codeaayu",
-      "medium": "https://www.medium.com/@codeaayu",
-      "facebook": "https://www.facebook.com/codeaayu"
-    },
-    "img": "aayush-ahuja.jpg"
-  },
-  {
-    "yearOfPassing": "2020",
-    "email": "rajrani0710@gmail.com",
-    "name": "Raj Rani",
-    "team": "Web Development",
-    "contactNo": "8539061765",
-    "about": "My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
-    "links": {
-      "github": "https://github.com/ARsquare",
-      "linked": "https://www.linkedin.com/in/rrsquare",
-      "facebook": "https://facebook.com/arrsquare"
-    },
-    "img": "raj-rani.jpg"
-  },
-  {
     "yearOfPassing": "2021",
     "email": "salonimohta37@gmail.com",
     "name": "Saloni Mohta",
@@ -144,6 +144,34 @@
       "github": "https://github.com/salonimohta"
     },
     "img": "saloni-mohta.jpg"
+  },
+  {
+    "yearOfPassing": "2019",
+    "email": "anirudh_jain@am.ism.ac.in",
+    "name": "Anirudh Jain",
+    "team": "Machine Learning",
+    "contactNo": "8969257536",
+    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
+    "links": {
+      "github": "www.github.com/sponde25",
+      "linkedin": "www.linkedin.com/in/sponde",
+      "others": ["arxiv.org/abs/1803.06473"]
+    },
+    "img": "anirudh-jain.jpg"
+  }, 
+  {
+    "yearOfPassing": "2021",
+    "email": "banipreet.raheja@gmail.com",
+    "name": "Banipreet Singh Raheja",
+    "team": "Machine Learning",
+    "contactNo": "9935701111",
+    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
+    "links": {
+      "github": "https://github.com/baniraheja2197",
+      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
+      "facebook": "https://www.facebook.com/banipreet.raheja"
+    },
+    "img": "banipreet-singh-raheja.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -180,41 +208,14 @@
     "contactNo": "917719058077",
     "about": "A proud 90's geek with a knack for AI. Loves doing innovative projects using deep learning. When not coding, can often be found writing blogs or playing legacy games.",
     "links": {
+      "website":"https://iamsuyogjadhav.github.io",
       "github": "https://github.com/IAmSuyogJadhav",
       "linkedin": "https://www.linkedin.com/in/IAmSuyogJadhav",
       "twitter": "https://twitter.com/IAmSuyogJadhav",
       "facebook": "http://fb.com/IAmSuyogJadhav",
-      "others":["https://iamsuyogjadhav.github.io","https://mlendeavours.wordpress.com/","https://ai.stackexchange.com/users/16159/suyog-jadhav"]
+      "others":["https://mlendeavours.wordpress.com/","https://ai.stackexchange.com/users/16159/suyog-jadhav"]
     },
     "img": "suyog-jadhav.jpg"
-  },
-  {
-    "yearOfPassing": "2019",
-    "email": "anirudh_jain@am.ism.ac.in",
-    "name": "Anirudh Jain",
-    "team": "Machine Learning",
-    "contactNo": "8969257536",
-    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
-    "links": {
-      "github": "www.github.com/sponde25",
-      "linkedin": "www.linkedin.com/in/sponde",
-      "others": ["arxiv.org/abs/1803.06473"]
-    },
-    "img": "anirudh-jain.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "banipreet.raheja@gmail.com",
-    "name": "Banipreet Singh Raheja",
-    "team": "Machine Learning",
-    "contactNo": "9935701111",
-    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
-    "links": {
-      "github": "https://github.com/baniraheja2197",
-      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
-      "facebook": "https://www.facebook.com/banipreet.raheja"
-    },
-    "img": "banipreet-singh-raheja.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -302,7 +303,8 @@
     "about": "Deep learning enthusiast",
     "links": {
       "github": "github.com/gktejus",
-      "linkedin": "linkedin.com/in/gktejus\nfacebook.com/Gktejus"
+      "linkedin": "linkedin.com/in/gktejus",
+      "facebook":"facebook.com/Gktejus"
     },
     "img": "tejus.jpg"
   },
@@ -325,7 +327,7 @@
     "name": "Ajay Bhave",
     "team": "Machine Learning",
     "contactNo": "7355982667",
-    "about": "I am a quick learner , don\"t afraid of new tasks and also deep learning enthusiast",
+    "about": "I am a quick learner , not afraid of new tasks and also deep learning enthusiast",
     "links": {
       "linkedin": "www.linkedin.com/in/ajay-bhave-a4a828156"
     },
