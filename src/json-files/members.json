@@ -193,10 +193,11 @@
     "name": "Udbhav Bamba",
     "team": "Machine Learning",
     "contactNo": "+91 7779891930",
-    "about": "Sophomore | Developer | Gamer | Bingewatcher",
+    "about": "Developer | Gamer | Bingewatcher",
     "links": {
       "linkedin": "linkedin.com/in/ubamba98",
-      "blog": "https://mlendeavours.wordpress.com"
+      "blog": "https://mlendeavours.wordpress.com",
+      "github" :"github.com/ubamab98"
     },
     "img": "udbhav-bamba.jpg"
   },
