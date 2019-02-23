@@ -336,6 +336,19 @@
   },
   {
     "yearOfPassing": "2021",
+    "email": "sabirali2560@gmail.com",
+    "name": "Ali Sabir",
+    "team": "Machine Learning",
+    "contactNo": "9694304153",
+    "about": "Computer Science undergrad \nAI enthusiast",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b",
+      "github":"https://github.com/sabirali2560"
+    },
+    "img": "ali-sabir.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
     "email": "adityamudgil2505@gmail.com",
     "name": "Aditya Mudgil",
     "team": "Graphic Design",
