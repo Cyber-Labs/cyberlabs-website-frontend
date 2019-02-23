@@ -179,7 +179,7 @@ ul.menu-fullscreen li{
 }
 
 ul.menu-fullscreen li > a{
-  color:#999999;
+  color:#474747;
   border:0;
 }
 
@@ -344,7 +344,7 @@ header li{
 
 header li > a{
   font-size:13px;
-  color:#c3c3c3;
+  color:#474747;
   padding-right:25px;
   padding-left:25px;
   font-weight:800;
