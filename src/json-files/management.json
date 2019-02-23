@@ -5,5 +5,9 @@
     "position": "President"
   },
   { "name": "Mohit Chawla", "img": "mohit.png", "position": "Founder" },
-  { "name": "Naveen Jain", "img": "naveen-jain.jpg", "position": "Secretary" }
+  { "name": "Naveen Jain", "img": "naveen-jain.jpg", "position": "Secretary" },
+  { "name": "Aarush Juneja", "img": "aarush-juneja.jpg", "position": "Assistant Secretary" },
+  { "name": "Kriti Singh", "img": "kriti1.jpg", "position": "Co-founder" },
+  { "name": "Prabodh Tripathi", "img": "prabodh.jpg", "position": "Co-founder" }
+
 ]

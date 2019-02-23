@@ -64,7 +64,7 @@ class Member extends Component {
         </center>
         <div className="members-grid">{this.renderGrid().webD}</div>
         <center>
-          <h1>Machine Learing</h1>
+          <h1>Machine Learning</h1>
         </center>
         <div className="members-grid">{this.renderGrid().ml}</div>
         <center>
