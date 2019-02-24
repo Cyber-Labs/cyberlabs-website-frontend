@@ -248,7 +248,7 @@
       font-family:  sans-serif;
       font-size: 18px;
       color: white;
-      background: blue;
+      background: rgb(69, 154, 238);
       transition: 1s;
       box-shadow: 6px 6px 0 black;
       transform: skewX(-15deg);
@@ -260,7 +260,7 @@
   
   .cta:hover {
       transition: 0.5s;
-      box-shadow: 10px 10px 0 #38b9fa;
+      box-shadow: 10px 10px 0 #f1f1f1;
   }
   
   .cta span:nth-child(2) {
