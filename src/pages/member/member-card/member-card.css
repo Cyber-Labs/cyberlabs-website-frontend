@@ -93,7 +93,7 @@ div.Description p{
 
 @media (max-width:700px) {
   .member-card {
-    width: 100%;
+    width: 80%;
     height: 670px;
     background: rgb(253, 251, 251);
     margin: 40px auto;
