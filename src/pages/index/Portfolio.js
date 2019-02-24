@@ -22,14 +22,6 @@ class Portfolio extends Component {
                 <li className="author">{name}</li>
               </ul>
               <p>{description}</p>
-              <h1 className="icons-font">
-                <a href={`${links.github}`}>
-                  <i
-                    className="fab icons-font-padding fa fa-github fa-3px"
-                    style={{ float: "right" }}
-                  />
-                </a>
-              </h1>
             </div>
           </div>
         );
