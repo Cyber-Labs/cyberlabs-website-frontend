@@ -19,22 +19,21 @@ class About extends Component {
             <div className="two-column">
               <p>
                 We are a team of individuals from multiple disciplines, driven
-                by the desire of implementing solutions-ubounded by the limits
-                of knowledge or techical know-how. Cyberlabs is the biggest
-                coding club of IIT(ISM) Dhanbad which act as a platform for the
-                people enthusiastic about coding and development to work
+                by the desire of implementing solutions ubounded by the limits
+                of knowledge or techical know-how. Cyberlabs is the official
+                programming club of IIT(ISM) Dhanbad which acts as a platform for the
+                people enthusiastic about technology to work
                 together.It was founded post inpiration on the footsteps of MIT
                 MEDIA LABS by an enthusiatic and ticking learner who discovered
                 a scope beyond rote learning and plain-vanilla implementations
                 of the common problems and sci-fi solutions.
               </p>
               <p>
-                Cyberlabs expertise in feilds namely, Web Android Machine
-                learning/Deep learning Hardware Security Competitive coding Data
-                analysis graphic designing OSS and UX .One session is held for
-                each feild per week. The main aim of our club is to to discuss
-                debate and explore the viable and easy solutions, be it tech or
-                non-tech to problems via a project-based approach .
+                We, at Cyberlabs work in many feilds, namely, Web, Android, Machine
+                learning and Deep learning, Hardware, Information Security, Competitive coding, Data
+                analytics, Graphics Designing, OSS and UX. Regular sessions are held for
+                each field. The main aim of our club is to promote a diverse product development
+                as well as R&D Culture amongst the students of IIT(ISM), Dhanbad. 
               </p>
             </div>
             <div className="clear" />
@@ -99,7 +98,7 @@ class About extends Component {
             <div className="two-column">
               <p>
                 You can ask any of the members or find
-                <a href="https://www.facebook.com/labscyber/">this guy</a>..!
+                <a href="https://www.facebook.com/labscyber/"> this guy</a>..!
               </p>
             </div>
             <div className="clear" />
