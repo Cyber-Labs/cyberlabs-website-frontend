@@ -114,9 +114,9 @@
   }
   
   .blog-card .description h1 {
-    padding-left:20px;
+    /* padding-left:20px; */
     line-height: 1;
-    margin: 10px;
+    margin: 10px 10px 10px 0;
     font-size: 2.2rem;
     font-weight: bold;
   }
@@ -192,9 +192,9 @@
       right: -10px;
       transform: skew(3deg);
     }
-    .blog-card.alt .details {
+    /* .blog-card.alt .details {
       padding-left: 25px;
-    }
+    } */
   }
   
   .button-tags{
