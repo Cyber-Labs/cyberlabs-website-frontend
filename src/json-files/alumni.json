@@ -1,5 +1,21 @@
 [
   {
+    "name": "Vaasudev Narayan",
+    "opImg": "",
+    "img": "vaasudev-narayan.jpeg",
+    "position": "",
+    "place": "",
+    "year":"2018"
+  },
+  {
+    "name": "Shril Bhardwaj",
+    "opImg": "",
+    "img": "shril-bhardwaj.jpeg",
+    "position": "",
+    "place": "",
+    "year":"2018"
+  },
+  {
     "name": "Mohit Chawla",
     "opImg": "",
     "img": "mohit.png",
@@ -59,6 +75,14 @@
     "name": "Janpreet Singh",
     "opImg": "",
     "img": "janpreet.png",
+    "position": "",
+    "place": "",
+    "year":"2017"
+  },
+  {
+    "name": "Aanisha Mishra",
+    "opImg": "",
+    "img": "aanisha-mishra.jpeg",
     "position": "",
     "place": "",
     "year":"2017"
