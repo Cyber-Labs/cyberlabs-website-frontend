@@ -54,17 +54,13 @@
 }
 
 .by1 {
-  border-radius: 10px;
-  margin: 15px;
-  padding: 15px;
+  margin: 5px;
+  padding: 15px 5px;
+  font-weight: bold;
   justify-content: center;
   color: white;
 }
 
-.by1:hover {
-  background-color: rgb(69, 154, 238);
-  cursor: pointer;
-}
 
 .madeby {
   display: flex;
@@ -94,8 +90,4 @@
   bottom: 20px;
   left: 20px;
   right: 20px;
-}
-
-.effect83 {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
