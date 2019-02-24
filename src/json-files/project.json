@@ -6,13 +6,6 @@
   "images": "tejus-mnist.png"
   },
   {
-    "name": ["Perul Jain"],
-    "project": "Information app",
-    "description": "An app which stores the information of user in firebase realtime database and information can be used for official purposes.",
-    "links": {"github":"https://github.com/peruljain"},
-    "images": ""
-  },
-  {
     "name": ["Perul Jain","Vanshika Arora","Shridhar Goel"],
     "project": "Concetto app",
     "description": "Our team (me , Vanshika,  Shridhar) made this app for biggest techno-management fest of East India, CONCETTO. This app consists of information about events, workshops, tech-talks.",
@@ -67,6 +60,13 @@
     "description": "A game made using pure Javascript.",
     "links": {"github":"https://github.com/anushkamittal/Breakout"},
     "images": "anushka-breakout.png"
+  },
+  {
+    "name": ["Perul Jain"],
+    "project": "Information app",
+    "description": "An app which stores the information of user in firebase realtime database and information can be used for official purposes.",
+    "links": {"github":"https://github.com/peruljain"},
+    "images": ""
   },
   {
     "name": ["Shubham Vishwakarma"],
