@@ -91,3 +91,9 @@
   left: 20px;
   right: 20px;
 }
+@media (max-width:375px){
+  .box{
+    width:100%;
+    margin:10px 0 10px 0;
+  }
+}
