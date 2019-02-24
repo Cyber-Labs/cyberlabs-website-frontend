@@ -5,7 +5,7 @@
     "name": "Aarush Juneja",
     "team": "Web Development",
     "contactNo": "7009256410",
-    "about": "Avid interested in software development, with an inclination towards system design.",
+    "about": "A software developer proficient in C++, Java and Python. SDE intern @Amazon India, 2018",
     "links": {
       "spoj": "https://www.spoj.com/users/vivace/",
       "linkedin": "https://in.linkedin.com/in/aarush-juneja-a72373121",
@@ -19,7 +19,7 @@
     "name": "Manish Kumar",
     "team": "Web Development",
     "contactNo": "8825131994",
-    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
+    "about": "Full Stack Developer, proficient in Java. SDE intern @Amazon India, 2018 | Final Year,  CSE",
     "links": {
       "linkedin": "https://www.linkedin.com/in/manish97"
     },
@@ -31,7 +31,7 @@
     "name": "Naveen Jain",
     "team": "Web Development",
     "contactNo": "9680946939",
-    "about": "Secretary | Web | OSS",
+    "about": "Secretary 2018-19 | Web | OSS",
     "links": {
       "github": "https://github.com/nveenjain",
       "linkedin": "https://www.linkedin.com/in/nveenjain/",
@@ -72,7 +72,7 @@
     "name": "Raj Rani",
     "team": "Web Development",
     "contactNo": "8539061765",
-    "about": "My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
+    "about": "My passion lies in solving real life problems through technology.\n\n SE Intern @Microsoft 2018 after my Sophomore year.",
     "links": {
       "github": "https://github.com/ARsquare",
       "linked": "https://www.linkedin.com/in/rrsquare",
@@ -139,7 +139,7 @@
     "name": "Saloni Mohta",
     "team": "Web Development",
     "contactNo": "7278337747",
-    "about": "BTech in CSE. Interested in problem solving (via codes) and sports. Ambitious.",
+    "about": "An ambitious computer science undergrad with a high interest in problem solving via Software Development.",
     "links": {
       "github": "https://github.com/salonimohta"
     },
@@ -165,7 +165,7 @@
     "name": "Banipreet Singh Raheja",
     "team": "Machine Learning",
     "contactNo": "9935701111",
-    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
+    "about": "Dual Degree CSE undergrad; interested in Deep Learning, especially in  Computer Vision.",
     "links": {
       "github": "https://github.com/baniraheja2197",
       "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
@@ -224,7 +224,7 @@
     "name": "Shivansh Awasthi",
     "team": "Machine Learning",
     "contactNo": "9452604678",
-    "about": "I am B.Tech Second year student of Computer Science and Engineering at IIT(ISM) Dhanbad.",
+    "about": "I am CS undergrad who loves sport programming",
     "links": {
       "github": "https://github.com/Shivansh55"
     },
@@ -239,19 +239,6 @@
     "about": "I\"m just an ordinary person enthusiastic about stars and how far we can go with computing.",
     "links": {},
     "img": "mrinalini-singh.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "sabirali2560@gmail.com",
-    "name": "Ali Sabir",
-    "team": "Machine learning",
-    "contactNo": "9694304153",
-    "about": "Computer Science undergrad \nAI enthusiast ",
-    "links": {
-      "github": "https://github.com/sabirali2560",
-      "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b"
-    },
-    "img": "ali-sabir.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -275,7 +262,7 @@
     "name": "Aniket Teotia",
     "team": "Machine Learning",
     "contactNo": "7982401999",
-    "about": "machine learning enthusiast",
+    "about": "Machine Learning enthusiast",
     "links": {
       "github": "https://github.com/anikett12/",
       "linkedin": "https://www.linkedin.com/in/aniket-teotia-4514b0165/"
@@ -288,7 +275,7 @@
     "name": "Amardeep Kumar",
     "team": "Machine Learning",
     "contactNo": "8521173035",
-    "about": "CSE, 2k16-2k20;\nLove competitive coding and NLP.",
+    "about": "CSE, 2k16-2k20;\nLove competitive coding and Natural Language Processing",
     "links": {
       "linkedin": "https://www.linkedin.com/in/amardeep-kumar-634aa0171/",
       "facebook": "https://www.facebook.com/amardeepkumar26398"
@@ -301,7 +288,7 @@
     "name": "Tejus",
     "team": "Machine Learning",
     "contactNo": "8920001916",
-    "about": "Deep learning enthusiast",
+    "about": "Deep Learning enthusiast",
     "links": {
       "github": "github.com/gktejus",
       "linkedin": "linkedin.com/in/gktejus",
@@ -328,7 +315,7 @@
     "name": "Ajay Bhave",
     "team": "Machine Learning",
     "contactNo": "7355982667",
-    "about": "I am a quick learner , not afraid of new tasks and also deep learning enthusiast",
+    "about": "A self-motivated undergrad who happens to a big time Deep Learning enthusiast",
     "links": {
       "linkedin": "www.linkedin.com/in/ajay-bhave-a4a828156"
     },
@@ -353,7 +340,7 @@
     "name": "Aditya Mudgil",
     "team": "Graphic Design",
     "contactNo": "7206783125",
-    "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Interested in Web Development.",
+    "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Also interested in Web Development.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
     },
@@ -391,7 +378,7 @@
     "name": "Vanshika",
     "team": "Android",
     "contactNo": "9149245760",
-    "about": "Android application developer experienced on working with databases, frameworks and Backend such as Firebase.",
+    "about": "Android application developer experienced in working with databases, frameworks and cloud products such as Firebase.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/vanshika-arora-6396b4143/",
       "github": "https://github.com/vanshikaarora",
@@ -405,7 +392,7 @@
     "name": "Perul Jain",
     "team": "Android",
     "contactNo": "7891167889",
-    "about": "I am currently pursuing Bachelor of Technology in ELECTRONICS AND COMMUNICATION ENGINEERING. \nMy hobby is writing Hindi shayri",
+    "about": "Electronics undergrad who is very passionate about Android App Development. ",
     "links": {
       "facebook": "https://www.facebook.com/perul.jain"
     },
