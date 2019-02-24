@@ -333,7 +333,7 @@ header .logo > a{
   padding-right:20px;
 }
 
-header .logo > a:hover{
+header .logo > a:active{
   color:#c3c3c3;
 }
 
