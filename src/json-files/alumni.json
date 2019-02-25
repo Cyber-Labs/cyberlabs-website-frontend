@@ -1,93 +1,122 @@
 [
   {
+    "name": "Vaasudev Narayan",
+    "opImg": "",
+    "img": "vaasudev-narayan.jpeg",
+    "position": "",
+    "place": "",
+    "year":"2018"
+  },
+  {
+    "name": "Shril Bhardwaj",
+    "opImg": "",
+    "img": "shril-bhardwaj.jpeg",
+    "position": "",
+    "place": "",
+    "year":"2018"
+  },
+  {
     "name": "Mohit Chawla",
     "opImg": "",
     "img": "mohit.png",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2016"
   },
   {
     "name": "Prabodh Tripathi",
     "opImg": "",
     "img": "prabodh.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2018"
   },
   {
     "name": "Kriti Singh",
     "opImg": "",
     "img": "kriti1.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2017"
   },
   {
     "name": "Jibin Sabu Mathews",
     "opImg": "",
     "img": "jibinmathews.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2017"
   },
   {
     "name": "Nikita kapoor",
     "opImg": "",
     "img": "nikitakapoor.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2019"
   },
   {
     "name": "Ankit Jaiswal",
     "opImg": "",
     "img": "ankit.png",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2016"
   },
   {
     "name": "Aashish Mohan Verma",
     "opImg": "",
     "img": "ashishverma.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2016"
   },
   {
     "name": "Janpreet Singh",
     "opImg": "",
     "img": "janpreet.png",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2017"
+  },
+  {
+    "name": "Aanisha Mishra",
+    "opImg": "",
+    "img": "aanisha-mishra.jpeg",
+    "position": "",
+    "place": "",
+    "year":"2017"
   },
   {
     "name": "Venkat Bulusu",
     "opImg": "",
     "img": "venkat.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2018"
   },
   {
     "name": "Medha Bajpai",
     "opImg": "",
     "img": "medha.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2019"
   },
   {
     "name": "Abdur Rehman Danish",
     "opImg": "",
     "img": "abdur.jpg",
     "position": "",
-    "place": ""
-  },
-  {
-    "name": "Ishu Ratna",
-    "opImg": "",
-    "img": "ishu.jpg",
-    "position": "",
-    "place": ""
+    "place": "",
+    "year":"2018"
   },
   {
     "name": "Sambuddha Nath",
     "opImg": "",
     "img": "sam.jpg",
     "position": "",
-    "place": ""
+    "place": "",
+    "year":"2019"
   }
 ]

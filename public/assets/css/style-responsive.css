@@ -455,7 +455,8 @@
     display:block;
   }  
   
-  #footer-left{text-align:center;}
+  #footer-left{text-align:center;
+              line-height: normal;}
   
   .content .text-intro h1{
     font-size:33px; 

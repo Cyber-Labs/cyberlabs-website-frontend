@@ -1,31 +1,43 @@
 [
   {
-    "yearOfPassing": "2020",
-    "email": "nveenjain@gmail.com",
-    "name": "Naveen Jain",
-    "team": "Web Development",
-    "contactNo": "9680946939",
-    "about": "Secretary | Web | OSS",
-    "links": {
-      "github": "https://github.com/nveenjain",
-      "linkedin": "https://www.linkedin.com/in/nveenjain/",
-      "twitter": "https://twitter.com/nveenjain"
-    },
-    "img": "naveen-jain.jpg"
-  },
-  {
     "yearOfPassing": "2019",
     "email": "avijuneja.cs@gmail.com",
     "name": "Aarush Juneja",
     "team": "Web Development",
     "contactNo": "7009256410",
-    "about": "Avid interested in software development, with an inclination towards system design.",
+    "about": "A software developer proficient in C++, Java and Python. SDE intern @Amazon India, 2018",
     "links": {
       "spoj": "https://www.spoj.com/users/vivace/",
       "linkedin": "https://in.linkedin.com/in/aarush-juneja-a72373121",
       "github": "https://github.com/AarushJ"
     },
     "img": "aarush-juneja.jpg"
+  },
+  {
+    "yearOfPassing": "2019",
+    "email": "manishism1997@gmail.com",
+    "name": "Manish Kumar",
+    "team": "Web Development",
+    "contactNo": "8825131994",
+    "about": "Full Stack Developer, proficient in Java. SDE intern @Amazon India, 2018 | Final Year,  CSE",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manish97"
+    },
+    "img": "manish-kumar.jpg"
+  },
+  {
+    "yearOfPassing": "2020",
+    "email": "nveenjain@gmail.com",
+    "name": "Naveen Jain",
+    "team": "Web Development",
+    "contactNo": "9680946939",
+    "about": "Secretary 2018-19 | Web | OSS",
+    "links": {
+      "github": "https://github.com/nveenjain",
+      "linkedin": "https://www.linkedin.com/in/nveenjain/",
+      "twitter": "https://twitter.com/nveenjain"
+    },
+    "img": "naveen-jain.jpg"
   },
   {
     "yearOfPassing": "2020",
@@ -38,6 +50,35 @@
       "github": "https://github.com/sanketsingh24"
     },
     "img": "sanket-singh.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
+    "email": "aayu.16je002440@am.ism.ac.in",
+    "name": "Aayush Ahuja",
+    "team": "Web Development",
+    "contactNo": "8873643965",
+    "about": "I am a Tech geek who loves to build and broke technical stuffs, be it hardware or software!",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/codeaayu",
+      "github": "https://www.github.com/codeaayu",
+      "medium": "https://www.medium.com/@codeaayu",
+      "facebook": "https://www.facebook.com/codeaayu"
+    },
+    "img": "aayush-ahuja.jpg"
+  },
+  {
+    "yearOfPassing": "2020",
+    "email": "rajrani0710@gmail.com",
+    "name": "Raj Rani",
+    "team": "Web Development",
+    "contactNo": "8539061765",
+    "about": "My passion lies in solving real life problems through technology.\n\n SE Intern @Microsoft 2018 after my Sophomore year.",
+    "links": {
+      "github": "https://github.com/ARsquare",
+      "linked": "https://www.linkedin.com/in/rrsquare",
+      "facebook": "https://facebook.com/arrsquare"
+    },
+    "img": "raj-rani.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -85,7 +126,7 @@
     "name": "Anushka Mittal",
     "team": "Web Development",
     "contactNo": "",
-    "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web devel",
+    "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web development.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/anushka-mittal-38a729154/",
       "resume": "https://drive.google.com/file/d/17OTSqSGIE4JZdyXkZkYtI3Nreuer_YxB/view?usp=sharing"
@@ -93,57 +134,44 @@
     "img": "anushka-mittal.jpg"
   },
   {
-    "yearOfPassing": "2019",
-    "email": "manishism1997@gmail.com",
-    "name": "Manish Kumar",
-    "team": "Web Development",
-    "contactNo": "8825131994",
-    "about": "SDE Intern\"18 at Amazon | Final Year,  CSE",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/manish97"
-    },
-    "img": "manish-kumar.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "aayu.16je002440@am.ism.ac.in",
-    "name": "Aayush Ahuja",
-    "team": "Web Development",
-    "contactNo": "8873643965",
-    "about": " ",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/codeaayu",
-      "github": "https://www.github.com/codeaayu",
-      "medium": "https://www.medium.com/@codeaayu",
-      "facebook": "https://www.facebook.com/codeaayu"
-    },
-    "img": "aayush-ahuja.jpg"
-  },
-  {
-    "yearOfPassing": "2020",
-    "email": "rajrani0710@gmail.com",
-    "name": "Raj Rani",
-    "team": "Web Development",
-    "contactNo": "8539061765",
-    "about": "My passion lies in solving real life problems through technology.\n\nMy past experience involves an intern in my sophomore year.",
-    "links": {
-      "github": "https://github.com/ARsquare",
-      "linked": "https://www.linkedin.com/in/rrsquare",
-      "facebook": "https://facebook.com/arrsquare"
-    },
-    "img": "raj-rani.jpg"
-  },
-  {
     "yearOfPassing": "2021",
     "email": "salonimohta37@gmail.com",
     "name": "Saloni Mohta",
     "team": "Web Development",
     "contactNo": "7278337747",
-    "about": "BTech in CSE. Interested in problem solving (via codes) and sports. Ambitious.",
+    "about": "An ambitious computer science undergrad with a high interest in problem solving via Software Development.",
     "links": {
       "github": "https://github.com/salonimohta"
     },
     "img": "saloni-mohta.jpg"
+  },
+  {
+    "yearOfPassing": "2019",
+    "email": "anirudh_jain@am.ism.ac.in",
+    "name": "Anirudh Jain",
+    "team": "Machine Learning",
+    "contactNo": "8969257536",
+    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
+    "links": {
+      "github": "www.github.com/sponde25",
+      "linkedin": "www.linkedin.com/in/sponde",
+      "others": ["arxiv.org/abs/1803.06473"]
+    },
+    "img": "anirudh-jain.jpg"
+  }, 
+  {
+    "yearOfPassing": "2021",
+    "email": "banipreet.raheja@gmail.com",
+    "name": "Banipreet Singh Raheja",
+    "team": "Machine Learning",
+    "contactNo": "9935701111",
+    "about": "Dual Degree CSE undergrad; interested in Deep Learning, especially in  Computer Vision.",
+    "links": {
+      "github": "https://github.com/baniraheja2197",
+      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
+      "facebook": "https://www.facebook.com/banipreet.raheja"
+    },
+    "img": "banipreet-singh-raheja.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -165,10 +193,11 @@
     "name": "Udbhav Bamba",
     "team": "Machine Learning",
     "contactNo": "+91 7779891930",
-    "about": "Sophomore | Developer | Gamer | Bingewatcher",
+    "about": "Developer | Gamer | Bingewatcher",
     "links": {
       "linkedin": "linkedin.com/in/ubamba98",
-      "blog": "https://mlendeavours.wordpress.com"
+      "blog": "https://mlendeavours.wordpress.com",
+      "github" :"github.com/ubamab98"
     },
     "img": "udbhav-bamba.jpg"
   },
@@ -178,39 +207,16 @@
     "name": "Suyog Jadhav",
     "team": "Machine Learning",
     "contactNo": "917719058077",
-    "about": "A proud 90\"s geek with a knack for AI. Loves doing innovative projects using deep learning. When not",
+    "about": "A proud 90's geek with a knack for AI. Loves doing innovative projects using deep learning. When not coding, can often be found writing blogs or playing legacy games.",
     "links": {
-      ")": "(Portfolio) https://iamsuyogjadhav.github.io/\n(Blog) https://mlendeavours.wordpress.com/\n(Linkedin) https://www.linkedin.com/in/IAmSuyogJadhav/\n(GitHub) https://github.com/IAmSuyogJadhav\n(Twitter) https://twitter.com/IAmSuyogJadhav\n(Facebook) http://fb.com/IAmSuyogJadhav\n(StackExchange) https://ai.stackexchange.com/users/16159/suyog-jadhav"
+      "website":"https://iamsuyogjadhav.github.io",
+      "github": "https://github.com/IAmSuyogJadhav",
+      "linkedin": "https://www.linkedin.com/in/IAmSuyogJadhav",
+      "twitter": "https://twitter.com/IAmSuyogJadhav",
+      "facebook": "http://fb.com/IAmSuyogJadhav",
+      "others":["https://mlendeavours.wordpress.com/","https://ai.stackexchange.com/users/16159/suyog-jadhav"]
     },
     "img": "suyog-jadhav.jpg"
-  },
-  {
-    "yearOfPassing": "2019",
-    "email": "anirudh_jain@am.ism.ac.in",
-    "name": "Anirudh Jain",
-    "team": "Machine Learning",
-    "contactNo": "8969257536",
-    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
-    "links": {
-      "github": "www.github.com/sponde25",
-      "linkedin": "www.linkedin.com/in/sponde",
-      "others": ["arxiv.org/abs/1803.06473"]
-    },
-    "img": "anirudh-jain.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "banipreet.raheja@gmail.com",
-    "name": "Banipreet Singh Raheja",
-    "team": "Machine Learning",
-    "contactNo": "9935701111",
-    "about": "3rd Year, Dual Degree CSE, interested in Deep Learning, specially in  Computer Vision.",
-    "links": {
-      "github": "https://github.com/baniraheja2197",
-      "linkedin": "https://www.linkedin.com/in/banipreet-singh-raheja-7087b0147/",
-      "facebook": "https://www.facebook.com/banipreet.raheja"
-    },
-    "img": "banipreet-singh-raheja.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -218,7 +224,7 @@
     "name": "Shivansh Awasthi",
     "team": "Machine Learning",
     "contactNo": "9452604678",
-    "about": "I am B.Tech Second year student of Computer Science and Engineering at IIT(ISM) Dhanbad.",
+    "about": "I am CS undergrad who loves sport programming",
     "links": {
       "github": "https://github.com/Shivansh55"
     },
@@ -233,19 +239,6 @@
     "about": "I\"m just an ordinary person enthusiastic about stars and how far we can go with computing.",
     "links": {},
     "img": "mrinalini-singh.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "sabirali2560@gmail.com",
-    "name": "Ali Sabir",
-    "team": "Machine learning",
-    "contactNo": "9694304153",
-    "about": "Computer Science undergrad \nAI enthusiast ",
-    "links": {
-      "github": "https://github.com/sabirali2560",
-      "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b"
-    },
-    "img": "ali-sabir.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -269,7 +262,7 @@
     "name": "Aniket Teotia",
     "team": "Machine Learning",
     "contactNo": "7982401999",
-    "about": "machine learning enthusiast",
+    "about": "Machine Learning enthusiast",
     "links": {
       "github": "https://github.com/anikett12/",
       "linkedin": "https://www.linkedin.com/in/aniket-teotia-4514b0165/"
@@ -282,7 +275,7 @@
     "name": "Amardeep Kumar",
     "team": "Machine Learning",
     "contactNo": "8521173035",
-    "about": "CSE, 2k16-2k20;\nLove competitive coding and NLP.",
+    "about": "CSE, 2k16-2k20;\nLove competitive coding and Natural Language Processing",
     "links": {
       "linkedin": "https://www.linkedin.com/in/amardeep-kumar-634aa0171/",
       "facebook": "https://www.facebook.com/amardeepkumar26398"
@@ -295,10 +288,11 @@
     "name": "Tejus",
     "team": "Machine Learning",
     "contactNo": "8920001916",
-    "about": "Deep learning enthusiast",
+    "about": "Deep Learning enthusiast",
     "links": {
       "github": "github.com/gktejus",
-      "linkedin": "linkedin.com/in/gktejus\nfacebook.com/Gktejus"
+      "linkedin": "linkedin.com/in/gktejus",
+      "facebook":"facebook.com/Gktejus"
     },
     "img": "tejus.jpg"
   },
@@ -306,7 +300,7 @@
     "yearOfPassing": "2020",
     "email": "rrishabh145@gmail.com",
     "name": "Rishabh Rajput",
-    "team": "Machine learning",
+    "team": "Machine Learning",
     "contactNo": "9464705127",
     "about": "Avid problem solver passionate for AI and Machine Learning",
     "links": {
@@ -321,7 +315,7 @@
     "name": "Ajay Bhave",
     "team": "Machine Learning",
     "contactNo": "7355982667",
-    "about": "I am a quick learner , don\"t afraid of new tasks and also deep learning enthusiast",
+    "about": "A self-motivated undergrad who happens to a big time Deep Learning enthusiast",
     "links": {
       "linkedin": "www.linkedin.com/in/ajay-bhave-a4a828156"
     },
@@ -329,11 +323,24 @@
   },
   {
     "yearOfPassing": "2021",
+    "email": "sabirali2560@gmail.com",
+    "name": "Ali Sabir",
+    "team": "Machine Learning",
+    "contactNo": "9694304153",
+    "about": "Computer Science undergrad \nAI enthusiast",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ali-asgar-sabir-7967b816b",
+      "github":"https://github.com/sabirali2560"
+    },
+    "img": "ali-sabir.jpg"
+  },
+  {
+    "yearOfPassing": "2021",
     "email": "adityamudgil2505@gmail.com",
     "name": "Aditya Mudgil",
     "team": "Graphic Design",
     "contactNo": "7206783125",
-    "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Interested in Web Development.",
+    "about": "Skilled in Graphic Design, Unity3D, Final Cut Pro, C++, and Animation. Also interested in Web Development.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
     },
@@ -345,7 +352,7 @@
     "name": "Shridhar Goel",
     "team": "Android",
     "contactNo": "",
-    "about": "I\"m a second year student with a strong passion for android development. I started android development back i",
+    "about": "Android Developer | Open Source Enthusiast",
     "links": {
       "linkedin": "https://www.linkedin.com/in/shridhar-goel",
       "github": "https://www.github.com/ShridharGoel"
@@ -363,7 +370,7 @@
       "github": "https://github.com/Tazril",
       "facebook": "https://m.facebook.com/tazrilparviz.ali"
     },
-    "img": ""
+    "img": "tazril-parveez-ali.jpg"
   },
   {
     "yearOfPassing": "2022",
@@ -371,7 +378,7 @@
     "name": "Vanshika",
     "team": "Android",
     "contactNo": "9149245760",
-    "about": "Android application developer experienced on working with databases, frameworks and Backend such as Firebase.",
+    "about": "Android application developer experienced in working with databases, frameworks and cloud products such as Firebase.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/vanshika-arora-6396b4143/",
       "github": "https://github.com/vanshikaarora",
@@ -385,7 +392,7 @@
     "name": "Perul Jain",
     "team": "Android",
     "contactNo": "7891167889",
-    "about": "I am currently pursuing Bachelor of Technology in ELECTRONICS AND COMMUNICATION ENGINEERING. \nMy hobby is writing Hindi shayri",
+    "about": "Electronics undergrad who is very passionate about Android App Development. ",
     "links": {
       "facebook": "https://www.facebook.com/perul.jain"
     },

@@ -35,7 +35,7 @@ class App extends Component {
             <Route exact path="/about" component={About} />
             <Route exact path="/publication" component={Publication} />
             <Route exact path="/comingSoon" component={ComingSoon} />
-            <Footer key={window.location.pathname} />
+            <Footer />
           </div>
         </BrowserRouter>
       </div>
