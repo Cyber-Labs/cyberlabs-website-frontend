@@ -46,7 +46,7 @@ class Project extends Component {
                       <h1>{project}</h1>
                     </div>
                     <div className="about" />
-                    <hr width="50%" color="orange" />
+                    <hr width="50%" />
                     <div className="url">
                       <div className="icon1">
                         <a
