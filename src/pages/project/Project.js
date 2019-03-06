@@ -18,10 +18,10 @@ class Project extends Component {
   }
   renderProjects() {
     return projects.map(
-      ({ name, description, images, links, project }, index) => {
+      ({ name, description, images, links, project, legacy }, index) => {
         return (
           <div>
-            {links.github && (
+            {(links.github || legacy) && (
               <div className="box effect82">
                 <div className="columns" style={{ height: "100%" }}>
                   <div className="column1">
@@ -47,7 +47,7 @@ class Project extends Component {
                     </div>
                     <div className="about" />
                     <hr width="50%" color="orange" />
-                    <div className="url">
+                    {links.github && (<div className="url">
                       <div className="icon1">
                         <a
                           href={links.github}
@@ -59,7 +59,7 @@ class Project extends Component {
                           </div>{" "}
                         </a>
                       </div>
-                    </div>
+                    </div>)}
                     <div className="Description">
                       <p>{description}</p>
                     </div>
