@@ -321,5 +321,13 @@
     "description": "An App like messenger used  for both group as well as personel chat",
     "links": {"github":"https://github.com/anushkamittal/Chatapp"},
     "images": ""
+  },
+  {
+    "name": [],
+    "project": "Smart mirror",
+    "description": "A social engagement experiment to study the change in civic sense over time.",
+    "links": {},
+    "images": "smartMirror.jpg",
+    "legacy":"true"
   }
 ]

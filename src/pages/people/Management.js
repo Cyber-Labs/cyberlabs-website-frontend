@@ -14,7 +14,7 @@ class Management extends Component {
             alt="img"
             height="230"
             style={{
-              borderRadius: "50%",
+              // borderRadius: "50%",
               objectFit: "cover",
               objectPosition: "50% 20%"
             }}
