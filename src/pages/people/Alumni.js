@@ -4,6 +4,7 @@ import ProgressiveImage from "react-progressive-image";
 class Alumni extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Alumni";
   }
   renderFields(input) {
     return alumni.map(({ name, img, position, place, opImg ,year}) => {

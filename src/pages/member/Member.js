@@ -4,6 +4,7 @@ import data from "../../json-files/members.json";
 class Member extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Members";
   }
   renderGrid = () => {
     data.sort((a, b) => {
