@@ -46,8 +46,8 @@ class Project extends Component {
                       <h1>{project}</h1>
                     </div>
                     <div className="about" />
-                    <hr width="50%" color="orange" />
-                    {links.github && (<div className="url">
+                    <hr width="50%" />
+                    <div className="url">
                       <div className="icon1">
                         <a
                           href={links.github}

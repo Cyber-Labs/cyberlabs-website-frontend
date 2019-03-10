@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Content from "./Content";
-import Portfolio from "./Portfolio";
+import HomeContent from "./HomeContent";
+import HomeProjects from "./HomeProjects";
 
 class Index extends Component {
   componentDidMount() {
@@ -9,8 +9,8 @@ class Index extends Component {
   render() {
     return (
       <div id="Index">
-        <Content />
-        <Portfolio />
+        <HomeContent />
+        <HomeProjects />
       </div>
     );
   }
