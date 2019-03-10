@@ -347,6 +347,19 @@
     "img": "aditya-mudgil.jpg"
   },
   {
+    "yearOfPassing": "2020",
+    "email": "shubh.v@outlook.com",
+    "name": "Shubham Vishwakarma",
+    "team": "Android",
+    "contactNo": "",
+    "about": "I am an experienced Android developer with sound knowledge of REST API back end, a Data Science enthusiast and also an Open Source contributor. I have a great math background, and also good at explaining complicated stuff.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/shubham-vishwakarma/",
+      "github": "https://github.com/Shubham-vish"
+    },
+    "img": "shubham-vishwakarma.jpg"
+  },
+  {
     "yearOfPassing": "2022",
     "email": "shridhar.goel@gmail.com",
     "name": "Shridhar Goel",
