@@ -7,9 +7,11 @@ class Alumni extends Component {
     document.title="Cyber Labs|Alumni";
   }
   renderFields(input) {
-    return alumni.map(({ name, img, position, place, opImg ,year}) => {
+    return alumni.map(({ name, img, position, place, opImg ,year,link}) => {
       if(year===input){
         return (
+          <div>
+          <a href={link}>
           <div className="grid-responsive">
             <ProgressiveImage
               src={"/assets/img/alumni/" + img}
@@ -38,6 +40,8 @@ class Alumni extends Component {
                 {place}
               </h6>
             </center>
+          </div>
+          </a>
           </div>
         );
       }
@@ -69,10 +73,6 @@ class Alumni extends Component {
             <h1>2018</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2018")}</div>
-          <center>
-            <h1>2019</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2019")}</div>
         </div>
       </div>
     );
