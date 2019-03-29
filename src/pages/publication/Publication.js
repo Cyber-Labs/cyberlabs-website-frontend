@@ -4,6 +4,7 @@ class Publication extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Publications";
+    document.querySelector("meta[name='keywords']").content="Publications, Cyber Labs, cyberlabs publications,ism publications,cyber labs publications";
   }
   render() {
     return (

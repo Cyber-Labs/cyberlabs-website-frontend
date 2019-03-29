@@ -5,6 +5,7 @@ class Member extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Members";
+    document.querySelector("meta[name='keywords']").content="Alumni, Cyber Labs, cyberlabs members,ism alumni,cyber labs member";
   }
   renderGrid = () => {
     data.sort((a, b) => {
