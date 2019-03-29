@@ -5,6 +5,7 @@ import "./project.css";
 class Project extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Projects";
   }
   renderArray(name) {
     return name.map(member => {

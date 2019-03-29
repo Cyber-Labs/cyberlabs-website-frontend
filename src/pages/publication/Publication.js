@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class Publication extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Publications";
   }
   render() {
     return (
