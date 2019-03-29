@@ -5,6 +5,7 @@ class Management extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Management";
+    document.querySelector("meta[name='keywords']").content="Management, Cyber Labs, cyberlabs management,ism management,cyber labs management";
   }
   renderFields(item) {
     return item.map(({ name, img, position, place }) => {

@@ -6,6 +6,7 @@ class Project extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Projects";
+    document.querySelector("meta[name='keywords']").content="Projects, Cyber Labs, cyberlabs projects,ism projects,cyber labs projects";
   }
   renderArray(name) {
     return name.map(member => {

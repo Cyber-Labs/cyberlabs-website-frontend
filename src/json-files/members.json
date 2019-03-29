@@ -153,9 +153,9 @@
     "contactNo": "8969257536",
     "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
     "links": {
-      "github": "www.github.com/sponde25",
-      "linkedin": "www.linkedin.com/in/sponde",
-      "others": ["arxiv.org/abs/1803.06473"]
+      "github": "https://www.github.com/sponde25",
+      "linkedin": "https://www.linkedin.com/in/sponde",
+      "others": ["https://arxiv.org/abs/1803.06473"]
     },
     "img": "anirudh-jain.jpg"
   }, 
@@ -237,7 +237,10 @@
     "team": "Machine Learning",
     "contactNo": "9709369360",
     "about": "I\"m just an ordinary person enthusiastic about stars and how far we can go with computing.",
-    "links": {},
+    "links": {
+      "github":"https://github.com/catmss",
+      "linkedin":"https://www.linkedin.com/in/mrinalini-singh-s/"
+    },
     "img": "mrinalini-singh.jpg"
   },
   {
