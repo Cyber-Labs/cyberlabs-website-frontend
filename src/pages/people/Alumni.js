@@ -6,6 +6,7 @@ class Alumni extends Component {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Alumni";
     document.querySelector("meta[name='keywords']").content="Alumni, Cyber Labs, cyberlabs alumni,ism alumni,cyber labs alumni";
+    document.querySelector("meta[name='description']").content="Cyber Labs Alumni";
   }
   renderFields(input) {
     return alumni.map(({ name, img, position, place, opImg ,year,link}) => {
