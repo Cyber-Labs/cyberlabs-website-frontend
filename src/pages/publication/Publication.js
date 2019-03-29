@@ -5,6 +5,7 @@ class Publication extends Component {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Publications";
     document.querySelector("meta[name='keywords']").content="Publications, Cyber Labs, cyberlabs publications,ism publications,cyber labs publications";
+    document.querySelector("meta[name='description']").content="Cyber Labs Publications";
   }
   render() {
     return (
