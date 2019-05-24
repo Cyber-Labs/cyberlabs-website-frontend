@@ -62,7 +62,7 @@ class Project extends Component {
                           </div>{" "}
                         </a>
                       </div>
-                    </div>
+                    </div> 
                     <div className="Description">
                       <p>{description}</p>
                     </div>
