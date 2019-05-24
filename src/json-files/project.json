@@ -324,7 +324,7 @@
   },
   {
     "name": [],
-    "project": "Smart mirror",
+    "project": "Smart Mirror",
     "description": "A social engagement experiment to study the change in civic sense over time.",
     "links": {},
     "images": "smartMirror.jpg",
@@ -355,7 +355,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "Smart Handshake",
     "description": "Recreating phonebook experience, smarter exchange of contacts while meeting alongside automating the task.",
     "links": {},
@@ -363,7 +363,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "Digibin",
     "description": "A smart dustbin in the Canteen. One engaging question, two answers. Vote your answer by throwing the trash in the corresponding bin, which increases the vote count displayed.",
     "links": {},
@@ -371,7 +371,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "Pagerank",
     "description": "Visualisation of the Google's page rank algorithm",
     "links": {},
@@ -379,7 +379,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "DigiBoard",
     "description": "A concept for user engagement to avoid missing out on bulletin-board notice deadlines.",
     "links": {},
@@ -387,7 +387,7 @@
     "legacy":"true"
   }	,
   {
-    "name": [""],
+    "name": [],
     "project": "Buzzlogs",
     "description": "Redefining collaboration &amp; organization among teams via SaaS. Your assistant for getting things done. Efficiently.",
     "links": {},
@@ -395,7 +395,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "Low Power Remote Alerter",
     "description": "An alerting system in events of emergency.",
     "links": {},
@@ -403,7 +403,7 @@
     "legacy":"true"
   },
   {
-    "name": [""],
+    "name": [],
     "project": "Cyberlabs member space",
     "description": "Online platform for Cyber Labs members to interact, maintain a journal and blog their ideas.",
     "links": {},
