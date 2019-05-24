@@ -1,11 +1,15 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import MailToUI from "../../node_modules/mailtoui/dist/mailtoui-min.js";
 class Header extends Component {
   constructor(props) {
     super(props);
     this.state = {
       responsive: false
     };
+  }
+  componentDidMount(){
+    MailToUI.run();
   }
 
   render() {
@@ -113,7 +117,7 @@ class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a
+                  <a className="mailtoui"
                     target="_blank"
                     rel="noopener noreferrer"
                     href="mailto:cyberlabs@iitism.ac.in"
