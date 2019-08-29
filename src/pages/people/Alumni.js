@@ -2,18 +2,20 @@ import React, { Component } from "react";
 import alumni from "./../../json-files/alumni.json";
 import ProgressiveImage from "react-progressive-image";
 class Alumni extends Component {
+  
   componentDidMount() {
     window.scrollTo(0, 0);
     document.title="Cyber Labs|Alumni";
     document.querySelector("meta[name='keywords']").content="Alumni, Cyber Labs, cyberlabs alumni,ism alumni,cyber labs alumni";
     document.querySelector("meta[name='description']").content="Cyber Labs Alumni";
   }
+
   renderFields(input) {
-    return alumni.map(({ name, img, position, place, opImg ,year,link}) => {
-      if(year===input){
+    return alumni.map(({ name, img, position, place, opImg ,yearOfGrad,links}) => {
+      if(yearOfGrad===input){
         return (
           <div>
-          <a href={link}>
+          <a href={links ? links.linkedin: "#"}>
           <div className="grid-responsive">
             <ProgressiveImage
               src={"/assets/img/alumni/" + img}
@@ -52,6 +54,7 @@ class Alumni extends Component {
       }
     });
   }
+
   render() {
     return (
       <div id="Alumni">
@@ -75,6 +78,10 @@ class Alumni extends Component {
             <h1>2018</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2018")}</div>
+          <center>
+            <h1>2019</h1>
+          </center>
+          <div className="portfolio-grid">{this.renderFields("2019")}</div>
         </div>
       </div>
     );
