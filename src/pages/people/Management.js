@@ -4,6 +4,9 @@ import management from "../../json-files/management.json";
 class Management extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Management";
+    document.querySelector("meta[name='keywords']").content="Management, Cyber Labs, cyberlabs management,ism management,cyber labs management";
+    document.querySelector("meta[name='description']").content="Cyber Labs Management";
   }
   renderFields(item) {
     return item.map(({ name, img, position, place }) => {

@@ -5,6 +5,9 @@ import "./project.css";
 class Project extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|Projects";
+    document.querySelector("meta[name='keywords']").content="Projects, Cyber Labs, cyberlabs projects,ism projects,cyber labs projects";
+    document.querySelector("meta[name='description']").content="Cyber Labs Projects";
   }
   renderArray(name) {
     return name.map(member => {
@@ -59,7 +62,7 @@ class Project extends Component {
                           </div>{" "}
                         </a>
                       </div>
-                    </div>)}
+                    </div> 
                     <div className="Description">
                       <p>{description}</p>
                     </div>

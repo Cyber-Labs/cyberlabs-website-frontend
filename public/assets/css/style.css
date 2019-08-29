@@ -665,6 +665,7 @@ li.grid-item{
   text-align:center;
   float: left;
   width: 33%;
+  color:black;
 }
 
 .grid-hover:hover{

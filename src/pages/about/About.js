@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class About extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs|About";
   }
   render() {
     return (
@@ -98,7 +99,7 @@ class About extends Component {
             <div className="two-column">
               <p>
                 You can ask any of the members or find
-                <a href="https://www.facebook.com/labscyber/"> this guy</a>..!
+                <a href="https://www.facebook.com/labscyber/"> us at</a>..!
               </p>
             </div>
             <div className="clear" />

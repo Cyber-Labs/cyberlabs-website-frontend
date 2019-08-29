@@ -324,10 +324,90 @@
   },
   {
     "name": [],
-    "project": "Smart mirror",
+    "project": "Smart Mirror",
     "description": "A social engagement experiment to study the change in civic sense over time.",
     "links": {},
     "images": "smartMirror.jpg",
     "legacy":"true"
-  }
+  }, 
+  {
+    "name": [],
+    "project": "DigiScroll",
+    "description": "Low cost monochromatic LED display and scroller. Made just of LEDs, shift registers and PIC microcontroller!",
+    "links": {},
+    "images": "digibin.jpg",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Alice",
+    "description": "A voice-recognition enabled bot to help people do their daily tasks by just opening a new tab in the browser. Allows a person to automate his daily online tasks or do things in parallel easily.",
+    "links": {},
+    "images": "sddefault.jpg",
+    "legacy":"true"
+  },
+  {
+    "name": ["Shril Bhardwaj"],
+    "project": "Earthquake Mapper",
+    "description": "Analytical and disaster management tool. The map shows earthquakes based on a legend, differentiating them on basis of location and severity. The earthquake data is pulled from usgs.gov.in's RSS feed for real time data",
+    "links": {},
+    "images": "shril_earthquake.png",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Smart Handshake",
+    "description": "Recreating phonebook experience, smarter exchange of contacts while meeting alongside automating the task.",
+    "links": {},
+    "images": "SH_captions.jpg",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Digibin",
+    "description": "A smart dustbin in the Canteen. One engaging question, two answers. Vote your answer by throwing the trash in the corresponding bin, which increases the vote count displayed.",
+    "links": {},
+    "images": "digibin.jpg",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Pagerank",
+    "description": "Visualisation of the Google's page rank algorithm",
+    "links": {},
+    "images": "shril_pagerank.png",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "DigiBoard",
+    "description": "A concept for user engagement to avoid missing out on bulletin-board notice deadlines.",
+    "links": {},
+    "images": "thumb_digiboard.png",
+    "legacy":"true"
+  }	,
+  {
+    "name": [],
+    "project": "Buzzlogs",
+    "description": "Redefining collaboration &amp; organization among teams via SaaS. Your assistant for getting things done. Efficiently.",
+    "links": {},
+    "images": "buzzlogs.png",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Low Power Remote Alerter",
+    "description": "An alerting system in events of emergency.",
+    "links": {},
+    "images": "buzzer.png",
+    "legacy":"true"
+  },
+  {
+    "name": [],
+    "project": "Cyberlabs member space",
+    "description": "Online platform for Cyber Labs members to interact, maintain a journal and blog their ideas.",
+    "links": {},
+    "images": "old_cl.jpg",
+    "legacy":"true"
+  }	  
 ]
