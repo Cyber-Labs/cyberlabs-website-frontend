@@ -114,7 +114,6 @@ class MemberCard extends Component {
           <div className="lang1" />
           <p className="member-about">{info.about}</p>
         </div>
-        <hr width="30%" />
       </div>
     );
   }

@@ -13,6 +13,18 @@
   },
   {
     "yearOfGrad": "2019",
+    "email": "",
+    "name": "Shubham Kumar Soni",
+    "team": "Web Development",
+    "contactNo": "",
+    "about": "",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/subham-kumar-soni/"
+    },
+    "img": "sks.jpeg"
+  },
+  {
+    "yearOfGrad": "2019",
     "email": "manishism1997@gmail.com",
     "name": "Manish Kumar",
     "team": "Web Development",
