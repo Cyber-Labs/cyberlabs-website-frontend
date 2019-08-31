@@ -4,10 +4,14 @@
     "img": "sachin-tripathi.png",
     "position": "Faculty In-charge"
   },
-  { "name": "Mohit Chawla", "img": "mohit.png", "position": "Founder" },
-  { "name": "Naveen Jain", "img": "naveen-jain.jpg", "position": "Student Coordinator" },
-  { "name": "Aarush Juneja", "img": "aarush-juneja.jpg", "position": "Student Coordinator" },
-  { "name": "Kriti Singh", "img": "kriti1.jpg", "position": "Co-founder" },
-  { "name": "Prabodh Tripathi", "img": "prabodh.jpg", "position": "Co-founder" }
-
+  {
+    "name": "Naveen Jain",
+    "img": "naveen-jain.jpg",
+    "position": "Student Coordinator"
+  },
+  {
+    "name": "Udbhav Bamba",
+    "img": "udbhav-bamba.jpg",
+    "position": "Student Coordinator"
+  }
 ]

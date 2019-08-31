@@ -1,12 +1,64 @@
 [
   {
+    "yearOfGrad": "2019",
+    "email": "avijuneja.cs@gmail.com",
+    "name": "Aarush Juneja",
+    "team": "Web Development",
+    "contactNo": "7009256410",
+    "about": "A software developer proficient in C++, Java and Python. SDE intern @Amazon India, 2018",
+    "links": {
+      "linkedin": "https://in.linkedin.com/in/aarush-juneja-a72373121"
+    },
+    "img": "aarush-juneja.jpg"
+  },
+  {
+    "yearOfGrad": "2019",
+    "email": "",
+    "name": "Shubham Kumar Soni",
+    "team": "Web Development",
+    "contactNo": "",
+    "about": "",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/subham-kumar-soni/"
+    },
+    "img": "sks.jpeg"
+  },
+  {
+    "yearOfGrad": "2019",
+    "email": "manishism1997@gmail.com",
+    "name": "Manish Kumar",
+    "team": "Web Development",
+    "contactNo": "8825131994",
+    "about": "Full Stack Developer, proficient in Java. SDE intern @Amazon India, 2018 | Final yearOfGrad,  CSE",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manish97"
+    },
+    "img": "manish-kumar.jpg"
+  },
+  {
+    "yearOfGrad": "2019",
+    "email": "anirudh_jain@am.ism.ac.in",
+    "name": "Anirudh Jain",
+    "team": "Machine Learning",
+    "contactNo": "8969257536",
+    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
+    "links": {
+      "github": "https://www.github.com/sponde25",
+      "linkedin": "https://www.linkedin.com/in/sponde",
+      "others": ["https://arxiv.org/abs/1803.06473"]
+    },
+    "img": "anirudh-jain.jpg"
+  }, 
+  {
     "name": "Vaasudev Narayan",
     "opImg": "",
     "img": "vaasudev-narayan.jpeg",
     "position": "",
     "place": "",
-    "year":"2018",
-    "link":"https://www.linkedin.com/in/vaasudev-narayanan-659b6010b"
+    "yearOfGrad":"2018",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vaasudev-narayanan-659b6010b"
+    }
   },
   {
     "name": "Shril Bhardwaj",
@@ -14,8 +66,10 @@
     "img": "shril-bhardwaj.jpeg",
     "position": "",
     "place": "",
-    "year":"2018",
-    "link":"https://www.linkedin.com/in/shril"
+    "yearOfGrad":"2018",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/shril"
+    }
   },
   {
     "name": "Mohit Chawla",
@@ -23,8 +77,10 @@
     "img": "mohit.png",
     "position": "",
     "place": "",
-    "year":"2016",
-    "link":"https://www.linkedin.com/in/mohshia23"
+    "yearOfGrad":"2016",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mohshia23"
+    }
   },
   {
     "name": "Prabodh Tripathi",
@@ -32,8 +88,20 @@
     "img": "prabodh.jpg",
     "position": "",
     "place": "",
-    "year":"2018",
-    "link":"https://www.linkedin.com/in/prabodhhere"
+    "yearOfGrad":"2018",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/prabodhhere"
+    }
+  },
+  {
+    "name": "Manoj Kumar",
+    "opImg": "",
+    "img": "manoj.jpeg",
+    "position": "",
+    "place": "",
+    "yearOfGrad":"2018",
+    "links": {
+    }
   },
   {
     "name": "Kriti Singh",
@@ -41,8 +109,10 @@
     "img": "kriti1.jpg",
     "position": "",
     "place": "",
-    "year":"2017",
-    "link":"https://www.linkedin.com/in/kriti96singh"
+    "yearOfGrad":"2017",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/kriti96singh"
+    }
   },
   {
     "name": "Jibin Sabu Mathews",
@@ -50,8 +120,10 @@
     "img": "jibinmathews.jpg",
     "position": "",
     "place": "",
-    "year":"2017",
-    "link":"https://www.linkedin.com/in/jibinmathews7"
+    "yearOfGrad":"2017",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/jibinmathews7"
+    }
   },
   {
     "name": "Nikita kapoor",
@@ -59,7 +131,7 @@
     "img": "nikitakapoor.jpg",
     "position": "",
     "place": "",
-    "year":"2019"
+    "yearOfGrad":"2019"
   },
   {
     "name": "Ankit Jaiswal",
@@ -67,7 +139,7 @@
     "img": "ankit.png",
     "position": "",
     "place": "",
-    "year":"2016"
+    "yearOfGrad":"2016"
   },
   {
     "name": "Aashish Mohan Verma",
@@ -75,7 +147,7 @@
     "img": "ashishverma.jpg",
     "position": "",
     "place": "",
-    "year":"2016"
+    "yearOfGrad":"2016"
   },
   {
     "name": "Janpreet Singh",
@@ -83,8 +155,10 @@
     "img": "janpreet.png",
     "position": "",
     "place": "",
-    "year":"2017",
-    "link":"https://www.linkedin.com/in/janpreet-singh"
+    "yearOfGrad":"2017",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/janpreet-singh"
+    }
   },
   {
     "name": "Aanisha Mishra",
@@ -92,8 +166,10 @@
     "img": "aanisha-mishra.jpeg",
     "position": "",
     "place": "",
-    "year":"2017",
-    "link":"https://www.linkedin.com/in/aanishamishra"
+    "yearOfGrad":"2017",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/aanishamishra"
+    }
   },
   {
     "name": "Venkat Bulusu",
@@ -101,7 +177,7 @@
     "img": "venkat.jpg",
     "position": "",
     "place": "",
-    "year":"2018"
+    "yearOfGrad":"2018"
   },
   {
     "name": "Medha Bajpai",
@@ -109,7 +185,7 @@
     "img": "medha.jpg",
     "position": "",
     "place": "",
-    "year":"2019"
+    "yearOfGrad":"2019"
   },
   {
     "name": "Abdur Rehman Danish",
@@ -117,8 +193,10 @@
     "img": "abdur.jpg",
     "position": "",
     "place": "",
-    "year":"2018",
-    "link":"https://www.linkedin.com/in/abdur-rahman-daanish-93379b114"
+    "yearOfGrad":"2018",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/abdur-rahman-daanish-93379b114"
+    }
   },
   {
     "name": "Sambuddha Nath",
@@ -126,6 +204,6 @@
     "img": "sam.jpg",
     "position": "",
     "place": "",
-    "year":"2019"
+    "yearOfGrad":"2019"
   }
 ]

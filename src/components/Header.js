@@ -102,6 +102,15 @@ class Header extends Component {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
+                    href="https://thebittheories.com/"
+                  >
+                    <i className="fa fa-medium" />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
                     href="https://www.facebook.com/labscyber"
                   >
                     <i className="fa fa-facebook-f" />

@@ -1,31 +1,5 @@
 [
   {
-    "yearOfPassing": "2019",
-    "email": "avijuneja.cs@gmail.com",
-    "name": "Aarush Juneja",
-    "team": "Web Development",
-    "contactNo": "7009256410",
-    "about": "A software developer proficient in C++, Java and Python. SDE intern @Amazon India, 2018",
-    "links": {
-      "spoj": "https://www.spoj.com/users/vivace/",
-      "linkedin": "https://in.linkedin.com/in/aarush-juneja-a72373121",
-      "github": "https://github.com/AarushJ"
-    },
-    "img": "aarush-juneja.jpg"
-  },
-  {
-    "yearOfPassing": "2019",
-    "email": "manishism1997@gmail.com",
-    "name": "Manish Kumar",
-    "team": "Web Development",
-    "contactNo": "8825131994",
-    "about": "Full Stack Developer, proficient in Java. SDE intern @Amazon India, 2018 | Final Year,  CSE",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/manish97"
-    },
-    "img": "manish-kumar.jpg"
-  },
-  {
     "yearOfPassing": "2020",
     "email": "nveenjain@gmail.com",
     "name": "Naveen Jain",
@@ -145,20 +119,6 @@
     },
     "img": "saloni-mohta.jpg"
   },
-  {
-    "yearOfPassing": "2019",
-    "email": "anirudh_jain@am.ism.ac.in",
-    "name": "Anirudh Jain",
-    "team": "Machine Learning",
-    "contactNo": "8969257536",
-    "about": "Researcher working on Bayesian Deep Learning and quantifying uncertainty in deep neural networks",
-    "links": {
-      "github": "https://www.github.com/sponde25",
-      "linkedin": "https://www.linkedin.com/in/sponde",
-      "others": ["https://arxiv.org/abs/1803.06473"]
-    },
-    "img": "anirudh-jain.jpg"
-  }, 
   {
     "yearOfPassing": "2021",
     "email": "banipreet.raheja@gmail.com",

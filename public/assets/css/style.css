@@ -316,7 +316,6 @@ header a{
 }
 
 ul.header-nav{
-  width:71%;
   float:left;
 }
 
@@ -869,7 +868,8 @@ textarea:focus{background:#f4f4f4; height:250px;}
 
 .portfolio-grid .grid-responsive img {
     margin-bottom: 15px;
-    box-shadow: -13px 1px 19px -9px #888888;
+    box-shadow: 4px -7px 18px -11px #888888;
+    border-radius: 5px;
 }
 
 /*
