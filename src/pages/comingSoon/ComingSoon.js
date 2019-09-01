@@ -2,7 +2,7 @@ import React, {Component} from "react";
 class ComingSoon extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
-    document.title="Cyber Labs|Coming Soon";
+    document.title="Cyber Labs | Coming Soon";
   }
   render() {
     return (

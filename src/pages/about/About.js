@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
-    document.title="Cyber Labs|About";
+    document.title="Cyber Labs | About";
   }
   render() {
     return (

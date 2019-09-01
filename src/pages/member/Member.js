@@ -4,7 +4,7 @@ import data from "../../json-files/members.json";
 class Member extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
-    document.title="Cyber Labs|Members";
+    document.title="Cyber Labs | Members";
     document.querySelector("meta[name='keywords']").content="Alumni, Cyber Labs, cyberlabs members,ism alumni,cyber labs member";
     document.querySelector("meta[name='description']").content="Cyber Labs Members";
   }

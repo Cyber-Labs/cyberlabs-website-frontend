@@ -5,6 +5,7 @@ import HomeProjects from "./HomeProjects";
 class Index extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
+    document.title="Cyber Labs";
   }
   render() {
     return (
