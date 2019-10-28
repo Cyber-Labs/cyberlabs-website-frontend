@@ -26,21 +26,6 @@
     "img": "sanket-singh.jpg"
   },
   {
-    "yearOfPassing": "2021",
-    "email": "aayu.16je002440@am.ism.ac.in",
-    "name": "Aayush Ahuja",
-    "team": "Web Development",
-    "contactNo": "8873643965",
-    "about": "I am a Tech geek who loves to build and broke technical stuffs, be it hardware or software!",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/codeaayu",
-      "github": "https://www.github.com/codeaayu",
-      "medium": "https://www.medium.com/@codeaayu",
-      "facebook": "https://www.facebook.com/codeaayu"
-    },
-    "img": "aayush-ahuja.jpg"
-  },
-  {
     "yearOfPassing": "2020",
     "email": "rajrani0710@gmail.com",
     "name": "Raj Rani",
@@ -93,19 +78,6 @@
       "facebook": "https://www.facebook.com/ujjawal.jaiswal.5249 "
     },
     "img": "ujjawal-jaiswal.jpg"
-  },
-  {
-    "yearOfPassing": "2021",
-    "email": "anushkashikha1998@gmail.com",
-    "name": "Anushka Mittal",
-    "team": "Web Development",
-    "contactNo": "",
-    "about": "I am self-motivated student at IIT(ISM) Dhanbad  with a huge efficiency and proficiency in Javascript , HTML, CSS and mobile responsive web development.",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/anushka-mittal-38a729154/",
-      "resume": "https://drive.google.com/file/d/17OTSqSGIE4JZdyXkZkYtI3Nreuer_YxB/view?usp=sharing"
-    },
-    "img": "anushka-mittal.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -347,20 +319,6 @@
       "facebook": "https://m.facebook.com/tazrilparviz.ali"
     },
     "img": "tazril-parveez-ali.jpg"
-  },
-  {
-    "yearOfPassing": "2022",
-    "email": "vanshikaa937@gmail.com",
-    "name": "Vanshika",
-    "team": "Android",
-    "contactNo": "9149245760",
-    "about": "Android application developer experienced in working with databases, frameworks and cloud products such as Firebase.",
-    "links": {
-      "linkedin": "https://www.linkedin.com/in/vanshika-arora-6396b4143/",
-      "github": "https://github.com/vanshikaarora",
-      "twitter": "Twitter-https://twitter.com/Vanshik74929888"
-    },
-    "img": "vanshika-arora.jpg"
   },
   {
     "yearOfPassing": "2021",
