@@ -5,7 +5,7 @@ import ProgressiveImage from "react-progressive-image";
 class Alumni extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
-    document.title = "Cyber Labs|Alumni";
+    document.title = "Cyber Labs | Alumni";
     document.querySelector("meta[name='keywords']").content =
       "Alumni, Cyber Labs, cyberlabs alumni,ism alumni,cyber labs alumni";
     document.querySelector("meta[name='description']").content =
