@@ -851,5 +851,18 @@
       "linkedin": "https://www.linkedin.com/in/nirmit-shah-35822a146"
     },
     "img": "nimrit-shah.jpg"
+  },
+{
+    "yearOfPassing": "2022",
+    "email": "pr7.18je0632@ece.iitism.ac.in",
+    "name": "Pritam Roy",
+    "team": "Machine Learning",
+    "contactNo": "8617012374",
+    "about": "",
+    "links": {
+      "github": "https://github.com/chefpr7",
+      "linkedin": "https://www.linkedin.com/in/chefpr7"
+    },
+    "img": "pritam-roy.jpg"
   }
 ]
