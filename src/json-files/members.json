@@ -227,18 +227,18 @@
   },
   {
     "yearOfPassing": "2021",
-    "email": "suyog.jadhav1@gmail.com",
+    "email": "me@suyogjadhav.com",
     "name": "Suyog Jadhav",
     "team": "Machine Learning",
     "contactNo": "917719058077",
     "about": "A proud 90's geek with a knack for AI. Loves doing innovative projects using deep learning. When not coding, can often be found writing blogs or playing legacy games.",
     "links": {
-      "website":"https://iamsuyogjadhav.github.io",
+      "website":"https://www.suyogjadhav.com",
       "github": "https://github.com/IAmSuyogJadhav",
       "linkedin": "https://www.linkedin.com/in/IAmSuyogJadhav",
       "twitter": "https://twitter.com/IAmSuyogJadhav",
       "facebook": "http://fb.com/IAmSuyogJadhav",
-      "others":["https://mlendeavours.wordpress.com/","https://ai.stackexchange.com/users/16159/suyog-jadhav"]
+      "others":"https://ai.stackexchange.com/users/16159/suyog-jadhav"
     },
     "img": "suyog-jadhav.jpg"
   },
