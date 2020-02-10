@@ -92,6 +92,98 @@
     "img": "saloni-mohta.jpg"
   },
   {
+    "yearOfPassing": "2022",
+    "email": "ultimate.ridhish@gmail.com",
+    "name": "Ridhish Jain",
+    "team": "Web Development",
+    "contactNo": "9352060123",
+    "about": "Full Stack Web Developer || Cyberlabs || Member@SIAM || OSS developer",
+    "links": {
+      "github": "https://github.com/ridhishjain",
+      "linkedin": "http://www.linkedin.com/in/ridhishjain",
+      "medium": "https://medium.com/razorpay-online-payments/introduction-f4575410a502"
+    },
+    "img": "ridhish-jain.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "namanzelawat@gmail.com",
+    "name": "Naman Zelawat",
+    "team": "Web Development",
+    "contactNo": "6264733987",
+    "about": "Web developer and coder with Bachelor's degree focused in Computer Science from Indian Institute of Technology (Indian School of Mines), Dhanbad. ",
+    "links": {
+      "github": "https://github.com/NamanZelawat",
+      "linkedin": "https://www.linkedin.com/in/naman-zelawat-a2320516a/"
+    },
+    "img": "naman-zelawat.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "prasadsourav552@gmail.com",
+    "name": "Sourav Prasad",
+    "team": "Web Development",
+    "contactNo": "7209243590",
+    "about": "",
+    "links": {
+      "github": "https://gitHub.com/souravpd"
+    },
+    "img": "sourav-prasad.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "cjchirag7@gmail.com",
+    "name": "Chirag Jain",
+    "team": "Web Development",
+    "contactNo": "8319873340",
+    "about": "CSE undergrad || Full Stack Developer || Competitive Coder || ML Enthusiast",
+    "links": {
+      "github": "https://github.com/cjchirag7",
+      "linkedin": "https://www.linkedin.com/in/cjchirag7/",
+      "medium": "https://cjchirag7.github.io/"
+    },
+    "img": "chirag-jain.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "saharsh.18je0710@cse.iitism.ac.in",
+    "name": "Saharsh Singh",
+    "team": "Web Development",
+    "contactNo": "7607543668",
+    "about": "Sophomore with a passion for coding and development. Loves to collaborate on various projects and do cool stuff. ",
+    "links": {
+      "github": " https://github.com/Saharsh0602",
+      "linkedin": "https://www.linkedin.com/in/saharsh-singh-324096194/"
+    },
+    "img": "saharsh-singh.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "nikhilbnaradhya1.gem@gmail.com",
+    "name": "NIKHIL BN",
+    "team": "Web Development",
+    "contactNo": "7254972818",
+    "about": "",
+    "links": {
+      "github": "https://github.com/NBNARADHYA",
+      "linkedin": "https://www.linkedin.com/in/nikhil-bn-71b893186"
+    },
+    "img": "nikhil-bn.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "anupriyashree34@gmail.com",
+    "name": "Anupriya Shree",
+    "team": "Web Development",
+    "contactNo": "8271330452",
+    "about": "",
+    "links": {
+      "github": "https://www.github.com/anu-shree/",
+      "linkedin": "https://www.linkedin.com/in/anupriya-shree/"
+    },
+    "img": "anupriya-shree.jpg"
+  },
+  {
     "yearOfPassing": "2021",
     "email": "banipreet.raheja@gmail.com",
     "name": "Banipreet Singh Raheja",
@@ -270,6 +362,150 @@
     "img": "ali-sabir.jpg"
   },
   {
+    "yearOfPassing": "2022",
+    "email": "akchitra99@gmail.com",
+    "name": "Rishabh Tiwari",
+    "team": "Machine Learning",
+    "contactNo": "7393848568",
+    "about": "Physics Undergraduate student | passionate about Deep learning | AI-Fanatic | Kaggle Addict | Hack-maniac.",
+    "links": {
+      "github": "www.github.com/rishabh-16",
+      "linkedin": "https://www.linkedin.com/in/rishabh-tiwari16/",
+      "medium": "Kaggle - https://www.kaggle.com/rishabh2001"
+    },
+    "img": "rishabh-tiwari.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "arnav.18je0156@am.iitism.ac.in",
+    "name": "Arnav Chavan",
+    "team": "Machine Learning",
+    "contactNo": "9137030243",
+    "about": "Proud Kaggler who is making Computer See",
+    "links": {
+      "github": "github.com/Arnav0400",
+      "linkedin": "linkedin.com/in/Arnav0400"
+    },
+    "img": "arnav-chavan.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "thenainesh@gmail.com",
+    "name": "Nainesh Hulke",
+    "team": "Machine Learning",
+    "contactNo": "8408038158",
+    "about": "ML Geek",
+    "links": {
+      "github": "github.com/naineshhulke",
+      "linkedin": "linkedin.com/in/naineshhulke/"
+    },
+    "img": "nainesh-hulke.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "aryanraj.18je0169@am.iitism.ac.in",
+    "name": "Aryan Raj",
+    "team": "Machine Learning",
+    "contactNo": "6202646038",
+    "about": "Aryan of the house of Raj's, first of his name, Geek, Dl enthusiast, King of A240, Lord of the food world, breaker of bugs and the protector of all my gadgets. ",
+    "links": {
+      "github": "https://github.com/AryanRaj315",
+      "linkedin": "https://www.linkedin.com/in/aryan-raj-a31647172/"
+    },
+    "img": "aryan-raj.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "Basyambhu@gmail.com",
+    "name": "Yash Bhambhu",
+    "team": "Machine Learning",
+    "contactNo": "7425021302",
+    "about": "A deep learning enthusiast, with an interest in all realms of software development. Loves to dance.",
+    "links": {
+      "github": "",
+      "linkedin": ""
+    },
+    "img": "yash-bhambhu.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "thelethargicowl@gmail.com",
+    "name": "Ankesh Raj",
+    "team": "Machine Learning",
+    "contactNo": "8825175754",
+    "about": "ML enthusiast, fascinated about GANs specially Deep Fakes. Like trying new innovative projects and enjoy programming. Reading Fantasy Novels is the way I pass my free time.",
+    "links": {
+      "github": "https://github.com/TheLethargicOwl",
+      "linkedin": "https://www.linkedin.com/in/thelethargicowl"
+    },
+    "img": "ankesh-raj.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "sonugupta.08.07@gmail.com",
+    "name": "Sonu Kumar Gupta",
+    "team": "Machine Learning",
+    "contactNo": "9529060043",
+    "about": "",
+    "links": {
+      "github": "https://github.com/sgsonu",
+      "linkedin": "https://www.linkedin.com/in/sonu-kumar-gupta-2b9189173/"
+    },
+    "img": "sonu-gupta.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "aliasgarsaifee05@gmail.com",
+    "name": "Ali Asgar Saifee",
+    "team": "Machine Learning",
+    "contactNo": "8989407852",
+    "about": "AI enthusiast | Knack of exploring things | loves solving problem's by software development.",
+    "links": {
+      "github": "https://github.com/Aliasgarsaifee",
+      "linkedin": "https://www.linkedin.com/in/ali-asgar-saifee-9a841a175/"
+    },
+    "img": "ali-asgar.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "ss407102@gmail.com",
+    "name": "Sachin Shukla",
+    "team": "Machine Learning",
+    "contactNo": "",
+    "about": "Loves doing innovative projects using deep learning",
+    "links": {
+      "github": "github.com/ss407102",
+      "linkedin": "https://www.linkedin.com/in/sachin-shukla-858126110"
+    },
+    "img": "sachin-shukla.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "bharathprithivi@gmail.com",
+    "name": "Bharath Raj",
+    "team": "Machine Learning",
+    "contactNo": "7401616790",
+    "about": "Reticent coder with interest in ML. Tf 2.0 is fine and all but Pytorch is love. Semi-Otaku who happens to watch movies/TV series as well.",
+    "links": {
+      "github": "https://github.com/rath772k",
+      "linkedin": "https://www.linkedin.com/in/bharath-raj-s-4b2478193"
+    },
+    "img": "bharath-raj.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "ayush.s.18je0204@cse.iitism.ac.in",
+    "name": "Ayush Singh",
+    "team": "Machine Learning",
+    "contactNo": "8826949365",
+    "about": "",
+    "links": {
+      "github": "https://github.com/ayu-22",
+      "linkedin": "https://www.linkedin.com/in/ayush-singh-51a375187/"
+    },
+    "img": "ayush-singh.jpg"
+  },
+  {
     "yearOfPassing": "2021",
     "email": "adityamudgil2505@gmail.com",
     "name": "Aditya Mudgil",
@@ -280,6 +516,32 @@
       "linkedin": "https://www.linkedin.com/in/aditya-mudgil-240a38147/"
     },
     "img": "aditya-mudgil.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "kritikgarg123@gmail.com",
+    "name": "Kritik Garg",
+    "team": "Graphic Design",
+    "contactNo": "9417320890",
+    "about": "I design",
+    "links": {
+      "github": "https://github.com/kritikgarg1",
+      "linkedin": "https://www.linkedin.com/in/kritik-garg"
+    },
+    "img": "kritik-garg.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "ankitbiswas855@gmail.com ",
+    "name": "Ankit Biswas",
+    "team": "Graphic Design",
+    "contactNo": "8240112930",
+    "about": "",
+    "links": {
+      "github": "",
+      "linkedin": ""
+    },
+    "img": "ankit-biswas.jpg"
   },
   {
     "yearOfPassing": "2020",
@@ -333,6 +595,110 @@
     "img": "perul-jain.jpg"
   },
   {
+    "yearOfPassing": "2022",
+    "email": "rishabh.agarwal997@gmail.com",
+    "name": "Rishabh Agarwal",
+    "team": "Android",
+    "contactNo": "9935685103",
+    "about": "An open source contributor with two years of experience in Android. When not contributing, can be found in one or the other hackathon or playing street games. ",
+    "links": {
+      "github": "https://www.github.com/rishabh-997",
+      "linkedin": "https://www.linkedin.com/rishabh-997",
+      "medium": "https://medium.com/@rishabh.agarwal997/dagger-2-2-intution-60ea9c8f7418?sk=ce76f75e1e14834c122f36ffbde0b3fb"
+    },
+    "img": "rishabh-agarwal.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "sujaykaushik008@gmail.com",
+    "name": "Sujay Kaushik",
+    "team": "Android",
+    "contactNo": "9630249471",
+    "about": "I am an android enthusiast looking for an opportunity to contribute to the community.",
+    "links": {
+      "github": "https://github.com/sujaykaushik008",
+      "linkedin": "https://www.linkedin.com/in/sujay-kaushik-730827180"
+    },
+    "img": "sujay-kaushik.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "apoorva222g@gmail.com",
+    "name": "Apoorva Raj Bhadani",
+    "team": "Android",
+    "contactNo": "8239361281",
+    "about": "App-Developer|Roboteer|ECE, IIT Dhanbad",
+    "links": {
+      "github": "https://github.com/ApoorvaRajBhadani",
+      "linkedin": "https://www.linkedin.com/in/apoorva222g/"
+    },
+    "img": "apoorva-raj.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "sanketagarwal702@gmail.com",
+    "name": "Sanket Agarwal",
+    "team": "Android",
+    "contactNo": "9879580784",
+    "about": "Android lover and Developer ,BlockChain Enthusiast,also interested in Competitive Programming.I am striving to be better at problem solving, and at the same time challenging myself and imbibing new concepts and technology advancements.",
+    "links": {
+      "github": "https://github.com/Sanketagarwal17",
+      "linkedin": "https://www.linkedin.com/in/sanket-agarwal17/"
+    },
+    "img": "sanket-agarwal.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "uditdasari19@gmail.com ",
+    "name": "Dasari Udit Shiva Prasad",
+    "team": "Android",
+    "contactNo": "7254973864",
+    "about": "Android Developer || Competetive Programmer",
+    "links": {
+      "github": "https://github.com/uditDasari",
+      "linkedin": "https://www.linkedin.com/in/udit-dasari-822289188"
+    },
+    "img": "udit-dasari.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "ankitkachhi.ak47@gmail.com",
+    "name": "ANKIT KACHHI",
+    "team": "Android",
+    "contactNo": "8240112930",
+    "about": "Android Developer with a demonstrated history of working in the computer software industry. Skilled in Firebase, Java, Android Development, Object-Oriented Programming (OOP), and C (Programming Language). ",
+    "links": {
+      "github": "https://github.com/akonic",
+      "linkedin": "www.linkedin.com/in/ankit-kachhi-akonic"
+    },
+    "img": "ankit-kachhi.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "mohitmude19@gmail.com",
+    "name": "Mohit Mude",
+    "team": "Android",
+    "contactNo": "9131989711",
+    "about": "",
+    "links": {
+      "github": "https://github.com/MohitMude",
+      "linkedin": "https://www.linkedin.com/in/mohit-mude-a8ba2b17b"
+    },
+    "img": "mohit-mude.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "narwayaayush@gmail.com",
+    "name": "AAYUSH NARWAY",
+    "team": "Android",
+    "contactNo": "8521154004",
+    "about": "I am a crazy dynamic guy who wants to explore the world and contribute my best to the projects I come across. I always appreciate change and am always open to the red pill. ",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/narwayaayush"
+    },
+    "img": "aayush-narway.jpg"
+  },
+  {
     "yearOfPassing": "2021",
     "email": "madhavshahsisodiya@gmail.com",
     "name": "Madhav Shah Sisodiya",
@@ -360,6 +726,32 @@
       "linkedin": "https://www.linkedin.com/in/nikhil-arora-241847166/"
     },
     "img": "nikhil-arora.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "kediarahul712@gmail.com",
+    "name": "Rahul Kedia",
+    "team": "Hardware",
+    "contactNo": "8409250577",
+    "about": "Interested in Computer Vision and Image Processing.",
+    "links": {
+      "github": "https://github.com/KEDIARAHUL135",
+      "linkedin": "https://www.linkedin.com/in/rahul-kedia-3a6533173"
+    },
+    "img": "rahul-kedia.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "sheikh.mamoon.18je0823@mech.iitism.ac.in",
+    "name": "Sk Mohammed Mamoon Mondal",
+    "team": "Hardware",
+    "contactNo": "9164584708",
+    "about": "Enthusiast in robotics and IoT",
+    "links": {
+      "github": "https://github.com/atmamoon?tab=repositories",
+      "linkedin": "https://www.linkedin.com/in/sheikh-mamoon-510b40194"
+    },
+    "img": "mamoon.jpg"
   },
   {
     "yearOfPassing": "2021",
@@ -393,5 +785,71 @@
     "about": "Loves Coding and Hacking!!!Die-hard ManUtd fan!!!",
     "links": {},
     "img": "ritesh-manna.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "dolamanee6122@gmail.com",
+    "name": "Dolamanee Naik",
+    "team": "Cyber Security",
+    "contactNo": "6264701778",
+    "about": "Designing Debugging and Breaking programs recursively.",
+    "links": {
+      "github": "",
+      "linkedin": ""
+    },
+    "img": "dolamanee-naik.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "saswatasom2000@gmail.com",
+    "name": "Saswata Som",
+    "team": "Cyber Security",
+    "contactNo": "",
+    "about": "",
+    "links": {
+      "github": "https://github.com/thesaltysleuthli",
+      "linkedin": "https://www.linkedin.com/in/thesaltysleuth/"
+    },
+    "img": "saswata-som.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "satyavarty591@gmail.com",
+    "name": "Satyavart",
+    "team": "Cyber Security",
+    "contactNo": "9801853516",
+    "about": "It's still magic even if you know how it's done.",
+    "links": {
+      "github": "https://github.com/Satyavart",
+      "linkedin": "https://www.linkedin.com/in/satyavart-b8630b173"
+    },
+    "img": "satyavart.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "ashish.18je0174@mech.iitism.ac.in",
+    "name": "Ashish Kumar",
+    "team": "Cyber Security",
+    "contactNo": "9122104432",
+    "about": "An anonymous guy who keeps on learning ,if not by making then by cracking. echo 'stay_low'.",
+    "links": {
+      "github": "github.com/ashigup",
+      "linkedin": "linkedin.com/in/ashish-kumar",
+      "medium": "ashblog.news.blog"
+    },
+    "img": "ashish-kumar.jpg"
+  },
+  {
+    "yearOfPassing": "2022",
+    "email": "nirmitshah191@gmail.com",
+    "name": "Nirmit Shah",
+    "team": "Cyber Security",
+    "contactNo": "9370806005",
+    "about": "",
+    "links": {
+      "github": "https://github.com/naughtyboy191",
+      "linkedin": "https://www.linkedin.com/in/nirmit-shah-35822a146"
+    },
+    "img": "nimrit-shah.jpg"
   }
 ]
