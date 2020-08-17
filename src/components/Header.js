@@ -25,7 +25,7 @@ class Header extends Component {
             </div>
             <li className="hamberger-menu">
               <a
-                href='#'
+                href='#/'
                 className="icon"
                 onClick={() => {
                   this.setState({ responsive: !this.state.responsive });
@@ -40,7 +40,7 @@ class Header extends Component {
               }
             >
               <li>
-                <a className="ajax-link" href='#' to="#">
+                <a className="ajax-link" to="#" href='#/'>
                   People <i className="fa fa-angle-down" />
                 </a>
                 <ul>
