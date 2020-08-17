@@ -8,7 +8,7 @@ class Header extends Component {
       responsive: false
     };
   }
-  componentDidMount(){
+  componentDidMount() {
     MailToUI.run();
   }
 
@@ -25,6 +25,7 @@ class Header extends Component {
             </div>
             <li className="hamberger-menu">
               <a
+                href='#'
                 className="icon"
                 onClick={() => {
                   this.setState({ responsive: !this.state.responsive });
@@ -39,7 +40,7 @@ class Header extends Component {
               }
             >
               <li>
-                <a className="ajax-link" to="#">
+                <a className="ajax-link" href='#' to="#">
                   People <i className="fa fa-angle-down" />
                 </a>
                 <ul>
