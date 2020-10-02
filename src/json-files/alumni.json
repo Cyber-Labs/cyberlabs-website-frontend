@@ -205,5 +205,110 @@
     "position": "",
     "place": "",
     "yearOfGrad":"2019"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "nveenjain@gmail.com",
+    "name": "Naveen Jain",
+    "team": "Web Development",
+    "contactNo": "9680946939",
+    "about": "Secretary 2018-19 | Web | OSS",
+    "links": {
+      "github": "https://github.com/nveenjain",
+      "linkedin": "https://www.linkedin.com/in/nveenjain/",
+      "twitter": "https://twitter.com/nveenjain"
+    },
+    "img": "naveen-jain.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "sanketsingh24@gmail.com",
+    "name": "Sanket Singh",
+    "team": "Web Development",
+    "contactNo": "9425004151",
+    "about": "Nice person",
+    "links": {
+      "github": "https://github.com/sanketsingh24"
+    },
+    "img": "sanket-singh.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "rajrani0710@gmail.com",
+    "name": "Raj Rani",
+    "team": "Web Development",
+    "contactNo": "8539061765",
+    "about": "My passion lies in solving real life problems through technology.\n\n SE Intern @Microsoft 2018 after my Sophomore year.",
+    "links": {
+      "github": "https://github.com/ARsquare",
+      "linked": "https://www.linkedin.com/in/rrsquare",
+      "facebook": "https://facebook.com/arrsquare"
+    },
+    "img": "raj-rani.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "ss.mrinalini@gmail.com",
+    "name": "Mrinalini Singh",
+    "team": "Machine Learning",
+    "contactNo": "9709369360",
+    "about": "I\"m just an ordinary person enthusiastic about stars and how far we can go with computing.",
+    "links": {
+      "github":"https://github.com/catmss",
+      "linkedin":"https://www.linkedin.com/in/mrinalini-singh-s/"
+    },
+    "img": "mrinalini-singh.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "kumaramardipsingh@gmail.com",
+    "name": "Amardeep Kumar",
+    "team": "Machine Learning",
+    "contactNo": "8521173035",
+    "about": "CSE, 2k16-2k20;\nLove competitive coding and Natural Language Processing",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/amardeep-kumar-634aa0171/",
+      "facebook": "https://www.facebook.com/amardeepkumar26398"
+    },
+    "img": "amardeep-kumar.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "rrishabh145@gmail.com",
+    "name": "Rishabh Rajput",
+    "team": "Machine Learning",
+    "contactNo": "9464705127",
+    "about": "Avid problem solver passionate for AI and Machine Learning",
+    "links": {
+      "github": "https://github.com/rrishabh145",
+      "linkedin": "https://www.linkedin.com/in/rishabh-rajput-a3b156120/"
+    },
+    "img": "rishabh-rajput.jpg"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "shubh.v@outlook.com",
+    "name": "Shubham Vishwakarma",
+    "team": "Android",
+    "contactNo": "",
+    "about": "I am an experienced Android developer with sound knowledge of REST API back end, a Data Science enthusiast and also an Open Source contributor. I have a great math background, and also good at explaining complicated stuff.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/shubham-vishwakarma/",
+      "github": "https://github.com/Shubham-vish"
+    },
+    "img": "shubham-vishwakarma.png"
+  },
+  {
+    "yearOfGrad": "2020",
+    "email": "tazrilparvez96@gmail.com",
+    "name": "Tazril Parveez Ali",
+    "team": "Android",
+    "contactNo": "9101244685",
+    "about": "Android Developer,  Unity Game Developer,  Filmmaker",
+    "links": {
+      "github": "https://github.com/Tazril",
+      "facebook": "https://m.facebook.com/tazrilparviz.ali"
+    },
+    "img": "tazril-parveez-ali.jpg"
   }
 ]
