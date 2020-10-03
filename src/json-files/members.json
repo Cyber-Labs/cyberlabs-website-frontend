@@ -760,6 +760,18 @@
     },
     "img": "pritam-roy.jpg"
   },
+  {
+    "yearOfPassing": "2021",
+    "email": "sanketsingh24@gmail.com",
+    "name": "Sanket Singh",
+    "team": "Web Development",
+    "contactNo": "9425004151",
+    "about": "Nice person",
+    "links": {
+      "github": "https://github.com/sanketsingh24"
+    },
+    "img": "sanket-singh.jpg"
+  },
     {
         "name": "Akash Mahapatra",
         "team": "Android",
