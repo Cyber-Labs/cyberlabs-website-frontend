@@ -11,12 +11,12 @@
     "project": "Sky Detector App",
     "description": "A cross-platform mobile app for automatically detecting sky pixels in a photograph and calculate the angle of elevation for each vertical column. It can be used for analysis of solar energy potential in an urban setting.",
     "links": {"github":"https://github.com/cjchirag7/sky-detector/"},
-    "images": "skyDetector-app.png"
+    "images": "skyDetectcj.jpeg"
   },
   {
     "name": ["Aman Dwivedi"],
     "project": "MedBuddy",
-    "description": "A web platform which connects doctors, patients and services like ambulance provider.Patient can choose a date and doctor to consult, the system will automatically generate appointment time based on doctor's schedule.Patient can also view his current and past appointments and book ambulance service.Doctor on the other hand can accept/reject the appointment, view all his current and past appintment and upload detailed prescription for the patient.The website is hosted at https://hospital-help.herokuapp.com/",
+    "description": "A web platform which connects doctors, patients and services like ambulance provider. Patient can choose a date and doctor to consult, the system will automatically generate appointment time based on doctor's schedule. Patient can also view his current and past appointments and book ambulance service. Doctor on the other hand can accept/reject the appointment, view all his current and past appintment and upload detailed prescription for the patient. The website is hosted at https://hospital-help.herokuapp.com/",
     "links": {"github":"https://github.com/Aman-Codes/HospitalWebsite"},
     "images": "medBuddy.png"
   },
@@ -44,7 +44,7 @@
   {
     "name": ["Pawan Raj","Mihir Jichkar"],
     "project": "Sammy",
-    "description": "Sammy, an advanced video player That enables understanding of videos for the visually-disabled and quicker navigation for everyone",
+    "description": "Sammy, an advanced video player that enables understanding of videos for the visually-disabled and quicker navigation for everyone",
     "links": {"github":"https://github.com/myselfpawanraj/sammy-android"},
     "images": "sammy.png"
   },
@@ -93,14 +93,14 @@
   {
     "name": ["Harsh Mishra","Niharika Kumar","Taneesh Gupta"],
     "project": "Medivision",
-    "description": "Medivision is an interactive web application as well as android application that can make diagnosis of Covid19,Brain Tumor,Breast Cancer,Eye Blindness,Pneumonia,Alzymer,Skin Cancer as well as provide the precautions to cure the disease",
+    "description": "Medivision is an interactive web application as well as android application that can make diagnosis of Covid19, Brain Tumor, Breast Cancer, Eye Blindness, Pneumonia, Alzymer, Skin Cancer as well as provide the precautions to cure the disease",
     "links": {"github":"https://github.com/tanish-g/HackNagpur-1"},
     "images": "medivision.png"
   },
   {
     "name": ["Taneesh Gupta","Harsh Mishra"],
     "project": "Bird Call Identification",
-    "description": "Identifying  a wide variety of bird vocalizations in soundscape recordings using CNN by generating melspectrogram images of audio.There might be anthropogenic sounds (e.g., airplane overflights) or other bird and non-bird (e.g., chipmunk) calls in the background, with a particular labeled bird species in the foreground which we are finding using our machine learning models",
+    "description": "Identifying a wide variety of bird vocalizations in soundscape recordings using CNN by generating melspectrogram images of audio. There might be anthropogenic sounds (e.g., airplane overflights) or other bird and non-bird (e.g., chipmunk) calls in the background, with a particular labeled bird species in the foreground which we are finding using our machine learning models",
     "links": {"github":"https://github.com/tanish-g/Cornell-Birdcall-Identification"},
     "images": "Birdcall.png"
   },
@@ -114,7 +114,7 @@
   {
     "name": ["Niharika Kumar","S. Eesha"],
     "project": "Untangle",
-    "description": "This app aims at providing a common platform to our college for the doubts and grievances solving of the students.It will help to bridge the gap between the administration,student body and the clubs.",
+    "description": "This app aims at providing a common platform to our college for the doubts and grievances solving of the students. It will help to bridge the gap between the administration, student body and the clubs.",
     "links": {"github":"https://github.com/GeeeksNotNerds/UNTANGLE"},
     "images": "untangle.jpg"
   },
@@ -128,7 +128,7 @@
   {
     "name": ["Pratik Bedre"],
     "project": "WindHack ",
-    "description": "Modelling wind turbine power output using dataset available on Kaggle. Developed for IBM Data Hack'20.Tech Stack : PyTorch, CatBoost, Flask",
+    "description": "Modelling wind turbine power output using dataset available on Kaggle. Developed for IBM Data Hack'20. Tech Stack : PyTorch, CatBoost, Flask",
     "links": {"github":"https://github.com/pratikb2805/WindHack"},
     "images": ""
   },
@@ -205,7 +205,7 @@
   {
     "name": ["Anushka Mittal"],
     "project": "Crytocurrency App",
-    "description": "It is a React-Native App used for tracking prices of various coins and to know the percent change in their prices per hour ,per day and per week.",
+    "description": "It is a React-Native App used for tracking prices of various coins and to know the percent change in their prices per hour, per day and per week.",
     "links": {"github":"https://github.com/anushkamittal/Crytocurrency"},
     "images": "anushka-Crypto.png"
   },
@@ -247,14 +247,14 @@
   {
     "name": ["Aniket Teotia"],
     "project": "FaceBot",
-    "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.",
+    "description": "Project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. We intend to add additional features using trigger words.",
     "links": {"github":"https://github.com/anikett12/Face-Recognition"},
     "images": ""
   },
   {
     "name": ["Dev Vats"],
     "project": "FaceBot",
-    "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.\n\n",
+    "description": "Project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. We intend to add additional features using trigger words.\n\n",
     "links": {"github":"https://github.com/devvats/FaceBot"},
     "images": ""
   },
@@ -275,14 +275,14 @@
   {
     "name": ["NIKHIL"],
     "project": "voltage tester of battery",
-    "description": "arduino based voltage tester which tells about battery voltage",
+    "description": "Arduino based voltage tester which tells about battery voltage",
     "links": {"github":"https://github.com/nikarora1111/voltage-tester-of-battery-using-arduino.git"},
     "images": ""
   },
   {
     "name": ["NIKHIL","Perul Jain"],
     "project": "obstacle avoiding bot",
-    "description": "an autonomous bot able to the path with obstacle between path",
+    "description": "An autonomous bot able to the path with obstacle between path",
     "links": {},
     "images": ""
   },
@@ -331,21 +331,21 @@
   {
     "name": ["Mayank Kumar"],
     "project": "Score Feeder",
-    "description": "web crawler developed by cricbuzz python library which fetches live scores,full score card and commentry.",
+    "description": "Web crawler developed by cricbuzz python library which fetches live scores, full score card and commentry.",
     "links": {"github":"https://github.com/Mk-ism/Score-card-viewer"},
     "images": ""
   },
   {
     "name": ["Mayank kumar"],
     "project": "Keylogger sender",
-    "description": "key strokes hacking tool developed using pyhook library, which sends strokes data to the server.",
+    "description": "Key strokes hacking tool developed using pyhook library, which sends strokes data to the server.",
     "links": {},
     "images": ""
   },
   {
     "name": ["Mayank kumar"],
     "project": "Image downloader and url fetcher",
-    "description": "python scrapping tool that downloads all image in a webpage and shows all urls ,which is used for furter pentesting.",
+    "description": "Python scrapping tool that downloads all image in a webpage and shows all urls , which is used for furter pentesting.",
     "links":{"github":"https://github.com/Mk-ism/Image_downloaderhttps://github.com/Mk-ism/Fetch-urls"} ,
     "images": ""
   },
@@ -366,21 +366,21 @@
   {
     "name": ["Saloni Mohta","Anushka Mittal","Aayush Ahuja","Raj Rani"],
     "project": "The-Q",
-    "description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) .Starting on 26.10.18.",
+    "description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) . Starting on 26.10.18.",
     "links": {"github":"https://github.com/anushkamittal/Geeks_and_Freaks"},
     "images": ""
   },
   {
     "name": ["Rishabh Rajput"],
     "project": "Advanced sentiment analysis based Twitter support bot for #MeToo",
-    "description": "??Used Natural Language processing and Machine learning algorithm to do a Sentiment Analysis and grade a #MeToo post. ??Validated the genuinity of the post on the basis of polarity and factuality. ?�Analyzed emotion of the post & performed tasks such as re-tweeting the genuine post, and commenting supportive solution.",
+    "description": "Used Natural Language processing and Machine learning algorithm to do a Sentiment Analysis and grade a #MeToo post. Validated the genuinity of the post on the basis of polarity and factuality. Analyzed emotion of the post & performed tasks such as re-tweeting the genuine post, and commenting supportive solution.",
     "links": {"github":"https://github.com/rrishabh145/Advanced-sentiment-analysis-based-Twitter-support-bot-for-MeToo"},
     "images": ""
   },
   {
     "name": ["Rishabh Rajput"],
     "project": "Time series forecasting with LSTM neural network in Keras",
-    "description": "??Made multiple models to solve a forecasting problem where, given the weather conditions and pollution for prior hours, pollution at the next hour was predicted using LSTM neural network on time series data. ??Extended to generalize for forecasting on multivariate as well as univariate time series data of any type.",
+    "description": "Made multiple models to solve a forecasting problem where, given the weather conditions and pollution for prior hours, pollution at the next hour was predicted using LSTM neural network on time series data. Extended to generalize for forecasting on multivariate as well as univariate time series data of any type.",
     "links": {},
     "images": ""
   },
@@ -415,7 +415,7 @@
   {
     "name": ["Ali Sabir","Osama Azmi"],
     "project": "CodeOnPaper",
-    "description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code.Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
+    "description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code. Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
     "links":{"github":"https://github.com/hackabit18/Gizmos"} ,
     "images": ""
   },

@@ -1,6 +1,6 @@
 [
   {
-    "name": ["Piyush Pandey","Pawan Sahu"],
+    "name": ["Piyush Pandey, ","Pawan Sahu "],
     "project": "Face-GAN",
     "description": "Generating Human Faces in an unsupervised way with the help of WGAN using pytorch lightning framework",
     "links": {"github":"https://github.com/P-yushh/Face-GAN"},
@@ -14,7 +14,7 @@
     "images": "Click-ism.png"
   },
   {
-    "name": ["Rishabh Tiwari","Ridhish Jain","Rishabh Aggarwal","Nainesh Hulke"],
+    "name": ["Rishabh Tiwari, ","Ridhish Jain, ","Rishabh Aggarwal, ","Nainesh Hulke "],
     "project": "Medidoc",
     "description": "AI based medical app-web platform for prognosis of severe yet curable diseases like Diabetic Retinopathy, Brain Tumor, Skin Cancer, etc.",
     "links": {"github":"https://drive.google.com/drive/folders/1Ivls8uP5x2iI5QzlPhCL_ZaL8G7CQOEm"},
