@@ -1,9 +1,164 @@
-[ {
-  "name": ["Tejus"],
-  "project": "MNIST Regeneration using Generative Adverserial Network(GAN)",
-  "description": "Recreated the Handwritten Digits from the MNIST Dataset using a Generative Adversarial Network(GAN), an implementation of \"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks\" (https://arxiv.org/pdf/1511.06434) paper.",
-  "links": {"github":"https://github.com/gktejus/GAN-for-MNIST"},
-  "images": "tejus-mnist.png"
+[ 
+  {
+    "name": ["Rishabh Tiwari","Ridhish Jain","Rishabh Aggarwal","Nainesh Hulke"],
+    "project": "Medidoc",
+    "description": "AI based medical app-web platform for prognosis of severe yet curable diseases like Diabetic Retinopathy, Brain Tumor, Skin Cancer, etc.",
+    "links": {"github":"https://drive.google.com/drive/folders/1Ivls8uP5x2iI5QzlPhCL_ZaL8G7CQOEm"},
+    "images": "medidoc.png"
+  },
+  {
+    "name": ["Chirag Jain","Ayush Singh","Sachin Shukla","Prince Arya","Saharsh Singh"],
+    "project": "Sky Detector App",
+    "description": "A cross-platform mobile app for automatically detecting sky pixels in a photograph and calculate the angle of elevation for each vertical column. It can be used for analysis of solar energy potential in an urban setting.",
+    "links": {"github":"https://github.com/cjchirag7/sky-detector/"},
+    "images": "skyDetectcj.jpeg"
+  },
+  {
+    "name": ["Aman Dwivedi"],
+    "project": "MedBuddy",
+    "description": "A web platform which connects doctors, patients and services like ambulance provider. Patient can choose a date and doctor to consult, the system will automatically generate appointment time based on doctor's schedule. Patient can also view his current and past appointments and book ambulance service. Doctor on the other hand can accept/reject the appointment, view all his current and past appintment and upload detailed prescription for the patient. The website is hosted at https://hospital-help.herokuapp.com/",
+    "links": {"github":"https://github.com/Aman-Codes/HospitalWebsite"},
+    "images": "medBuddy.png"
+  },
+  {
+    "name": ["Chirag Jain"],
+    "project": "Click-ISM",
+    "description": "A campus portal that provides a Market Hub with some unique features of ‘unrestricted bidding’ and ‘product verification’. It allows the students to upload and sell their old products, on which other students can place bids within a range allowed by the seller.",
+    "links": {"github":"https://github.com/cjchirag7/click-ism"},
+    "images": "Click-ism.png"
+  },
+  {
+    "name": ["Ishan Bhandari"],
+    "project": "DCGAN ",
+    "description": "Implementation of DCGAN on Pytorch framework and trained on The Stanford Dogs Dataset",
+    "links": {"github":"https://github.com/ishanbhandari-19/DCGAN-Pytorch"},
+    "images": "dcgan.png"
+  },
+  {
+    "name": ["Bhavesh Tangirala"],
+    "project": "Knowledge Tracing for Online Learning",
+    "description": "Modeling student's knowledge over time using Riiid's EdNet dataset comprising of 100M+ student interactions. EDA and Feature Engineering was performed on the data and models were trained on important features.",
+    "links": {"github":"https://github.com/bhaveshtangirala786/Knowledge-Tracing-for-Online-Learning"},
+    "images": "knowledgeTracingBhavesh.png"
+  },
+  {
+    "name": ["Pawan Raj","Mihir Jichkar"],
+    "project": "Sammy",
+    "description": "Sammy, an advanced video player that enables understanding of videos for the visually-disabled and quicker navigation for everyone",
+    "links": {"github":"https://github.com/myselfpawanraj/sammy-android"},
+    "images": "sammy.png"
+  },
+  {
+    "name": ["Hritik Raj"],
+    "project": "JotIt",
+    "description": "It is a VSCode extension which enables user to store important screenshots and text, and enables a fast lookup into them.",
+    "links": {"github":"https://github.com/Cyber-Labs/jot-it"},
+    "images": "jotit.png"
+  },
+  {
+    "name": ["Amarsh Jain"],
+    "project": "CrackItUp",
+    "description": "CrackITup is a simple, user-friendly quiz conducting website in which institutions can organize quiz competitions. Intitutions can also release selected students' lists according to their cutoff.",
+    "links": {"github":"https://github.com/mmaj5524/crackITup"},
+    "images": "crackitUp.png"
+  },
+  {
+    "name": ["Ankesh Raj","Pritam Roy","Ali Asgar Saifee","Saswata Som"],
+    "project": "VITON - a Virtual try on system",
+    "description": "TryFirst is an interactive web-app which benefits users by allowing them to try-on a particular cloth to see how it suits them. Thus, allowing consumers to virtually try on clothes will not only enhance their shopping experience, transforming the way people shop for clothes, but also save cost for retailer.",
+    "links": {"github":"https://github.com/JaZz-9/Try-First"},
+    "images": "viton.png"
+  },
+  {
+    "name": ["Bharath Raj S"],
+    "project": "Depth Estimation ",
+    "description": "Estimating the depth map of an image, using Unet. Dataset was created from youtube videos related to Mannequin Challenge",
+    "links": {"github":"https://github.com/rath772k/Depth-estimation-using-Unet"},
+    "images": ""
+  },
+  {
+    "name": ["Chetan Pandey","Prakrit Raj","Saksham Aggarwal","Hritik Raj"],
+    "project": "Health Lab",
+    "description": "A deep-learning framework that will segment the affected part of the brain in the MRI scans along with predicting severity of the alzheimer's disease which is attained by two different models.",
+    "links": {"github":"https://github.com/chetanpandey1266/Health-Lab"},
+    "images": "healthLab.png"
+  },
+  {
+    "name": ["Chetan Pandey","Prakrit Raj","Hritik Raj"],
+    "project": "Medilab",
+    "description": "Medilab is an interactive web application that can make diagnosis of pulmonary tuberculosis much easier than before. With a deep learning backend, our web app will diagnosis pulmonary tuberculosis within seconds using x-ray chest image of the patient.",
+    "links": {"github":"https://github.com/chetanpandey1266/Hack-In-India-Team-CyberLabs"},
+    "images": "medilab.png"
+  },
+  {
+    "name": ["Harsh Mishra","Niharika Kumar","Taneesh Gupta"],
+    "project": "Medivision",
+    "description": "Medivision is an interactive web application as well as android application that can make diagnosis of Covid19, Brain Tumor, Breast Cancer, Eye Blindness, Pneumonia, Alzymer, Skin Cancer as well as provide the precautions to cure the disease",
+    "links": {"github":"https://github.com/tanish-g/HackNagpur-1"},
+    "images": "medivision.png"
+  },
+  {
+    "name": ["Taneesh Gupta","Harsh Mishra"],
+    "project": "Bird Call Identification",
+    "description": "Identifying a wide variety of bird vocalizations in soundscape recordings using CNN by generating melspectrogram images of audio. There might be anthropogenic sounds (e.g., airplane overflights) or other bird and non-bird (e.g., chipmunk) calls in the background, with a particular labeled bird species in the foreground which we are finding using our machine learning models",
+    "links": {"github":"https://github.com/tanish-g/Cornell-Birdcall-Identification"},
+    "images": "Birdcall.png"
+  },
+  {
+    "name": ["Pawan Sahu","Piyush Pandey","Peeyush Yadav","Himanshu Pardhi"],
+    "project": "Weed Whacker",
+    "description": "Deep-learning model to identify and classify weed plants deployed in an android application. By simply pointing your phone at the plant and a single snap, the app will tell you whether the query plant is a weed or not along with its full description.",
+    "links": {"github":"https://github.com/Pawan-KS/Weed-Whacker"},
+    "images": "weedWhacker.jpg"
+  },
+  {
+    "name": ["Niharika Kumar","S. Eesha"],
+    "project": "Untangle",
+    "description": "This app aims at providing a common platform to our college for the doubts and grievances solving of the students. It will help to bridge the gap between the administration, student body and the clubs.",
+    "links": {"github":"https://github.com/GeeeksNotNerds/UNTANGLE"},
+    "images": "untangle.jpg"
+  },
+  {
+    "name": ["Piyush Pandey","Pawan Sahu"],
+    "project": "Face-GAN",
+    "description": "Generating Human Faces in an unsupervised way with the help of WGAN using pytorch lightning framework",
+    "links": {"github":"https://github.com/P-yushh/Face-GAN"},
+    "images": "face_gan.png"
+  },
+  {
+    "name": ["Pratik Bedre"],
+    "project": "WindHack ",
+    "description": "Modelling wind turbine power output using dataset available on Kaggle. Developed for IBM Data Hack'20. Tech Stack : PyTorch, CatBoost, Flask",
+    "links": {"github":"https://github.com/pratikb2805/WindHack"},
+    "images": ""
+  },
+  {
+    "name": ["Aryan Karn"],
+    "project": "fBlogger",
+    "description": "A fashion blogging website,where user can read blogs on fashion trends and can also create his/her own blog.",
+    "links": {"github":"https://github.com/arkarn04/fBlogger"},
+    "images": "fBlogger.png"
+  },
+  {
+    "name": ["Pratik Bedre","Saksham Aggarwal"],
+    "project": "SIIM ISIC Melanoma Classification",
+    "description": "SIIM-ISIC Melanoma Classification ",
+    "links": {"github":"https://github.com/pratikb2805/siim-isic-melanoma-classification"},
+    "images": ""
+  },
+  {
+    "name": ["Sandeep Kumar Auddy"],
+    "project": "Pantomath",
+    "description": "Pantomath is a quizing website where one can challenge other users. Both the users will be given 5 random questions. The winner will be awareded with an increase in their rank (depending upon noth the margin of win, and the difference of rank between the two players)",
+    "links": {"github":"https://github.com/SandeepKumarAuddy/pantomath-quiz"},
+    "images": "pantomath.png"
+  },
+  {
+    "name": ["Tejus"],
+    "project": "MNIST Regeneration using Generative Adverserial Network(GAN)",
+    "description": "Recreated the Handwritten Digits from the MNIST Dataset using a Generative Adversarial Network(GAN), an implementation of \"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks\" (https://arxiv.org/pdf/1511.06434) paper.",
+    "links": {"github":"https://github.com/gktejus/GAN-for-MNIST"},
+    "images": "tejus-mnist.png"
   },
   {
     "name": ["Perul Jain","Vanshika Arora","Shridhar Goel"],
@@ -50,7 +205,7 @@
   {
     "name": ["Anushka Mittal"],
     "project": "Crytocurrency App",
-    "description": "It is a React-Native App used for tracking prices of various coins and to know the percent change in their prices per hour ,per day and per week.",
+    "description": "It is a React-Native App used for tracking prices of various coins and to know the percent change in their prices per hour, per day and per week.",
     "links": {"github":"https://github.com/anushkamittal/Crytocurrency"},
     "images": "anushka-Crypto.png"
   },
@@ -92,14 +247,14 @@
   {
     "name": ["Aniket Teotia"],
     "project": "FaceBot",
-    "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.",
+    "description": "Project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. We intend to add additional features using trigger words.",
     "links": {"github":"https://github.com/anikett12/Face-Recognition"},
     "images": ""
   },
   {
     "name": ["Dev Vats"],
     "project": "FaceBot",
-    "description": "project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. we intend to add additional features using trigger words.\n\n",
+    "description": "Project includes face recognition , and then playing any message that might have been left for the person as well as recording message for some other person. We intend to add additional features using trigger words.\n\n",
     "links": {"github":"https://github.com/devvats/FaceBot"},
     "images": ""
   },
@@ -120,14 +275,14 @@
   {
     "name": ["NIKHIL"],
     "project": "voltage tester of battery",
-    "description": "arduino based voltage tester which tells about battery voltage",
+    "description": "Arduino based voltage tester which tells about battery voltage",
     "links": {"github":"https://github.com/nikarora1111/voltage-tester-of-battery-using-arduino.git"},
     "images": ""
   },
   {
     "name": ["NIKHIL","Perul Jain"],
     "project": "obstacle avoiding bot",
-    "description": "an autonomous bot able to the path with obstacle between path",
+    "description": "An autonomous bot able to the path with obstacle between path",
     "links": {},
     "images": ""
   },
@@ -176,21 +331,21 @@
   {
     "name": ["Mayank Kumar"],
     "project": "Score Feeder",
-    "description": "web crawler developed by cricbuzz python library which fetches live scores,full score card and commentry.",
+    "description": "Web crawler developed by cricbuzz python library which fetches live scores, full score card and commentry.",
     "links": {"github":"https://github.com/Mk-ism/Score-card-viewer"},
     "images": ""
   },
   {
     "name": ["Mayank kumar"],
     "project": "Keylogger sender",
-    "description": "key strokes hacking tool developed using pyhook library, which sends strokes data to the server.",
+    "description": "Key strokes hacking tool developed using pyhook library, which sends strokes data to the server.",
     "links": {},
     "images": ""
   },
   {
     "name": ["Mayank kumar"],
     "project": "Image downloader and url fetcher",
-    "description": "python scrapping tool that downloads all image in a webpage and shows all urls ,which is used for furter pentesting.",
+    "description": "Python scrapping tool that downloads all image in a webpage and shows all urls , which is used for furter pentesting.",
     "links":{"github":"https://github.com/Mk-ism/Image_downloaderhttps://github.com/Mk-ism/Fetch-urls"} ,
     "images": ""
   },
@@ -211,21 +366,21 @@
   {
     "name": ["Saloni Mohta","Anushka Mittal","Aayush Ahuja","Raj Rani"],
     "project": "The-Q",
-    "description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) .Starting on 26.10.18.",
+    "description": "An app which aims to reduce the stress of a reality show contestant of waiting in queues for their turn by digitizing the process. Will be implemented using React Native and Restful APIs of Django(Python) . Starting on 26.10.18.",
     "links": {"github":"https://github.com/anushkamittal/Geeks_and_Freaks"},
     "images": ""
   },
   {
     "name": ["Rishabh Rajput"],
     "project": "Advanced sentiment analysis based Twitter support bot for #MeToo",
-    "description": "??Used Natural Language processing and Machine learning algorithm to do a Sentiment Analysis and grade a #MeToo post. ??Validated the genuinity of the post on the basis of polarity and factuality. ?�Analyzed emotion of the post & performed tasks such as re-tweeting the genuine post, and commenting supportive solution.",
+    "description": "Used Natural Language processing and Machine learning algorithm to do a Sentiment Analysis and grade a #MeToo post. Validated the genuinity of the post on the basis of polarity and factuality. Analyzed emotion of the post & performed tasks such as re-tweeting the genuine post, and commenting supportive solution.",
     "links": {"github":"https://github.com/rrishabh145/Advanced-sentiment-analysis-based-Twitter-support-bot-for-MeToo"},
     "images": ""
   },
   {
     "name": ["Rishabh Rajput"],
     "project": "Time series forecasting with LSTM neural network in Keras",
-    "description": "??Made multiple models to solve a forecasting problem where, given the weather conditions and pollution for prior hours, pollution at the next hour was predicted using LSTM neural network on time series data. ??Extended to generalize for forecasting on multivariate as well as univariate time series data of any type.",
+    "description": "Made multiple models to solve a forecasting problem where, given the weather conditions and pollution for prior hours, pollution at the next hour was predicted using LSTM neural network on time series data. Extended to generalize for forecasting on multivariate as well as univariate time series data of any type.",
     "links": {},
     "images": ""
   },
@@ -260,7 +415,7 @@
   {
     "name": ["Ali Sabir","Osama Azmi"],
     "project": "CodeOnPaper",
-    "description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code.Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
+    "description": "An app which can compile a handwritten code i.e. by using the image of a handwritten code. Basically it first trasforms the image into text using optical character recognition and then compiles that text. Starting 26/10/2018",
     "links":{"github":"https://github.com/hackabit18/Gizmos"} ,
     "images": ""
   },
