@@ -87,10 +87,6 @@ class Alumni extends Component {
             <h1>2020</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2020")}</div>
-          <center>
-            <h1>2021</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2021")}</div>
         </div>
       </div>
     );
