@@ -53,21 +53,6 @@ class About extends Component {
             </div>
             <div className="two-column">
               <p>
-                You should join Cyber Labs if you are looking for a practical
-                hand into implementing various simple and advanced affairs which
-                may range from writing some scripts for searching a file on your
-                PC to creating your own wifi .exe or creating our own fancy
-                displays. As it works on collective collaboration, be ready to
-                keep your eyes and ears open to share some cognitives with the
-                peers.
-              </p>
-            </div>
-            <div className="clear" />
-            <div className="one-column">
-              <p>Who should join Cyber Labs?</p>
-            </div>
-            <div className="two-column">
-              <p>
                 Cyber Labs is an initiative where students create some awesome
                 projects which may fall in any of the three domains : Solving
                 Social Problems
@@ -76,6 +61,21 @@ class About extends Component {
                 with it
                 <br />
                 Creating some really cool stuff
+              </p>
+            </div>
+            <div className="clear" />
+            <div className="one-column">
+              <p>Who should join Cyber Labs?</p>
+            </div>
+            <div className="two-column">
+              <p>
+                You should join Cyber Labs if you are looking for a practical
+                hand into implementing various simple and advanced affairs which
+                may range from writing some scripts for searching a file on your
+                PC to creating your own wifi .exe or creating our own fancy
+                displays. As it works on collective collaboration, be ready to
+                keep your eyes and ears open to share some cognitives with the
+                peers.
               </p>
             </div>
             <div className="clear" />
