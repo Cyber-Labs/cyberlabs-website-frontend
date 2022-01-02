@@ -1112,7 +1112,7 @@
     },
     {
       "name": "Aryamaan Thakur",
-      "team": "aryamaan.thakur@outlook.com",
+      "team": "Machine Learning",
       "email": "20je0190@am.iitism.ac.in",
       "contactNo": 8407025496,
       "links":{
@@ -1623,7 +1623,7 @@
     },
     {
       "name": "Ayush Budhiraja",
-      "team": "Cyber Secrurity",
+      "team": "Cyber Security",
       "email": "20je0229@ece.iitism.ac.in",
       "contactNo": 9911845032,
       "links":{
@@ -1761,6 +1761,20 @@
       },
       "about": "Fullstack web developer || Mining undergrad || C++ ",
       "img": "",
+      "yearOfPassing": 2024
+    },
+    {
+      "name": "Janhavi Singh",
+      "team": "Machine Learning",
+      "email": "20je0443@ece.iitism.ac.in",
+      "contactNo": 8303922595,
+      "links":{
+        "github": "https://github.com/janhavi-singh ",
+        "linkedin": "https://www.linkedin.com/in/janhavi-singh-3a024418b/",
+        "facebook": "https://www.facebook.com/janhavi.singh.735944/"
+      },
+      "about": "ECE Undergrad || ML - DL Enthusiast || Interested in IoT || Stay away from my headphones ",
+      "img": "janhavi-singh.jpg",
       "yearOfPassing": 2024
     }
 ]
