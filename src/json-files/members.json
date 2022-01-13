@@ -763,20 +763,6 @@
         "yearOfPassing": 2023
     },
     {
-        "name": "Shirin Kaul",
-        "team": "Cyber Security",
-        "email": "shirin.19JE0773@pe.iitism.ac.in ",
-        "contactNo": 9653940285,
-        "links":{
-          "github": "https://github.com/hyperloop11",
-        "linkedin": "https://www.linkedin.com/in/shirin-kaul-b09282190",
-        "others":"https://www.quora.com/profile/Shirin-Kaul-3?ch=10&share=c55b0e73&srid=WIEXz"
-        },
-        "about": "Python, C++, Kali linux, Cyber-scecurity, CP beginner",
-        "img": "shirin-kaul.jpg",
-        "yearOfPassing": 2023
-    },
-    {
         "name": "Mohit Agarwal",
         "team": "Cyber Security",
         "email": "masrt.19JE0532@ce.iitism.ac.in",
@@ -789,35 +775,6 @@
         },
         "about": "Wandering in what was cool, eons ago.",
         "img": "mohit-agrawal.jpeg",
-        "yearOfPassing": 2023
-    },
-    {
-        "name": "Sayak Maji",
-        "team": "Cyber Security",
-        "email": "sayak.19je0757@me.iitism.ac.in",
-        "contactNo": 8617475008,
-        "links":{
-          "github": "https://github.com/Reverse25",
-        "linkedin": "https://www.linkedin.com/in/sayak-maji-7ab0991a5/",
-        "website":"https://reverse25.github.io/jekyll-theme-textalic/",
-        "facebook":"https://www.facebook.com/profile.php?id=100009071642270"
-        },
-        "about": "C++, Java,Kali Linux, Cyber security enthusiast, CTFs",
-        "img": "https://drive.google.com/file/d/1743PKdPuGa9FCAh9bQra7pR5N2RGGKZE/view?usp=sharing",
-        "yearOfPassing": 2023
-    },
-    {
-        "name": "Srishti Sharon Kindo",
-        "team": "Cyber Security",
-        "email": "srishti.19je0822@cve.iitism.ac.in",
-        "contactNo": 7470405577,
-        "links":{
-          "github": "https://github.com/srishtisharon",
-        "linkedin": "https://www.linkedin.com/in/srishti-sharon-kindo-094b641a4/",
-        "facebook":"https://www.facebook.com/srishtisharon/"
-        },
-        "about": "C++,Python,Kali linux,Cyber Security , CTFs",
-        "img": "srishti-sharon-kindo.jpg",
         "yearOfPassing": 2023
     },
     {
@@ -834,19 +791,6 @@
         },
         "about": "Cyber Security Enthusiast, CTF Player, Webapps Pentester ",
         "img": "jai-gupta.jpg",
-        "yearOfPassing": 2023
-    },
-    {
-        "name": "Abhishek Kumar",
-        "team": "Cyber Security",
-        "email": "abhishek.18je0026@cse.iitism.ac",
-        "contactNo": 9135508555,
-        "links":{
-          "github": "https://github.com/deadshot1928",
-        "linkedin": "https://www.linkedin.com/in/abhishek-kumar-5ba135179"
-        },
-        "about": "Cryptography, Web Security, Software developer",
-        "img": "https://drive.google.com/file/d/1Q5ibKQHgfMABeV-dm2949KMx_KztCtYb/view?usp=drivesdk",
         "yearOfPassing": 2023
     },
     {
