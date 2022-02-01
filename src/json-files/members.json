@@ -447,19 +447,6 @@
   },
   {
     "yearOfPassing": "2022",
-    "email": "dolamanee6122@gmail.com",
-    "name": "Dolamanee Naik",
-    "team": "Cyber Security",
-    "contactNo": "6264701778",
-    "about": "Designing Debugging and Breaking programs recursively.",
-    "links": {
-      "github": "",
-      "linkedin": ""
-    },
-    "img": "dolamanee-naik.jpg"
-  },
-  {
-    "yearOfPassing": "2022",
     "email": "saswatasom2000@gmail.com",
     "name": "Saswata Som",
     "team": "Cyber Security",
@@ -1578,7 +1565,7 @@
         "facebook": "https://www.facebook.com/ayush.budhiraja7765"
       },
       "about": "ECE Undergrad|| Full stack Developer||Competitive coder||interested in Startups and Business ",
-      "img": "ayush-budhiraja.jpg",
+      "img": "ayush-budhiraja.jpeg",
       "yearOfPassing": 2024
     },
     {

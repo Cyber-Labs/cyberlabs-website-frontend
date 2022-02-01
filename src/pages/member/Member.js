@@ -62,27 +62,49 @@ class Member extends Component {
             </center>
           </div>
         </div>
-        <center>
+        <div class="divisions">
+          <ul>
+            <li>
+              <a className="hover-effect" href="#web-development">Web Development</a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#machine-learning">Machine Learning</a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#android">Android</a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#graphic-design">Graphic Design</a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#hardware">Hardware</a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#cyber-security">Cyber Security</a>
+            </li>
+          </ul>
+        </div>
+        <center id="web-development">
           <h1>Web Development</h1>
         </center>
         <div className="members-grid">{this.renderGrid().webD}</div>
-        <center>
+        <center id="machine-learning">
           <h1>Machine Learning</h1>
         </center>
         <div className="members-grid">{this.renderGrid().ml}</div>
-        <center>
+        <center id="android">
           <h1>Android</h1>
         </center>
         <div className="members-grid">{this.renderGrid().androidD}</div>
-        <center>
+        <center id="graphic-design">
           <h1>Graphic Design</h1>
         </center>
         <div className="members-grid">{this.renderGrid().graphicD}</div>
-        <center>
+        <center id="hardware">
           <h1>Hardware</h1>
         </center>
         <div className="members-grid">{this.renderGrid().hardware}</div>
-        <center>
+        <center id="cyber-security">
           <h1>Cyber Security</h1>
         </center>
         <div className="members-grid">{this.renderGrid().infoSec}</div>
