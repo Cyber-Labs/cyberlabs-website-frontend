@@ -96,6 +96,16 @@ class Header extends Component {
                   About
                 </Link>
               </li>
+              <li>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://cyber-labs.github.io/sos"
+                  style={{color: "red"}}
+                >
+                  SOS
+                </a>
+              </li>
             </ul>
             <ul className="social-icon">
               <div className="social-index">
