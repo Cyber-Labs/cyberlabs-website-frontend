@@ -39,6 +39,7 @@ class Member extends Component {
           break;
         case "Blockchain":
           blockchain.push(<MemberCard info={data[i]} />);
+          break;
         default:
       }
     }
