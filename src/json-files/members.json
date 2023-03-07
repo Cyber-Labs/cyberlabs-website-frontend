@@ -408,32 +408,6 @@
   },
   {
     "yearOfPassing": "2022",
-    "email": "kediarahul712@gmail.com",
-    "name": "Rahul Kedia",
-    "team": "Hardware",
-    "contactNo": "8409250577",
-    "about": "Interested in Computer Vision and Image Processing.",
-    "links": {
-      "github": "https://github.com/KEDIARAHUL135",
-      "linkedin": "https://www.linkedin.com/in/rahul-kedia-3a6533173"
-    },
-    "img": "rahul-kedia.jpg"
-  },
-  {
-    "yearOfPassing": "2022",
-    "email": "sheikh.mamoon.18je0823@mech.iitism.ac.in",
-    "name": "Sk Mohammed Mamoon Mondal",
-    "team": "Hardware",
-    "contactNo": "9164584708",
-    "about": "Enthusiast in robotics and IoT",
-    "links": {
-      "github": "https://github.com/atmamoon?tab=repositories",
-      "linkedin": "https://www.linkedin.com/in/sheikh-mamoon-510b40194"
-    },
-    "img": "mamoon.jpg"
-  },
-  {
-    "yearOfPassing": "2022",
     "email": "mayankkumar2652@gmail.com",
     "name": "Mayank kumar",
     "team": "Cyber Security",
@@ -706,47 +680,6 @@
     },
     "about": "UX/UI Designer, User Reseach, Usability analyst, Illustration Designer",
     "img": "vikrant-chandra.jpg",
-    "yearOfPassing": 2023
-  },
-  {
-    "name": "Aman Kumar",
-    "team": "Hardware",
-    "email": "aman.19je0105@mc.iitism.ac.in",
-    "contactNo": 7091580114,
-    "links": {
-      "github": "https://github.com/amanism19",
-      "linkedin": "https://www.linkedin.com/in/aman-kumar-930854192"
-    },
-    "about": "Robotics and web developer. experience in Arduino, Django and firebase",
-    "img": "aman-kumar.jpg",
-    "yearOfPassing": 2024
-  },
-  {
-    "name": "Jay Sharma",
-    "team": "Hardware",
-    "email": "jay.19je0398@cse.iitism.ac.in",
-    "contactNo": 9330378217,
-    "links": {
-      "github": "https://github.com/JaySharma1048576",
-      "linkedin": "https://www.linkedin.com/in/jay-sharma-4ab3881a4",
-      "facebook": "https://m.facebook.com/profile.php?id=100040849681193"
-    },
-    "about": "Robotics, Arduino, C, C++, Java, Competitive Coder",
-    "img": "",
-    "yearOfPassing": 2023
-  },
-  {
-    "name": "Shubham Jamuar",
-    "team": "Hardware",
-    "email": "shubham.19je0794@mc.iitism.ac.in",
-    "contactNo": 8709255038,
-    "links": {
-      "github": "https://github.com/ShubhamJamuar",
-      "linkedin": "https://www.linkedin.com/in/shubham-jamuar-7263841a4",
-      "facebook": "https://www.facebook.com/profile.php?id=100013051249303"
-    },
-    "about": "Arduino, C++,ML Enthusiast, Introductory ML Projects of Classification and Regression",
-    "img": "shubham-jamuar.jpeg",
     "yearOfPassing": 2023
   },
   {
@@ -1712,7 +1645,7 @@
     "team": "Machine Learning",
     "email": "21je1014@iitism.ac.in",
     "contactNo": 8239090199,
-    "about": "MnC Undergrad || Anime Lover || Foodie || Alive Yet",
+    "about": "CSE Undergrad || ML and DL Enthusiast || Anime lover",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/VaibhavJain05",
@@ -1727,7 +1660,7 @@
     "team": "Machine Learning",
     "email": "21je0480@iitism.ac.in",
     "contactNo": 9156201297,
-    "about": "Civil Undergrad | AI Zealot | Aspiring AI Developer | Casual Gaming",
+    "about": "Finding the intelligence in Artificial Intelligence🧠 || I speak fluent Tech and Sarcasm🤖",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/Krish-Sahu",
@@ -1741,7 +1674,7 @@
     "team": "Android",
     "email": "21je1050@iitim.ac.in",
     "contactNo": 7999819086,
-    "about": "I am a competitive Peogrammer and an android developer .Hobby of Photography",
+    "about": "CSE Undgrad ,Android, Java,Kotlin,C,C++,Flutter, Retrofit, Architecture ( MVVM), APIs use , Firebase, XML, UI Designing, Competitive Programming",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/Vishal-781",
@@ -1755,7 +1688,7 @@
     "team": "Machine Learning",
     "email": "21je0890@iitism.ac.in",
     "contactNo": 8922910350,
-    "about": "I am an undergrad at IIT Dhanbad. I am interested in learning various fields of artificial intelligence and machine learning. I am learning new things like video editing and digital painting. I am a pluviophile and a hodophile.",
+    "about": "MnC undergrad || AI/DL Enthusiast || kaggler",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/shobhit9sept",
@@ -1929,16 +1862,19 @@
     "img": "abhay_kumar"
   },
   {
-    "name": "Sumit Ravikumar Gupta ",
+    "name": "Sumit Ravikumar Gupta",
     "team": "Cyber Security",
     "email": "21JE0963@iitism.ac.in",
     "contactNo": 9309779260,
-    "about": "A good learner and enthusiast about learning new things in life.Beside that a good sportsman that makes me more cherish than any other thing",
+    "about": "Mathematics and Computing || Information Security Enthusiast || Intrested in learning new things",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/Sumit0673",
       "linkedin": "https://www.linkedin.com/in/sumit-gupta-41a4a0227/",
-      "instagram": "https://www.instagram.com/sumit.__.106"
+      "instagram": "https://www.instagram.com/sumit.__.106",
+      "twitter": "https://twitter.com/i_karmayogi",
+      "quora": "https://www.quora.com/profile/Raghvan-Pareek-1",
+      "facebook": "https://www.facebook.com/raghvan.pareek.7"
     },
     "img": "sumit_ravikumar_gupta.jpg"
   },
@@ -1978,7 +1914,7 @@
     "team": "Android",
     "email": "21je0482@iitism.ac.in",
     "contactNo": 9406380105,
-    "about": "MnC Undergrad || Java, Kotlin, C, C++ || Android Enthusiast",
+    "about": "MnC Undergrad || Love building apps, nowadays in Flutter",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/savitore",
@@ -2145,7 +2081,7 @@
     "team": "Graphic Design",
     "email": "21je0989@iitism.ac.in",
     "contactNo": 8961990725,
-    "about": "UI/UX Designer || Interested in Public speaking and Product Management || Freestyle Dancer || Keen and quick learner",
+    "about": "Petroleum Engineering Undergrad || UI/UX || Product Management || Data Analytics",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/thakursaatwik0506",
@@ -2242,12 +2178,13 @@
     "team": "Machine Learning",
     "email": "21je0951@iitism.ac.in",
     "contactNo": 8178076140,
-    "about": "ML/DL afficianado || loves music || ",
+    "about": "ML aficionado || Shutterbug || Melomaniac || Impetuous",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/pyther-hub",
       "linkedin": "https://www.linkedin.com/in/sudhanshu-rai-8664a2227/"
-    }
+    },
+    "img": "sudhanshu_rai.jpg"
   },
   {
     "name": "Ravneet Singh",
@@ -2309,7 +2246,7 @@
     "team": "Web Development",
     "email": "21je0846@iitism.ac.in",
     "contactNo": 8637831983,
-    "about": "Aspiring full-stack developer || Competitive coding enthusiast",
+    "about": "Full Stack Developer || MNC",
     "yearOfPassing": "2025",
     "links": {
       "github": "https://github.com/Imposterssn",
@@ -2367,5 +2304,349 @@
       "instagram": "https://www.instagram.com/iam_vibhanshu/"
     },
     "img": "vibhanshu_sharma.jpg"
+  },
+  {
+    "name": "Pritam Chakraborty",
+    "team": "Blockchain",
+    "email": "21je0701@iitism.ac.in",
+    "contactNo": 7814343010,
+    "about": "MnC undergrad || Blockchain Enthusiast || Fullstack Developer || Competitive Programmer",
+    "yearOfPassing": "2025",
+    "links": {
+      "github": "https://github.com/toastmaster-Pritam",
+      "linkedin": "https://www.linkedin.com/in/pritam-iitism2002"
+    },
+    "img": "pritam_chakraborty.jpg"
+  },
+  {
+    "name": "Supesh Sinha",
+    "team": "Blockchain",
+    "email": "21je0969@iitism.ac.in",
+    "contactNo": 7070770300,
+    "about": "ECE Undergrad || Tech Savy || Comder || Robotics",
+    "yearOfPassing": "2025",
+    "img": "supesh_sinha.jpg",
+    "links": {
+      "github": "https://github.com/supeshsinha",
+      "linkedin": "https://www.linkedin.com/in/supesh"
+    }
+  },
+  {
+    "name": "Shivam Ojha",
+    "team": "Blockchain",
+    "email": "21je0881@iitism.ac.in",
+    "contactNo": 7715974649,
+    "about": "Mech Undergrad || Blockchain Enthusiast || Wannabe Entrepreneur",
+    "yearOfPassing": "2025",
+    "img": "shivam_ojha.jpg",
+    "links": {
+      "github": "https://github.com/Nova2419",
+      "linkedin": "https://www.linkedin.com/in/shivam-ojha-452070223/"
+    }
+  },
+  {
+    "name": "Hemal Sinha",
+    "team": "Blockchain",
+    "email": "21je0397@gmail.com",
+    "contactNo": 7042567502,
+    "about": "MnC Undergrad || Blockchain Enthusiast || Public Speaking || Full Stack Developer",
+    "yearOfPassing": "2025",
+    "img": "hemal_sinha.jpg",
+    "links": {
+      "github": "https://github.com/Hemal-Sinha",
+      "linkedin": "https://www.linkedin.com/in/hemal-sinha-862041223"
+    }
+  },
+  {
+    "name": "Naman Shankar Srivastava",
+    "team": "Blockchain",
+    "email": "21je0584@iitism.ac.in",
+    "contactNo": 9140656880,
+    "about": "MnC Undergrad || Blockchain Enthusiast || Photographer || Graphic Designer || Love writing Hindi Poems",
+    "yearOfPassing": "2025",
+    "img": "naman_shankar_srivastava.jpg",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/naman-shankar-srivastava-0883ba236/"
+    }
+  },
+  {
+    "name": "Paras Dhumne",
+    "team": "Blockchain",
+    "email": "21je0629@iitism.ac.in",
+    "contactNo": 8830335654,
+    "about": "MnC Undergrad || Blockchain enthusiast || Still exploring",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "github": "https://github.com/Paras0452",
+      "linkedin": "https://www.linkedin.com/in/paras-dhumne-2a0748238/"
+    }
+  },
+  {
+    "name": "Udit Singh Chauhan",
+    "team": "Blockchain",
+    "email": "21je1002@iitism.ac.in",
+    "contactNo": 7489061499,
+    "about": "Physics Undergrad || Blockchain Enthusiast || Photographer || Content writer",
+    "yearOfPassing": "2025",
+    "img": "udit_singh_chauhan.jpg",
+    "links": {
+      "github": "https://github.com/udits6174",
+      "linkedin": "https://www.linkedin.com/in/udit-singh-chauhan-a45292210"
+    }
+  },
+  {
+    "name": "Siddhartha Gaur",
+    "team": "Blockchain",
+    "email": "21je0919@iitism.ac.in",
+    "contactNo": 9599208752,
+    "about": "CSE Undergrad || Blockchain Developer || Web 3 || Full Stack Developer || Competitive Programmer || Tennis Player",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "github": "https://github.com/siddhartha-star-dev"
+    }
+  },
+  {
+    "name": "Srijan",
+    "team": "Blockchain",
+    "email": "21je0941@iitism.ac.in",
+    "contactNo": 8271778460,
+    "about": "ECE Undergrad || BlockChain Enthusiast || Python Developer || Competitive Coder",
+    "yearOfPassing": "2025",
+    "img": "srijan.jpg",
+    "links": {
+      "github": "https://github.com/srij1234"
+    }
+  },
+  {
+    "name": "Anurag Singh",
+    "team": "Blockchain",
+    "email": "21je0147@iitism.ac.in",
+    "contactNo": 8376089173,
+    "about": "MnC undergrad || BlockChain Enthusiast || Front-End developder || photographer",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anurag-singh-b99a48253"
+    }
+  },
+  {
+    "name": "Aryan Shrivastava",
+    "team": "Blockchain",
+    "email": "21je0177@iitism.ac.in",
+    "contactNo": 8368641187,
+    "about": "PE undergrad|| Blockchain Enthusiast || Web3 || Content Writer || Front-End developer",
+    "yearOfPassing": "2025",
+    "img": "aryan_shrivastava.heic",
+    "links": {
+      "github": "https://github.com/Aryan0212",
+      "linkedin": "https://www.linkedin.com/in/aryan-shrivastava-ba91a3232"
+    }
+  },
+  {
+    "name": "vaishnavi pawar",
+    "team": "Blockchain",
+    "email": "21je0640@iitism.ac.in",
+    "contactNo": 8485001150,
+    "about": "Mech Undergra||Blockchain Enthusiast||Photography||Content writer ||electronics Enthusiasts",
+    "yearOfPassing": "2025",
+    "img": "vaishnavi_pawar.jpg",
+    "links": {
+      "github": "https://github.com/vs-29",
+      "linkedin": "https://www.linkedin.com/in/vaishnavi-pawar-944402227/"
+    }
+  },
+  {
+    "name": "Drethi Kapila",
+    "team": "Blockchain",
+    "email": "21je0323@iitism.ac.in",
+    "contactNo": 7021536316,
+    "about": "Mech Undergrad|| Blockchain Enthusiast|| Likes to learn about Astronomy|| Music Lover",
+    "yearOfPassing": "2025",
+    "img": "drethi_kapila.jpg",
+    "links": {
+      "github": "https://github.com/drethikapila",
+      "linkedin": "https://www.linkedin.com/in/drethi-kapila-6719a222a"
+    }
+  },
+  {
+    "name": "Debarun Chakrabortty",
+    "team": "Blockchain",
+    "email": "21je0281@iitism.ac.in",
+    "contactNo": 8780839263,
+    "about": "ECE Undergrad || Blockchain Enthusiast || Game Dev(Animation) ||Competitve Programmer ",
+    "yearOfPassing": "2025",
+    "img": "debarun_chakrabortty.jpg",
+    "links": {
+      "github": "https://github.com/Debarunn1806",
+      "linkedin": "https://www.linkedin.com/in/debarun-chakrabortty-34235b210/"
+    }
+  },
+  {
+    "name": "Aman Agarwal",
+    "team": "Blockchain",
+    "email": "21je0080@iitism.ac.in",
+    "contactNo": 9163080411,
+    "about": "Full Stack Web Developer || Blockchain Developer ||Content Creator|| Fintech Enthusiast || Web 3 || Poetry",
+    "yearOfPassing": "2025",
+    "img": "aman_agarwal.jpg",
+    "links": {
+      "github": "https://github.com/codeamanwal",
+      "linkedin": "www.linkedin.com/in/aman-agarwal2003"
+    }
+  },
+  {
+    "name": "Raja Babu",
+    "team": "Blockchain",
+    "email": "21je0740@iitism.ac.in",
+    "contactNo": 8077468117,
+    "about": "CE undergrad || Computer Vision and NLP learner || Competitive Programmer || Flutist(beginner Level)",
+    "yearOfPassing": "2025",
+    "img": "raja_babu.jpg",
+    "links": {
+      "github": "https://github.com/RajaBabu15",
+      "linkedin": "https://in.linkedin.com/in/rajababu15"
+    }
+  },
+  {
+    "name": "Divyanshu Tyagi",
+    "team": "Blockchain",
+    "email": "21je0321@iitism.ac.in",
+    "contactNo": 8800642059,
+    "about": "ESE undergrad || Blockchain Enthusiast || Competitive Programmer || Full Stack WEB Developer",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "github": "https://github.com/github2python",
+      "linkedin": "https://www.linkedin.com/in/divyanshu-tyagi-07604a224/"
+    }
+  },
+  {
+    "name": "Ayush Ranjan",
+    "team": "Blockchain",
+    "email": "21je0215@iitism.ac.in",
+    "contactNo": 7595983704,
+    "about": "Blockchain Developer || Web Development || Web 3 || Competitive Programmer || Computer Vision || ML Enthusiast ",
+    "yearOfPassing": "2025",
+    "img": "ayush_ranjan.jpg",
+    "links": {
+      "github": "https://github.com/ayush-ranjan-official",
+      "linkedin": "https://www.linkedin.com/in/ayush-ranjan-iit-ism/"
+    }
+  },
+  {
+    "name": "Om Santoshwar",
+    "team": "Blockchain",
+    "email": "21je0614@iitism.ac.in",
+    "contactNo": 8668763094,
+    "about": "Mech undergrad||Blockchain Enthusiast||Web developer ",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "github": "https://github.com/omsant02",
+      "linkedin": "https://www.linkedin.com/in/om-santoshwar-0964a1227"
+    }
+  },
+  {
+    "name": "Sajal Singhal",
+    "team": "Blockchain",
+    "email": "21je0802@iitism.ac.in",
+    "contactNo": 8218633603,
+    "about": "CSE Undergrad || Blockchain Developer || Frontend Developer || Competitive Programmer || Poetry || Singing",
+    "yearOfPassing": "2025",
+    "img": "sajal_singhal.jpg",
+    "links": {
+      "github": "https://github.com/singhalsajal2003",
+      "linkedin": "https://www.linkedin.com/in/sajal-singhal-7b9b79224/"
+    }
+  },
+  {
+    "name": "Anmol Chhabra",
+    "team": "Blockchain",
+    "email": "21je0133@iitism.ac.in",
+    "contactNo": 9468871500,
+    "about": "EE Undergrad || MERN Stack || Laravel || Competitive Programmer || Loves Piano",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "github": "https://github.com/anmolchhabra21",
+      "linkedin": "https://www.linkedin.com/in/anmol-chhabra-41079922a/",
+      "website": "https://anmolchhabra21.github.io/anmolchhabra/"
+    }
+  },
+  {
+    "name": "Vaibhav Kumar Tiwari",
+    "team": "Blockchain",
+    "email": "21je1017@iitism.ac.in",
+    "contactNo": 6386334503,
+    "about": "ECE Undergrad || Competitive Programmer || Blockchain Enthusiast || Loves video editing and animation",
+    "yearOfPassing": "2025",
+    "img": "vaibhav_kumar_tiwari.jpg",
+    "links": {
+      "github": "https://github.com/imvktiwari",
+      "linkedin": "https://www.linkedin.com/in/vaibhav-kumar-tiwari-98a02b238/"
+    }
+  },
+  {
+    "name": "Ronak Shah",
+    "team": "Graphic Design",
+    "email": "21je0859@iitism.ac.in",
+    "contactNo": 8511374535,
+    "about": "I think design! pinkMAN!",
+    "yearOfPassing": "2025",
+    "img": "ronak_shah.jpg",
+    "links": {
+      "github": "https://github.com/j0hnwick1244",
+      "linkedin": "https://www.linkedin.com/in/ronak-shah-74b8b9227/"
+    }
+  },
+  {
+    "name": "Himaanshu Mittal",
+    "team": "Graphic Design",
+    "email": "21je0399@iitism.ac.in",
+    "contactNo": 8169123848,
+    "about": "PRODUCT || UI/UX || DATA",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/himanshu-mittal-aa1944223/"
+    }
+  },
+  {
+    "name": "Rashi Raj",
+    "team": "Graphic Design",
+    "email": "21je0747@iitism.ac.in",
+    "contactNo": 8538933853,
+    "about": "",
+    "yearOfPassing": "2025",
+    "img": "",
+    "links": {}
+  },
+  {
+    "name": "Dheemant Dixit",
+    "team": "Machine Learning",
+    "email": "21je0310@iitism.ac.in",
+    "contactNo": 9936630407,
+    "about": "CSE Undergrad || Wannabe ML Researcher || Trying to provide vision and language to computers",
+    "yearOfPassing": "2025",
+    "img": "dheemant_dixit.jpg",
+    "links": {
+      "github": "https://github.com/Dheemant-Dixit",
+      "linkedin": "https://www.linkedin.com/in/dheemant-dixit-45483b208"
+    }
+  },
+  {
+    "name": "Shreshth Sharma",
+    "team": "Machine Learning",
+    "email": "21je0895@iitism.ac.in",
+    "contactNo": 8005724831,
+    "about": "MnC Undergrad || ML Enthusiast || GPTs stole my art of poetry ",
+    "yearOfPassing": "2025",
+    "img": "shreshth_sharma.jpg",
+    "links": {
+      "github": "https://github.com/ShrenzyPanda",
+      "linkedin": "https://www.linkedin.com/in/shreshth-sharma-799b9b226"
+    }
   }
 ]

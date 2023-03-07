@@ -4,9 +4,9 @@ import data from "../../json-files/members.json";
 class Member extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
-    document.title="Cyber Labs | Members";
-    document.querySelector("meta[name='keywords']").content="Alumni, Cyber Labs, cyberlabs members,ism alumni,cyber labs member";
-    document.querySelector("meta[name='description']").content="Cyber Labs Members";
+    document.title = "Cyber Labs | Members";
+    document.querySelector("meta[name='keywords']").content = "Alumni, Cyber Labs, cyberlabs members,ism alumni,cyber labs member";
+    document.querySelector("meta[name='description']").content = "Cyber Labs Members";
   }
   renderGrid = () => {
     data.sort((a, b) => {
@@ -17,8 +17,8 @@ class Member extends Component {
     let androidD = [];
     let ml = [];
     let infoSec = [];
-    let hardware = [];
     let graphicD = [];
+    let blockchain = [];
     let len = data.length;
     for (i = 0; i < len; i++) {
       switch (data[i].team) {
@@ -34,11 +34,11 @@ class Member extends Component {
         case "Android":
           androidD.push(<MemberCard info={data[i]} />);
           break;
-        case "Hardware":
-          hardware.push(<MemberCard info={data[i]} />);
-          break;
         case "Cyber Security":
           infoSec.push(<MemberCard info={data[i]} />);
+          break;
+        case "Blockchain":
+          blockchain.push(<MemberCard info={data[i]} />);
           break;
         default:
       }
@@ -49,7 +49,7 @@ class Member extends Component {
       graphicD,
       androidD,
       infoSec,
-      hardware
+      blockchain
     };
   };
   render() {
@@ -62,7 +62,7 @@ class Member extends Component {
             </center>
           </div>
         </div>
-        <div class="divisions">
+        <div className="divisions">
           <ul>
             <li>
               <a className="hover-effect" href="#web-development">Web Development</a>
@@ -77,10 +77,10 @@ class Member extends Component {
               <a className="hover-effect" href="#graphic-design">Graphic Design</a>
             </li>
             <li>
-              <a className="hover-effect" href="#hardware">Hardware</a>
+              <a className="hover-effect" href="#cyber-security">Cyber Security</a>
             </li>
             <li>
-              <a className="hover-effect" href="#cyber-security">Cyber Security</a>
+              <a className="hover-effect" href="#blockchain">Blockchain</a>
             </li>
           </ul>
         </div>
@@ -100,14 +100,14 @@ class Member extends Component {
           <h1>Graphic Design</h1>
         </center>
         <div className="members-grid">{this.renderGrid().graphicD}</div>
-        <center id="hardware">
-          <h1>Hardware</h1>
-        </center>
-        <div className="members-grid">{this.renderGrid().hardware}</div>
         <center id="cyber-security">
           <h1>Cyber Security</h1>
         </center>
         <div className="members-grid">{this.renderGrid().infoSec}</div>
+        <center id="blockchain">
+          <h1>Blockchain</h1>
+        </center>
+        <div className="members-grid">{this.renderGrid().blockchain}</div>
       </div>
     );
   }
