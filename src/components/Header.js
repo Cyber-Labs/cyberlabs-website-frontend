@@ -100,10 +100,10 @@ class Header extends Component {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://cyber-labs.github.io/sos"
+                  href="https://resources.cyberlabs.club/"
                   style={{color: "red"}}
                 >
-                  SOS
+                  Get Started
                 </a>
               </li>
             </ul>
