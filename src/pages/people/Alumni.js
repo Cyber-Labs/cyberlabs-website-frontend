@@ -32,7 +32,7 @@ class Alumni extends Component {
                         width="250px"
                         style={{
                           filter: loading ? "blur(8px)" : "blur(0)",
-                          objectFit: "cover"
+                          objectFit: "cover",
                         }}
                       />
                     )}
@@ -68,29 +68,13 @@ class Alumni extends Component {
         </div>
         <div className="container">
           <center>
-            <h1>2016</h1>
+            <h1>2022</h1>
           </center>
-          <div className="portfolio-grid">{this.renderFields("2016")}</div>
+          <div className="portfolio-grid">{this.renderFields("2022")}</div>
           <center>
-            <h1>2017</h1>
+            <h1>2023</h1>
           </center>
-          <div className="portfolio-grid">{this.renderFields("2017")}</div>
-          <center>
-            <h1>2018</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2018")}</div>
-          <center>
-            <h1>2019</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2019")}</div>
-          <center>
-            <h1>2020</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2020")}</div>
-          <center>
-            <h1>2021</h1>
-          </center>
-          <div className="portfolio-grid">{this.renderFields("2021")}</div>
+          <div className="portfolio-grid">{this.renderFields("2023")}</div>
         </div>
       </div>
     );
