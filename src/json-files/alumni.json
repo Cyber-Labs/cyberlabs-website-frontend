@@ -134,7 +134,7 @@
     "img": "rishabh-tiwari.jpg"
   },
   {
-    "yearOfGrad": "2022",
+    "yearOfGrad": "2023",
     "email": "arnav.18je0156@am.iitism.ac.in",
     "name": "Arnav Chavan",
     "team": "Machine Learning",
@@ -569,20 +569,6 @@
     "yearOfGrad": "2023"
   },
   {
-    "name": "Mrinal Pathak",
-    "team": "Android",
-    "email": "mrinal.19je0538@ap.iitism.ac.in",
-    "contactNo": 7081702030,
-    "links": {
-      "github": "https://github.com/mrinalpathak16",
-      "linkedin": "https://www.linkedin.com/in/mrinalpathak16",
-      "facebook": "https://www.facebook.com/mrinal.pathak.16/"
-    },
-    "about": "Android, Java, C++, Retrofit, Glide, Firebase",
-    "img": "mrinal-pathak.jpg",
-    "yearOfGrad": "2023"
-  },
-  {
     "name": "Bhavesh Sharma",
     "team": "Android",
     "email": "bhavesh.19je0235@ee.iitism.ac.in",
@@ -670,21 +656,6 @@
     "yearOfGrad": "2023"
   },
   {
-    "name": "Mohit Agarwal",
-    "team": "Cyber Security",
-    "email": "masrt.19JE0532@ce.iitism.ac.in",
-    "contactNo": 8637570653,
-    "links": {
-      "github": "https://github.com/Masrt200",
-      "linkedin": "https://www.linkedin.com/in/mohit-agarwal-3557231a2/",
-      "facebook": "https://www.facebook.com/profile.php?id=100016565622139",
-      "website": "https://masrt200.github.io/hacker-blog/"
-    },
-    "about": "Wandering in what was cool, eons ago.",
-    "img": "mohit-agrawal.jpeg",
-    "yearOfGrad": "2023"
-  },
-  {
     "name": "Jai Gupta",
     "team": "Cyber Security",
     "email": "jaiguptanick.19je0394@pe.iitism.ac.in",
@@ -725,20 +696,6 @@
     },
     "about": "ML-DL Enthusiast, Django Beginner, Active Kaggler, DevOps Freak.",
     "img": "pratik-bedre.jpeg",
-    "yearOfGrad": "2023"
-  },
-  {
-    "name": "Taneesh Gupta",
-    "team": "Machine Learning",
-    "email": "taneesh.19je0853@ap.iitism.ac.in",
-    "contactNo": 9783665870,
-    "links": {
-      "github": "https://github.com/tanish-g",
-      "linkedin": "https://in.linkedin.com/in/taneesh-gupta-4b4073199",
-      "facebook": "https://m.facebook.com/profile.php?id=100008217510157"
-    },
-    "about": "ML-DL Enthusiast,Kaggler, Competitive Coder,Pytorch,C++,Python",
-    "img": "tanish_gupta.jpg",
     "yearOfGrad": "2023"
   },
   {
@@ -794,19 +751,6 @@
     "yearOfGrad": "2023"
   },
   {
-    "name": "Pawan Kumar Sahu",
-    "team": "Machine Learning",
-    "email": "pks.19je0600@me.iitism.ac.in",
-    "contactNo": 7004784667,
-    "links": {
-      "github": "https://github.com/Pawan-KS",
-      "linkedin": "https://www.linkedin.com/in/pawan-sahu-465657177/"
-    },
-    "about": "I'm all about ML, DL, Kaggle, Competitive coding, Sketching, Gaming and Netflix",
-    "img": "pawan-kumar-sahu.jpg",
-    "yearOfGrad": "2023"
-  },
-  {
     "name": "Taresh Rajput",
     "team": "Machine Learning",
     "email": "tareshrajput18.19je0859@ee.iitism.ac.in",
@@ -818,21 +762,6 @@
     },
     "about": "AI/DL Enthusiast, NLP, Kaggler, Pytorch, Python, Competitive Programming, Gaming and Netflix",
     "img": "taresh-rajput.jpg",
-    "yearOfGrad": "2023"
-  },
-  
-  {
-    "name": "Piyush Pandey",
-    "team": "Machine Learning",
-    "email": "piyushpandey.19je0607@me.iitism.ac.in",
-    "contactNo": 8572928665,
-    "links": {
-      "github": "https://github.com/P-yushh",
-      "linkedin": "https://www.linkedin.com/in/piyush-pandey-65b446139/",
-      "facebook": "https://www.facebook.com/piyush.pandey.14473426/"
-    },
-    "about": "ML - DL Enthusiast, Kaggler, CP beginner, Cyber-Security Novice, Gamer(Not-Hardcore), Anime Lover, Music Maniac",
-    "img": "piyush-pandey.jpg",
     "yearOfGrad": "2023"
   },
   

@@ -1,6 +1,74 @@
 [
-
-  
+  {
+    "name": "Taneesh Gupta",
+    "team": "Machine Learning",
+    "email": "taneesh.19je0853@ap.iitism.ac.in",
+    "contactNo": 9783665870,
+    "links": {
+      "github": "https://github.com/tanish-g",
+      "linkedin": "https://in.linkedin.com/in/taneesh-gupta-4b4073199",
+      "facebook": "https://m.facebook.com/profile.php?id=100008217510157"
+    },
+    "about": "ML-DL Enthusiast,Kaggler, Competitive Coder,Pytorch,C++,Python",
+    "img": "tanish_gupta.jpg",
+    "yearOfPassing": "2024"
+  },
+  {
+    "name": "Mrinal Pathak",
+    "team": "Android",
+    "email": "mrinal.19je0538@ap.iitism.ac.in",
+    "contactNo": 7081702030,
+    "links": {
+      "github": "https://github.com/mrinalpathak16",
+      "linkedin": "https://www.linkedin.com/in/mrinalpathak16",
+      "facebook": "https://www.facebook.com/mrinal.pathak.16/"
+    },
+    "about": "Android, Java, C++, Retrofit, Glide, Firebase",
+    "img": "mrinal-pathak.jpg",
+    "yearOfGrad": "2023"
+  },
+  {
+    "name": "Pawan Kumar Sahu",
+    "team": "Machine Learning",
+    "email": "pks.19je0600@me.iitism.ac.in",
+    "contactNo": 7004784667,
+    "links": {
+      "github": "https://github.com/Pawan-KS",
+      "linkedin": "https://www.linkedin.com/in/pawan-sahu-465657177/"
+    },
+    "about": "I'm all about ML, DL, Kaggle, Competitive coding, Sketching, Gaming and Netflix",
+    "img": "pawan-kumar-sahu.jpg",
+    "yearOfPassing": "2024"
+  },
+  {
+    "name": "Mohit Agarwal",
+    "team": "Cyber Security",
+    "email": "masrt.19JE0532@ce.iitism.ac.in",
+    "contactNo": 8637570653,
+    "links": {
+      "github": "https://github.com/Masrt200",
+      "linkedin": "https://www.linkedin.com/in/mohit-agarwal-3557231a2/",
+      "facebook": "https://www.facebook.com/profile.php?id=100016565622139",
+      "website": "https://masrt200.github.io/hacker-blog/"
+    },
+    "about": "Wandering in what was cool, eons ago.",
+    "img": "mohit-agrawal.jpeg",
+    "yearOfPassing": "2024"
+  },
+  {
+    "name": "Piyush Pandey",
+    "team": "Machine Learning",
+    "email": "piyushpandey.19je0607@me.iitism.ac.in",
+    "contactNo": 8572928665,
+    "links": {
+      "github": "https://github.com/P-yushh",
+      "linkedin": "https://www.linkedin.com/in/piyush-pandey-65b446139/",
+      "facebook": "https://www.facebook.com/piyush.pandey.14473426/"
+    },
+    "about": "ML - DL Enthusiast, Kaggler, CP beginner, Cyber-Security Novice, Gamer(Not-Hardcore), Anime Lover, Music Maniac",
+    "img": "piyush-pandey.jpg",
+    "yearOfPassing": "2024"
+  }, 
   {
     "name": "Pratham Pahariya",
     "team": "Android",
@@ -830,7 +898,7 @@
     "email": "21je0184@iitism.ac.in",
     "contactNo": 8074725017,
     "about": "MnC undergrad||Full Stack Web Developer|| Competitive Coding Enthusiast",
-    "yearOfPassing": "2025",
+    "yearOfPassing": "2026",
     "links": {
       "github": "https://github.com/ashrithareddy-8074",
       "linkedin": "https://www.linkedin.com/in/ashritha-reddy-annadi-ba4274228",
@@ -1153,27 +1221,12 @@
     "img": "aditya_kumar.jpg"
   },
   {
-    "name": "Priyanshu Sharma",
-    "team": "Machine Learning",
-    "email": "21je0714@iitism.ac.in",
-    "contactNo": 8005776763,
-    "about": "MnC undergrad || ML/AI Enthusiast || Artfreak",
-    "yearOfPassing": "2025",
-    "links": {
-      "github": "https://github.com/PriyanshuSharma0222",
-      "linkedin": "https://www.linkedin.com/in/priyanshu-sharma-a07412227/",
-      "instagram": "https://www.instagram.com/priyanshusharma0222/",
-      "facebook": "https://www.facebook.com/priyanshusharma0222"
-    },
-    "img": "priyanshu_sharma.jpg"
-  },
-  {
     "name": "Pratiksha Mishra ",
     "team": "Web Development",
     "email": "21je0690@iitism.ac.in",
     "contactNo": 8830725260,
     "about": "Full Stack Developer || C, C++ || Competitive Programmer || Artfreak",
-    "yearOfPassing": "2025",
+    "yearOfPassing": "2026",
     "links": {
       "github": "https://github.com/mishrapratiksha26",
       "linkedin": "https://www.linkedin.com/in/pratiksha-mishra-74b549226"
@@ -1254,7 +1307,7 @@
     "email": "21je0846@iitism.ac.in",
     "contactNo": 8637831983,
     "about": "Full Stack Developer || MNC",
-    "yearOfPassing": "2025",
+    "yearOfPassing": "2026",
     "links": {
       "github": "https://github.com/Imposterssn",
       "linkedin": "https://www.linkedin.com/in/saumya-subhra-nandi-4a3800223/"
@@ -1655,7 +1708,7 @@
     "linkedin": "https:\/\/www.linkedin.com\/in\/achal-saxena-332898187\/",
     "instagram": "https:\/\/www.instagram.com\/a_c_h_a_l2411\/"
   },
-  "about": "hardworking and enthusiastic sophomore having keen interest in UI\/UX designing and a strong passion to use my skills and work in the practical world",
+  "about": "I am skilled in all aspects of the UI/UX design process, from user research and ideation to prototyping and testing. I am also proficient in a variety of design tools, including Figma and also a passionate debater with good communication skills.",
   "img": "achal-saxena.jpg"
  },
  {
@@ -1675,7 +1728,7 @@
  {
   "yearOfPassing": "2026",
   "name": "Alok Raj",
-  "team": "Machine Learning ",
+  "team": "Machine Learning",
   "email": "22je0091@iitism.ac.in",
   "contactNo": 8709414158,
   "about": "Excelsior",
