@@ -222,6 +222,22 @@
     "yearOfPassing": 2024
   },
   {
+    "name": "Aayush Giri",
+    "team": "Blockchain",
+    "email": "20je0012@ece.iitism.ac.in",
+    "contactNo": 7661835084,
+    "links": {
+      "github": "https://github.com/Giri-Aayush",
+      "linkedin": "https://www.linkedin.com/in/aayush-giri/",
+      "medium": "https://medium.com/@aayushgiri1234",
+      "instagram": "https://www.instagram.com/_aayush_giri_/",
+      "twitter": "https://twitter.com/AayushStack"
+    },
+    "about": "📚 Blockchain Developer | 🎓 IIT-ISM 24' | 🏆 Ethereum Protocol Fellow | 🌍 Open Source Contributor | 💸 DeFi Enthusiast | ⚙️ Solidity Expert | 🏅 ETHGlobal winner X3",
+    "img": "aayush-giri.jpg",
+    "yearOfPassing": "2024"
+  },
+  {
     "name": "Anisha Datta",
     "team": "Android",
     "email": "20je0137@ece.iitism.ac.in",
@@ -274,8 +290,50 @@
     },
     "about": "Comder || Develomper || Pro Stamlker",
     "img": "garvit-dua.jpg",
-    "yearOfPassing": 2024
+    "yearOfPassing": "2024"
   },
+  {
+    "name": "Aditi Singh",
+    "team": "Blockchain",
+    "email": "20je0052@cve.iitism.ac.in",
+    "contactNo": 7829656256,
+    "links": {
+      "github": "https:\/\/github.com\/aditi-gosain",
+      "linkedin": "https:\/\/www.linkedin.com\/in\/aditigosain\/",
+      "twitter": "https:\/\/twitter.com\/adtgosain"
+    },
+    "about": "Jack of all trades, master of none. Currently exploring blockchain.",
+    "img": "aditi-singh.jpg",
+    "yearOfPassing": "2024"
+   },
+   {
+    "name": "Hemanth Tella",
+    "team": "Blockchain",
+    "email": "20je1027@am.iitism.ac.in",
+    "contactNo": 7981161575,
+    "links": {
+      "github": "https:\/\/github.com\/Deus219",
+      "linkedin": "https:\/\/www.linkedin.com\/in\/hemanth-tella-538456171\/",
+      "twitter": "https:\/\/twitter.com\/HemanthTella"
+    },
+    "about": "Crypto-curious, blockchain explorer, and cryptography aficionado.",
+    "img": "hemanth-tella.jpg",
+    "yearOfPassing": "2025"
+   },
+   {
+    "name": "Pranay Pandey",
+    "team": "Blockchain",
+    "email": "20je0704@am.iitism.ac.in",
+    "contactNo": 7597227139,
+    "about": "Passionate about the intersection of Mathematics, Finance, and Computer Science. Smart contract and backend developer",
+    "img": "pranay-pandey.jpg",
+    "links": {
+      "github": "https:\/\/github.com\/Pranay-Pandey",
+      "linkedin": "https:\/\/www.linkedin.com\/in\/pranay-pandey-ba1a11210\/",
+      "medium": "https:\/\/medium.com\/@pranaypandeyofficial"
+    },
+    "yearOfPassing": "2025"
+   },
   {
     "name": "Milan Mundhra",
     "team": "Web Development",
@@ -862,7 +920,7 @@
       "instagram": "https://www.instagram.com/digvijay__anand/",
       "quora": "https://www.quora.com/profile/Digvijay-Anand-3"
     },
-    "img": "digvijay_anand.jpg"
+    "img": "digvijay-anand.jpg"
   },
   {
     "name": "Vivek Kumar",
@@ -1829,6 +1887,34 @@
   "img": "siddharth-aggarwal.jpg"
  },
  {
+  "yearOfPassing": "2027",
+  "name": "Darshan Hittnalli ",
+  "team": "Cyber Security",
+  "email": "22je0295@iitism.ac.in",
+  "contactNo": 8618509392,
+  "GitHub": "",
+  "LinkedIn": "",
+  "links": {
+    "github": "https:\/\/github.com\/izmelucifer17",
+    "linkedin": "https:\/\/www.linkedin.com\/in\/darshan-hittnalli-1972b9255"
+  },
+  "about": "Cybersecurity Enthusiast "
+ },
+ {
+  "yearOfPassing": "2026",
+  "name": "Srushti Chaudhari ",
+  "team": "Graphic Design",
+  "email": "22je0280@iitism.ac.in",
+  "contactNo": 7248945306,
+  "about": "CSE Undergrad || UI\/UX Enthusiast",
+  "links": {
+    "github": "https:\/\/github.com\/srushtichaudhari7",
+    "linkedin": "https:\/\/www.linkedin.com\/in\/srushti-chaudhari-5421b0254",
+    "instagram": "https:\/\/www.instagram.com\/srushti_chaudhari_7"
+  },
+  "img": "shrushti-chaudhari.jpg"
+ },
+ {
   "yearOfPassing": "2026",
   "name": "Abhinav Jain",
   "team": "Cyber Security",
@@ -1855,6 +1941,19 @@
   },
   "about": "CoderAbhi27 || Competitive Programming is my sport, and debugging is my cardio.",
   "img": "abhinav-kumar.jpg"
+ },
+ {
+  "yearOfPassing": "2027",
+  "name": "Ratul Saha",
+  "team": "Web Development",
+  "email": "22je0785@iitism.ac.in",
+  "contactNo": 8240803726,
+  "about": "Single-threaded being waiting Synchronously to hang the System",
+  "links": {
+    "github": "https:\/\/github.com\/Ratul-Saha-003",
+    "linkedin": "https:\/\/www.linkedin.com\/in\/ratul-saha-047066254\/"
+  },
+  "img": "ratul-saha.jpg"
  },
  {
   "yearOfPassing": "2026",
@@ -1963,19 +2062,7 @@
   },
   "img": "devashish-sinha.jpg"
  },
- {
-  "yearOfPassing": "2027",
-  "name": "Ratul Saha",
-  "team": "Web Development",
-  "email": "22je0785@iitism.ac.in",
-  "contactNo": 8240803726,
-  "about": "Single-threaded being waiting Synchronously to hang the System",
-  "links": {
-    "github": "https:\/\/github.com\/Ratul-Saha-003",
-    "linkedin": "https:\/\/www.linkedin.com\/in\/ratul-saha-047066254\/"
-  },
-  "img": "ratul-saha.jpg"
- },
+ 
  {
   "yearOfPassing": "2027",
   "name": "Samyak Jha",
