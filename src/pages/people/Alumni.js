@@ -66,12 +66,26 @@ class Alumni extends Component {
             </center>
           </div>
         </div>
+        <div className="divisions">
+          <ul>
+            <li>
+              <a className="hover-effect" href="#2022">
+                2022
+              </a>
+            </li>
+            <li>
+              <a className="hover-effect" href="#2023">
+                2023
+              </a>
+            </li>
+          </ul>
+        </div>
         <div className="container">
-          <center>
+          <center id="2022">
             <h1>2022</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2022")}</div>
-          <center>
+          <center id="2023">
             <h1>2023</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2023")}</div>
