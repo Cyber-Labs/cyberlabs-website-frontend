@@ -12,6 +12,7 @@ img:hover {
   animation: glow 0.4s forwards;
 }
 
+
 img {
   border-radius: "10px";
   object-position: "50% 20%";
