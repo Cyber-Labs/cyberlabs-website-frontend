@@ -1,33 +1,5 @@
 [
   {
-    "name": "Taneesh Gupta",
-    "team": "Machine Learning",
-    "email": "taneesh.19je0853@ap.iitism.ac.in",
-    "contactNo": 9783665870,
-    "links": {
-      "github": "https://github.com/tanish-g",
-      "linkedin": "https://in.linkedin.com/in/taneesh-gupta-4b4073199",
-      "facebook": "https://m.facebook.com/profile.php?id=100008217510157"
-    },
-    "about": "ML-DL Enthusiast,Kaggler, Competitive Coder,Pytorch,C++,Python",
-    "img": "tanish_gupta.jpg",
-    "yearOfPassing": "2024"
-  },
-  {
-    "name": "Mrinal Pathak",
-    "team": "Android",
-    "email": "mrinal.19je0538@ap.iitism.ac.in",
-    "contactNo": 7081702030,
-    "links": {
-      "github": "https://github.com/mrinalpathak16",
-      "linkedin": "https://www.linkedin.com/in/mrinalpathak16",
-      "facebook": "https://www.facebook.com/mrinal.pathak.16/"
-    },
-    "about": "Android, Java, C++, Retrofit, Glide, Firebase",
-    "img": "mrinal-pathak.jpg",
-    "yearOfGrad": "2023"
-  },
-  {
     "name": "Pawan Kumar Sahu",
     "team": "Machine Learning",
     "email": "pks.19je0600@me.iitism.ac.in",
@@ -38,7 +10,7 @@
     },
     "about": "I'm all about ML, DL, Kaggle, Competitive coding, Sketching, Gaming and Netflix",
     "img": "pawan-kumar-sahu.jpg",
-    "yearOfPassing": "2024"
+    "yearOfGrad": "2024"
   },
   {
     "name": "Mohit Agarwal",
@@ -53,7 +25,7 @@
     },
     "about": "Wandering in what was cool, eons ago.",
     "img": "mohit-agrawal.jpeg",
-    "yearOfPassing": "2024"
+    "yearOfGrad": "2024"
   },
   {
     "name": "Piyush Pandey",
@@ -67,7 +39,7 @@
     },
     "about": "ML - DL Enthusiast, Kaggler, CP beginner, Cyber-Security Novice, Gamer(Not-Hardcore), Anime Lover, Music Maniac",
     "img": "piyush-pandey.jpg",
-    "yearOfPassing": "2024"
+    "yearOfGrad": "2024"
   }, 
   {
     "name": "Pratham Pahariya",
@@ -81,7 +53,7 @@
     },
     "about": "Android Enthusiast, Java, Kotlin, C++, Firebase, Retrofit, Competitive Coder",
     "img": "pratham-pahariya.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Saksham Aggarwal",
@@ -95,7 +67,7 @@
     },
     "about": "Wannabe ML guy",
     "img": "saksham-aggarwal.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Aman Dwivedi",
@@ -109,23 +81,9 @@
     },
     "about": "Full Stack Web Developer || Competitive programmer || Open Source Enthusiast",
     "img": "aman-dwivedi.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
-  {
-    "name": "Nikhil Ganta",
-    "team": "Android",
-    "email": "20je0365@am.iitism.ac.in",
-    "contactNo": 7901519181,
-    "links": {
-      "github": "https://github.com/GantaNikhil",
-      "linkedin": "https://www.linkedin.com/in/nikhil-ganta-225b99210/",
-      "facebook": "https://www.facebook.com/nikhil.ganta.77/",
-      "instagram": "https://www.instagram.com/_nikhil_019/ "
-    },
-    "about": "MnC Undergrad | Android Developer | Competitive Coder | Open Source Enthusiast",
-    "img": "nikhil-ganta.jpg",
-    "yearOfPassing": 2024
-  },
+ 
   {
     "name": "Aryamaan Thakur",
     "team": "Machine Learning",
@@ -143,7 +101,7 @@
     },
     "about": "M&C Undergrad | ML-DL enthusiast | Y3J5cHRvX24wMGI=",
     "img": "aryamaan-thakur.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Kushagra Bhushan",
@@ -159,7 +117,7 @@
     },
     "about": "MnC Undergrad | Aspiring Data Scientist and ML Enthusiast | Metal Head | I like really fast cars.",
     "img": "kushagra-bhushan.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Nahush Lele",
@@ -173,7 +131,7 @@
     },
     "about": "EP Undergrad || ML-AI Enthusiast || Physics is bae || I also love Maths and Logic",
     "img": "nahush-lele.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Rohit Kumar",
@@ -188,7 +146,7 @@
     },
     "about": "MERN Stack Developer || Competitive Coder",
     "img": "rohit-kumar.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Aakash Rana",
@@ -205,7 +163,7 @@
     },
     "about": "CSE Undergrad | ML-DL Enthusiast | Kaggler | Potterhead | I am the one who codes | Interested in music",
     "img": "aakash-rana.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Harsh Gupta",
@@ -219,7 +177,7 @@
     },
     "about": " Competitive coder | MERN  Stack Developer | ECE Undergrad ",
     "img": "harsh-gupta.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Aayush Giri",
@@ -235,21 +193,9 @@
     },
     "about": "📚 Blockchain Developer | 🎓 IIT-ISM 24' | 🏆 Ethereum Protocol Fellow | 🌍 Open Source Contributor | 💸 DeFi Enthusiast | ⚙️ Solidity Expert | 🏅 ETHGlobal winner X3",
     "img": "aayush-giri.jpg",
-    "yearOfPassing": "2024"
+    "yearOfGrad": "2024"
   },
-  {
-    "name": "Anisha Datta",
-    "team": "Android",
-    "email": "20je0137@ece.iitism.ac.in",
-    "contactNo": 9641918429,
-    "links": {
-      "github": "https://github.com/anisha-01-phoenix",
-      "linkedin": "https://www.linkedin.com/in/anisha-datta-994931200/"
-    },
-    "about": "Android Application Developer | ECE Undergrad",
-    "img": "anisha-datta.jpg",
-    "yearOfPassing": 2024
-  },
+  
   {
     "name": "Vanshika",
     "team": "Graphic Design",
@@ -262,7 +208,7 @@
     },
     "about": "(CSE Undergrad | UI/UX Designer | Competitive programmer).psd",
     "img": "vanshika.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Abdullah",
@@ -276,22 +222,9 @@
     },
     "about": "CSE Undergrad || Android Devloper || Competitive Coder || Loves solving Riddles || Robotics",
     "img": "abdullah.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
-  {
-    "name": "Garvit Dua",
-    "team": "Android",
-    "email": "20je0366@am.iitism.ac.in",
-    "contactNo": 9310487217,
-    "links": {
-      "github": "https://github.com/GarvitD",
-      "linkedin": "https://www.linkedin.com/in/garvit-dua/",
-      "instagram": "https://www.instagram.com/garvitd11/"
-    },
-    "about": "Comder || Develomper || Pro Stamlker",
-    "img": "garvit-dua.jpg",
-    "yearOfPassing": "2024"
-  },
+ 
   {
     "name": "Aditi Singh",
     "team": "Blockchain",
@@ -304,37 +237,9 @@
     },
     "about": "Jack of all trades, master of none. Currently exploring blockchain.",
     "img": "aditi-singh.jpg",
-    "yearOfPassing": "2024"
+    "yearOfGrad": "2024"
    },
-   {
-    "name": "Hemanth Tella",
-    "team": "Blockchain",
-    "email": "20je1027@am.iitism.ac.in",
-    "contactNo": 7981161575,
-    "links": {
-      "github": "https:\/\/github.com\/Deus219",
-      "linkedin": "https:\/\/www.linkedin.com\/in\/hemanth-tella-538456171\/",
-      "twitter": "https:\/\/twitter.com\/HemanthTella"
-    },
-    "about": "Crypto-curious, blockchain explorer, and cryptography aficionado.",
-    "img": "hemanth-tella.jpg",
-    "yearOfPassing": "2025"
-   },
-   {
-    "name": "Pranay Pandey",
-    "team": "Blockchain",
-    "email": "20je0704@am.iitism.ac.in",
-    "contactNo": 7597227139,
-    "about": "Passionate about the intersection of Mathematics, Finance, and Computer Science. Smart contract and backend developer",
-    "img": "pranay-pandey.jpg",
-    "links": {
-      "github": "https:\/\/github.com\/Pranay-Pandey",
-      "linkedin": "https:\/\/www.linkedin.com\/in\/pranay-pandey-ba1a11210\/",
-      "medium": "https:\/\/medium.com\/@pranaypandeyofficial"
-    },
-    "yearOfPassing": "2025"
-   },
-  {
+    {
     "name": "Milan Mundhra",
     "team": "Web Development",
     "email": "20je0564@cse.iitism.ac.in",
@@ -346,7 +251,7 @@
     },
     "about": "Comder || Develomper || Pro Stamlker",
     "img": "milan-mundhra.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Prakhar Pratap Mall",
@@ -362,7 +267,7 @@
     },
     "about": "Always interested in Business development & startups and Public speaking | Motion Graphics | UI/UX/Graphic design | Learning 3D VFX | Really likes listening to songs and talking about fitness & Casual gaming",
     "img": "prakhar-pratap-mall.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Rajvi",
@@ -378,7 +283,7 @@
     },
     "about": "",
     "img": "rajvi.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Arijit Guha",
@@ -393,7 +298,7 @@
     },
     "about": "ECE Undergrad || CTF player || Pentester|| Infosec enthusiast",
     "img": "arijit-guha.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Harshit Agarwal",
@@ -408,7 +313,7 @@
     },
     "about": "Full Stack Developer || Competitive Coder || Food is mood",
     "img": "harshit-agarwal.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": "2024"
   },
   {
     "name": "Apoorva Bhardwaj",
@@ -423,7 +328,7 @@
     },
     "about": "EE undergrad || ML Enthusiast || Competitive Coder",
     "img": "apoorva-bhardwaj.jpeg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Anantarupa Hore Roy",
@@ -437,7 +342,7 @@
     },
     "about": "",
     "img": "",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Ansh Tandon",
@@ -450,7 +355,7 @@
     },
     "about": "Android App Developer || Competitive Coder",
     "img": "ansh-tandon.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Uttam Pandit",
@@ -464,7 +369,7 @@
     },
     "about": "MERN stack developer || EE undergrad",
     "img": "uttam-pandit.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Vibhor Srivastava",
@@ -478,7 +383,7 @@
     },
     "about": "ECE Undergrad||ML-DL Enthusiast||Competitive Coder",
     "img": "vibhor-srivastava.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Akash Gupta",
@@ -492,7 +397,7 @@
     },
     "about": "ECE Undergrad||ML-DL Enthusiast||Competitive Coder",
     "img": "",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Nitu kumari",
@@ -507,7 +412,7 @@
     },
     "about": "ECE undergrad || Full stack Web developer||Competitive Coder||CyberSec enthusiast",
     "img": "nitu-kumari.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Marni Sai Sanjay",
@@ -521,7 +426,7 @@
     },
     "about": "CSE undergrad || Full Stack Developer || Competitive Coder",
     "img": "marni-sai-sanjay.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Praneeth Reddy Voodem",
@@ -534,7 +439,7 @@
     },
     "about": "CSE undergrad || ML Enthusiast || Competitive Coder",
     "img": "praneeth-reddy-voodem.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Arti Yadav",
@@ -548,7 +453,7 @@
     },
     "about": "CSE undergrad || Full Stack Developer || Competitive Coder",
     "img": "arti-yadav.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Saurav Kumar",
@@ -562,7 +467,7 @@
     },
     "about": "ECE undergrad|| Android developer||Competitive coder",
     "img": "saurav-kumar.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Mohd Rehan",
@@ -578,7 +483,7 @@
     },
     "about": "EE Undergrad | ML-DL Enthusiast | Movie buff",
     "img": "mohd-rehan.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Abhishek Singh",
@@ -592,7 +497,7 @@
     },
     "about": "Fullstack web developer || Mining undergrad ",
     "img": "abhishek-singh.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Saksham Dwivedi",
@@ -606,7 +511,7 @@
     },
     "about": "PE undergrad || ML Enthusiast || Roboteer ||Competitive Coder ",
     "img": "saksham-dwivedi.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Neeraj Anand",
@@ -620,7 +525,7 @@
     },
     "about": "M&C undergrad || ML-DL Enthusiast",
     "img": "neeraj-anand.jpeg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Somya Agrawal",
@@ -633,7 +538,7 @@
     },
     "about": "M&C undergrad || ML-DL Enthusiast ",
     "img": "somya-agrawal.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Bhavya Agrawal",
@@ -647,21 +552,9 @@
     },
     "about": "CSE undergrad || Android App Developer || Competitive Coder ",
     "img": "bhavya-agrawal.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
-  {
-    "name": "Tarun Shrivastava",
-    "team": "Android",
-    "email": "20je1022@ee.iitism.ac.in",
-    "contactNo": 7441147546,
-    "links": {
-      "github": "https://github.com/Tarun-108",
-      "linkedin": "https://www.linkedin.com/in/tarun-shrivastava-661b69201/"
-    },
-    "about": "Android App Developer || Competitive Coder",
-    "img": "tarun-shrivastava.jpg",
-    "yearOfPassing": 2024
-  },
+ 
   {
     "name": "Raunak Asnani",
     "team": "Cyber Security",
@@ -676,7 +569,7 @@
     },
     "about": "CSE Undergrad || Infosec Enthusiast || Bug Bounty Hunter ||CTF player || Pentester || Gamer",
     "img": "raunak-asnani.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Himanshu Das",
@@ -693,7 +586,7 @@
     },
     "about": "CSE Undergrad || Infosec Enthusiast || Pentester || CTF Player",
     "img": "himanshu-das.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Ayush Budhiraja",
@@ -723,7 +616,7 @@
     },
     "about": "Interested in startups and finance ( mainly quantitative finance) | interested in UI UX design and logos | ",
     "img": "vedant-kothiya.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Syed Areeb Ahmad",
@@ -737,7 +630,7 @@
     },
     "about": "ECE Undergrad || AI/DL Enthusiast || Kaggler",
     "img": "syed-areeb-ahmad.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Soutrik Das",
@@ -750,7 +643,7 @@
     },
     "about": "CSE || MERN Stack Developer || Competitive Coder",
     "img": "",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Sarjita Patra",
@@ -764,7 +657,7 @@
     },
     "about": "MnC - Undergrad || ML - DL Enthausiast",
     "img": "sarjita-patra.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Shreyansh Jain",
@@ -779,7 +672,7 @@
     },
     "about": "InfoSec enthusiast || MERN stack developer || Competitive coder || Robotics enthusiast",
     "img": "shreyansh-jain.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Ishaan Chaturvedi",
@@ -793,7 +686,7 @@
     },
     "about": "EP-Undergrad ||ML-DL Enthusiast",
     "img": "ishaan-chaturvedi.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Deeksha",
@@ -805,7 +698,7 @@
     },
     "about": "",
     "img": "",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Ayush Ajay",
@@ -820,7 +713,7 @@
     },
     "about": "ECE Undergrad || Competitive coder || Pentester || CTF Player",
     "img": "",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
   {
     "name": "Kundan Kumar Kushwaha",
@@ -834,7 +727,21 @@
     },
     "about": "Fullstack web developer || Mining undergrad || C++ ",
     "img": "kundan-kumar-kushwaha.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
+  },
+  {
+    "name": "Taneesh Gupta",
+    "team": "Machine Learning",
+    "email": "taneesh.19je0853@ap.iitism.ac.in",
+    "contactNo": 9783665870,
+    "links": {
+      "github": "https://github.com/tanish-g",
+      "linkedin": "https://in.linkedin.com/in/taneesh-gupta-4b4073199",
+      "facebook": "https://m.facebook.com/profile.php?id=100008217510157"
+    },
+    "about": "ML-DL Enthusiast,Kaggler, Competitive Coder,Pytorch,C++,Python",
+    "img": "tanish_gupta.jpg",
+      "yearOfGrad": "2024"
   },
   {
     "name": "Janhavi Singh",
@@ -848,8 +755,79 @@
     },
     "about": "ECE Undergrad || ML - DL Enthusiast || Interested in IoT || Stay away from my headphones ",
     "img": "janhavi-singh.jpg",
-    "yearOfPassing": 2024
+    "yearOfGrad": 2024
   },
+ {
+    "name": "Anisha Datta",
+    "team": "Android",
+    "email": "20je0137@ece.iitism.ac.in",
+    "contactNo": 9641918429,
+    "links": {
+      "github": "https://github.com/anisha-01-phoenix",
+      "linkedin": "https://www.linkedin.com/in/anisha-datta-994931200/"
+    },
+    "about": "Android Application Developer | ECE Undergrad",
+    "img": "anisha-datta.jpg",
+    "yearOfGrad": "2024"
+  },
+   {
+    "name": "Nikhil Ganta",
+    "team": "Android",
+    "email": "20je0365@am.iitism.ac.in",
+    "contactNo": 7901519181,
+    "links": {
+      "github": "https://github.com/GantaNikhil",
+      "linkedin": "https://www.linkedin.com/in/nikhil-ganta-225b99210/",
+      "facebook": "https://www.facebook.com/nikhil.ganta.77/",
+      "instagram": "https://www.instagram.com/_nikhil_019/ "
+    },
+    "about": "MnC Undergrad | Android Developer | Competitive Coder | Open Source Enthusiast",
+    "img": "nikhil-ganta.jpg",
+    "yearOfGrad": "2024"
+  },
+   {
+    "name": "Tarun Shrivastava",
+    "team": "Android",
+    "email": "20je1022@ee.iitism.ac.in",
+    "contactNo": 7441147546,
+    "links": {
+      "github": "https://github.com/Tarun-108",
+      "linkedin": "https://www.linkedin.com/in/tarun-shrivastava-661b69201/"
+    },
+    "about": "Android App Developer || Competitive Coder",
+    "img": "tarun-shrivastava.jpg",
+    "yearOfGrad": 2024
+  },
+   {
+    "name": "Garvit Dua",
+    "team": "Android",
+    "email": "20je0366@am.iitism.ac.in",
+    "contactNo": 9310487217,
+    "links": {
+      "github": "https://github.com/GarvitD",
+      "linkedin": "https://www.linkedin.com/in/garvit-dua/",
+      "instagram": "https://www.instagram.com/garvitd11/"
+    },
+    "about": "Comder || Develomper || Pro Stamlker",
+    "img": "garvit-dua.jpg",
+    "yearOfGrad": "2024"
+  },
+  
+   {
+    "name": "Pranay Pandey",
+    "team": "Blockchain",
+    "email": "20je0704@am.iitism.ac.in",
+    "contactNo": 7597227139,
+    "about": "Passionate about the intersection of Mathematics, Finance, and Computer Science. Smart contract and backend developer",
+    "img": "pranay-pandey.jpg",
+    "links": {
+      "github": "https:\/\/github.com\/Pranay-Pandey",
+      "linkedin": "https:\/\/www.linkedin.com\/in\/pranay-pandey-ba1a11210\/",
+      "medium": "https:\/\/medium.com\/@pranaypandeyofficial"
+    },
+    "yearOfPassing": "2025"
+   },
+ 
   {
     "name": "Vaibhav Jain",
     "team": "Machine Learning",
@@ -950,20 +928,7 @@
     },
     "img": "deepak_maan.jpg"
   },
-  {
-    "name": "Ashritha Reddy Annadi",
-    "team": "Web Development",
-    "email": "21je0184@iitism.ac.in",
-    "contactNo": 8074725017,
-    "about": "MnC undergrad||Full Stack Web Developer|| Competitive Coding Enthusiast",
-    "yearOfPassing": "2026",
-    "links": {
-      "github": "https://github.com/ashrithareddy-8074",
-      "linkedin": "https://www.linkedin.com/in/ashritha-reddy-annadi-ba4274228",
-      "instagram": "https://www.instagram.com/accounts/login/?next=/annadiashritha.an/"
-    },
-    "img": "ashritha_reddy_annadi.jpg"
-  },
+  
   {
     "name": "Abhinav",
     "team": "Cyber Security",
@@ -978,19 +943,7 @@
     },
     "img": "abhinav.jpg"
   },
-  {
-    "name": "Yashasvi Tripathi ",
-    "team": "Android",
-    "email": "21je1072@iitism.ac.in",
-    "contactNo": 8381855866,
-    "about": "Interested in Android and Robotics. Want to excel in both and then integrate them to build useful projects.",
-    "yearOfPassing": "2025",
-    "links": {
-      "github": "https://github.com/KiraCodes6103",
-      "linkedin": "https://www.linkedin.com/in/yashasvi-tripathi-114738222"
-    },
-    "img": ""
-  },
+  
   {
     "name": "Gyanendra Parmaar ",
     "team": "Machine Learning",
@@ -1208,20 +1161,7 @@
     },
     "img": "vishak_k_bhat.jpg"
   },
-  {
-    "name": "Prajal Gupta",
-    "team": "Android",
-    "email": "21je0667@iitism.ac.in",
-    "contactNo": 8103452738,
-    "about": "Android Developer || Competitive Programming",
-    "yearOfPassing": "2025",
-    "links": {
-      "github": "https://github.com/prajalg",
-      "linkedin": "https://www.linkedin.com/in/prajal-gupta-4b8b7922b/",
-      "instagram": "https://www.facebook.com/vishakb1/"
-    },
-    "img": "pranjal_gupta.jpg"
-  },
+  
   {
     "name": "Aryan Rajani",
     "team": "Machine Learning",
@@ -1278,19 +1218,7 @@
     },
     "img": "aditya_kumar.jpg"
   },
-  {
-    "name": "Pratiksha Mishra ",
-    "team": "Web Development",
-    "email": "21je0690@iitism.ac.in",
-    "contactNo": 8830725260,
-    "about": "Full Stack Developer || C, C++ || Competitive Programmer || Artfreak",
-    "yearOfPassing": "2026",
-    "links": {
-      "github": "https://github.com/mishrapratiksha26",
-      "linkedin": "https://www.linkedin.com/in/pratiksha-mishra-74b549226"
-    },
-    "img": "pratiksha_mishra.jpg"
-  },
+  
   {
     "name": "Tilakraj Baghel",
     "team": "Android",
@@ -1478,19 +1406,7 @@
       "instagram": "https://www.instagram.com/its_me_naman.shankar/"
     }
   },
-  {
-    "name": "Paras Dhumne",
-    "team": "Blockchain",
-    "email": "21je0629@iitism.ac.in",
-    "contactNo": 8830335654,
-    "about": "MnC Undergrad || Blockchain enthusiast || Still exploring",
-    "yearOfPassing": "2025",
-    "img": "",
-    "links": {
-      "github": "https://github.com/Paras0452",
-      "linkedin": "https://www.linkedin.com/in/paras-dhumne-2a0748238/"
-    }
-  },
+  
   {
     "name": "Udit Singh Chauhan",
     "team": "Blockchain",
@@ -1518,45 +1434,8 @@
       "instagram": "https://www.instagram.com/anuragiit/?igshid=YWYwM2I1ZDdmOQ%3D%3D"
     }
   },
-  {
-    "name": "Aryan Shrivastava",
-    "team": "Blockchain",
-    "email": "21je0177@iitism.ac.in",
-    "contactNo": 8368641187,
-    "about": "PE undergrad|| Blockchain Enthusiast || Web3 || Content Writer || Front-End developer",
-    "yearOfPassing": "2025",
-    "img": "aryan-shrivastava.jpg",
-    "links": {
-      "github": "https://github.com/Aryan0212",
-      "linkedin": "https://www.linkedin.com/in/aryan-shrivastava-ba91a3232"
-    }
-  },
-  {
-    "name": "vaishnavi pawar",
-    "team": "Blockchain",
-    "email": "21je0640@iitism.ac.in",
-    "contactNo": 8485001150,
-    "about": "Mech Undergra||Blockchain Enthusiast||Photography||Content writer ||electronics Enthusiasts",
-    "yearOfPassing": "2025",
-    "img": "vaishnavi_pawar.jpg",
-    "links": {
-      "github": "https://github.com/vs-29",
-      "linkedin": "https://www.linkedin.com/in/vaishnavi-pawar-944402227/"
-    }
-  },
-  {
-    "name": "Drethi Kapila",
-    "team": "Blockchain",
-    "email": "21je0323@iitism.ac.in",
-    "contactNo": 7021536316,
-    "about": "Blockchain Developer|Web3 Enthusiast|Web developer",
-    "yearOfPassing": "2025",
-    "img": "drethi-kapila.jpg",
-    "links": {
-      "github": "https://github.com/drethikapila",
-      "linkedin": "https://www.linkedin.com/in/drethi-kapila-6719a222a"
-    }
-  },
+ 
+ 
   {
     "name": "Debarun Chakrabortty",
     "team": "Blockchain",
@@ -1570,33 +1449,7 @@
       "linkedin": "https://www.linkedin.com/in/debarun-chakrabortty-34235b210/"
     }
   },
-  {
-    "name": "Aman Agarwal",
-    "team": "Blockchain",
-    "email": "21je0080@iitism.ac.in",
-    "contactNo": 9163080411,
-    "about": "Co-Founder @Grull | Tech Intern @Mudrex | Ex-Developer Intern at Platter | | Fintech Geek | Blockchain Developer | Full Stac Django Developer",
-    "yearOfPassing": "2025",
-    "img": "aman-agarwal.jpg",
-    "links": {
-      "github":"https://github.com/codeamanwal",
-        "linkedin": "https://www.linkedin.com/in/aman-agarwal2003",
-        "twitter":"https://twitter.com/Aman_A02"
-    }
-  },
-  {
-    "name": "Divyanshu Tyagi",
-    "team": "Blockchain",
-    "email": "21je0321@iitism.ac.in",
-    "contactNo": 8800642059,
-    "about": "ESE undergrad || Blockchain Enthusiast || Competitive Programmer || Full Stack WEB Developer",
-    "yearOfPassing": "2025",
-    "img": "",
-    "links": {
-      "github": "https://github.com/github2python",
-      "linkedin": "https://www.linkedin.com/in/divyanshu-tyagi-07604a224/"
-    }
-  },
+
   {
     "name": "Ayush Ranjan",
     "team": "Blockchain",
@@ -1625,46 +1478,8 @@
       "linkedin": "https://www.linkedin.com/in/om-santoshwar-0964a1227"
     }
   },
-  {
-    "name": "Sajal Singhal",
-    "team": "Blockchain",
-    "email": "21je0802@iitism.ac.in",
-    "contactNo": 8218633603,
-    "about": "CSE Undergrad || Blockchain Developer || Frontend Developer || Competitive Programmer || Poetry || Singing",
-    "yearOfPassing": "2025",
-    "img": "sajal_singhal.jpeg",
-    "links": {
-      "github": "https://github.com/singhalsajal2003",
-      "linkedin": "https://www.linkedin.com/in/sajal-singhal-7b9b79224/"
-    }
-  },
-  {
-    "name": "Anmol Chhabra",
-    "team": "Blockchain",
-    "email": "21je0133@iitism.ac.in",
-    "contactNo": 9468871500,
-    "about": "Blockchain | MERN | Laravel-PHP-MySQL Developer | Loving DSA and Piano",
-    "yearOfPassing": "2025",
-    "img": "anmol-chhabra.jpg",
-    "links": {
-      "github": "https://github.com/anmolchhabra21",
-      "linkedin": "https://www.linkedin.com/in/anmol-chhabra-41079922a/",
-      "website": "https://anmolchhabra21.github.io/anmolchhabra/"
-    }
-  },
-  {
-    "name": "Vaibhav Kumar Tiwari",
-    "team": "Blockchain",
-    "email": "21je1017@iitism.ac.in",
-    "contactNo": 6386334503,
-    "about": "Blockchain Developer || Competitve Programmer || Web Developer || Overthinker || Weeb",
-    "yearOfPassing": "2025",
-    "img": "vaibhav-kumar-tiwari.jpg",
-    "links": {
-      "github": "https://github.com/imvktiwari",
-      "linkedin": "https://www.linkedin.com/in/vaibhav-kumar-tiwari-98a02b238/"
-    }
-  },
+  
+ 
   {
     "name": "Ronak Shah",
     "team": "Graphic Design",
@@ -2049,19 +1864,7 @@
   },
   "img": "ganesh-talwar.jpg"
  },
- {
-  "yearOfPassing": "2026",
-  "name": "Devashish Sinha",
-  "team": "Cyber Security",
-  "email": "22je0310@iitism.ac.in",
-  "contactNo": 9399168712,
-  "links": {
-    "github": "https:\/\/github.com\/Devadamdar69",
-    "linkedin": "www.linkedin.com\/in\/devashish-sinha-3901ab255",
-    "instagram": "https:\/\/www.instagram.com\/devashish1391\/"
-  },
-  "img": "devashish-sinha.jpg"
- },
+ 
  
  {
   "yearOfPassing": "2027",
@@ -2432,19 +2235,7 @@
   },
   "img": "nilabja-das.jpg"
  },
- {
-  "yearOfPassing": "2026",
-  "name": "Anushka Sharma ",
-  "team": "Cyber Security",
-  "email": "22je0153@iitism.ac.in",
-  "contactNo": 9958890624,
-  "about": "Cybersecurity enthusiast",
-  "links": {
-    "github": "https:\/\/github.com\/izzyanushka",
-    "linkedin": "https:\/\/www.linkedin.com\/in\/anushka-sharma-54711a259"
-  },
-  "img": "anushka-sharma.jpg"
- },
+
  {
   "yearOfPassing": "2026",
   "name": "Pratham Todi",
@@ -2486,20 +2277,7 @@
   },
   "img": "prasanth-naidu.jpg"
  },
- {
-  "yearOfPassing": "2026",
-  "name": "Debmalya Sil",
-  "team": "Cyber Security",
-  "email": "22je0298@iitism.ac.in",
-  "contactNo": 9073930729,
-  "about": "Cybersecurity Enthusiast || Paranoid ",
-  "links": {
-    "github": "https:\/\/github.com\/DebmalyaSil",
-    "linkedin": "https:\/\/www.linkedin.com\/in\/debmalya-sil-7b460a256",
-    "instagram": "https:\/\/instagram.com\/debmalyosil?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"
-  },
-  "img": "debmalya-sil.jpg"
- },
+ 
  {
   "yearOfPassing": "2026",
   "name": "Sagnik Pal",
