@@ -848,5 +848,21 @@
     "about": "MERN Stack Developer, Competitive Coder, ML enthusiast",
     "img": "abhishek-kumar-jain.jpg",
     "yearOfGrad": "2023"
+  }, 
+  {
+    "name": "Mrinal Pathak",
+    "team": "Android",
+    "email": "mrinal.19je0538@ap.iitism.ac.in",
+    "contactNo": 7081702030,
+    "links": {
+      "github": "https://github.com/mrinalpathak16",
+      "linkedin": "https://www.linkedin.com/in/mrinalpathak16",
+      "facebook": "https://www.facebook.com/mrinal.pathak.16/"
+    },
+    "about": "Android, Java, C++, Retrofit, Glide, Firebase",
+    "img": "mrinal-pathak.jpg",
+    "yearOfGrad": "2023"
   }
+  
+  
 ]
