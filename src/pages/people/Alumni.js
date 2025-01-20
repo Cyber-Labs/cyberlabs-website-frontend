@@ -78,6 +78,11 @@ class Alumni extends Component {
                 2023
               </a>
             </li>
+            <li>
+              <a className="hover-effect" href="#2024">
+                2024
+              </a>
+            </li>
           </ul>
         </div>
         <div className="container">
@@ -89,6 +94,10 @@ class Alumni extends Component {
             <h1>2023</h1>
           </center>
           <div className="portfolio-grid">{this.renderFields("2023")}</div>
+          <center id="2024">
+            <h1>2024</h1>
+          </center>
+          <div className="portfolio-grid">{this.renderFields("2024")}</div>
         </div>
       </div>
     );
