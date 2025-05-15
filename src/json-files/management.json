@@ -1,12 +1,22 @@
 [
   {
-    "name": "Dr. Sachin Tripathi",
-    "img": "sachin-tripathi.png",
+    "name": "Siddharth Aggrawal",
+    "img": "siddharth-aggrawal.jpg",
     "position": "Faculty In-charge"
   },
   {
-    "name": "Rishabh Tiwari",
-    "img": "rishabh-tiwari.jpg",
+    "name": "Saurabh Shrivastava",
+    "img": "saurabh-shrivastava.jpg",
+    "position": "Faculty In-charge"
+  },
+  {
+    "name": "Sagnik Pal",
+    "img": "sagnik-pal.png",
+    "position": "Student Coordinator"
+  },
+  {
+    "name": "Samyak Jha",
+    "img": "samyak-jha.png",
     "position": "Student Coordinator"
   }
 ]
