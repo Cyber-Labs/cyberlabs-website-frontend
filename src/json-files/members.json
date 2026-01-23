@@ -1474,20 +1474,7 @@
       },
       "img": "kabir-irsad.jpg"
   },
-  {
-      "name": "Ayushman Bharadwaj ",
-      "team": "Graphic Design",
-      "email": "23je0206@iitism.ac.in",
-      "contactNo": null,
-      "about": null,
-      "yearOfPassing": 2027,
-      "links": {
-          "github": null,
-          "linkedin": "https://www.linkedin.com/in/ayushman-bharadwaj-683257287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-          "medium": null
-      },
-      "img": null
-  },
+  
   {
       "name": "Bishwa Thakur ",
       "team": "Android",
@@ -1755,7 +1742,7 @@
       "img": "daksh-mor.jpg"
   },
   {
-      "name": "Pryam Pritam Panda",
+      "name": "Priyam Pritam Panda",
       "team": "Machine Learning",
       "email": "23je0749@iitism.ac.in",
       "contactNo": null,
@@ -2130,7 +2117,7 @@
           "linkedin": "https://www.linkedin.com/in/ayushrbaranwal/",
           "medium": null
       },
-      "img": "ayushraj-barnwal.jpg"
+      "img": "ayush_raj_barnwal.jpeg"
   },
   {
       "name": "Samarth Gupta",
