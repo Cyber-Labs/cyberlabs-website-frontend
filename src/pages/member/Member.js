@@ -74,10 +74,10 @@ class Member extends Component {
               <a className="hover-effect" href="#android">Android</a>
             </li>
             <li>
-              <a className="hover-effect" href="#graphic-design">Graphic Design</a>
+              <a className="hover-effect" href="#graphic-design">Product Design</a>
             </li>
             <li>
-              <a className="hover-effect" href="#cyber-security">Cyber Security</a>
+              <a className="hover-effect" href="#cyber-security">Information Security</a>
             </li>
             <li>
               <a className="hover-effect" href="#blockchain">Blockchain</a>
@@ -97,11 +97,11 @@ class Member extends Component {
         </center>
         <div className="members-grid">{this.renderGrid().androidD}</div>
         <center id="graphic-design">
-          <h1>Graphic Design</h1>
+          <h1>Product Design</h1>
         </center>
         <div className="members-grid">{this.renderGrid().graphicD}</div>
         <center id="cyber-security">
-          <h1>Cyber Security</h1>
+          <h1>Information Security</h1>
         </center>
         <div className="members-grid">{this.renderGrid().infoSec}</div>
         <center id="blockchain">
